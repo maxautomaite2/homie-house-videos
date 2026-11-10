@@ -1,0 +1,631 @@
+{
+ "number": 3,
+ "concept_number": 20,
+ "slug": "homie-fixes-003-warranty-vs-insurance-code-only",
+ "series_label": "HOMIE FIXES #3",
+ "topic": "Home warranty vs homeowners insurance",
+ "site_section": "Home insurance and warranties (homeownerpedia.com)",
+ "catchphrase_verb": "FIGURE IT OUT",
+ "caption": "Insurance covers disasters. A home warranty covers breakdowns. Know which one you've got.",
+ "hashtags": [
+  "#homewarranty",
+  "#homeinsurance",
+  "#homeownertips",
+  "#homeowner"
+ ],
+ "status": "review",
+ "sources": [
+  "https://www.policygenius.com/homeowners-insurance/does-homeowners-insurance-cover-furnace-replacement/ (standard policies cover sudden damage from covered perils, not wear and tear or mechanical breakdown)",
+  "https://www.nerdwallet.com/home-ownership/home-improvement/learn/cost-to-replace-a-furnace (furnace replacement about $4,800 on average, 2026)",
+  "https://www.nerdwallet.com/article/mortgages/home-warranty-cost (home warranty about $73 a month, service call fee about $108, 2026)"
+ ],
+ "script": "(no voice: on-screen captions only)",
+ "audio_end": 45.205,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "KNOW YOUR COVERAGE.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 41.66,
+ "cover": {
+  "still": "cover_base.jpg",
+  "t": 9.8,
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 540,
+  "lines": [
+   "FURNACE DIED?",
+   "INSURANCE SAID NO."
+  ]
+ },
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "start": 3.2,
+   "end": 9.23,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "start": 9.23,
+   "end": 10.84,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  },
+  {
+   "start": 10.84,
+   "end": 16.04,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "start": 16.04,
+   "end": 20.64,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.6,
+    0.5
+   ]
+  },
+  {
+   "start": 20.64,
+   "end": 25.04,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "start": 25.04,
+   "end": 30.16,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "start": 30.16,
+   "end": 36.16,
+   "zoom": [
+    1.14,
+    1.2
+   ],
+   "focus": [
+    0.35,
+    0.42
+   ]
+  },
+  {
+   "start": 36.16,
+   "end": 41.66,
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "start": 41.66,
+   "end": 47.405,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.3,
+   "My furnace just died"
+  ],
+  [
+   1.9,
+   "In November"
+  ],
+  [
+   3.3,
+   "No problem"
+  ],
+  [
+   4.3,
+   "I've got insurance!"
+  ],
+  [
+   6.0,
+   "Hello, insurance?"
+  ],
+  [
+   7.4,
+   "My furnace broke"
+  ],
+  [
+   9.23,
+   "Denied?!"
+  ],
+  [
+   10.6,
+   "Turns out..."
+  ],
+  [
+   11.4,
+   "Insurance covers"
+  ],
+  [
+   12.4,
+   "sudden disasters"
+  ],
+  [
+   16.04,
+   "A furnace that dies"
+  ],
+  [
+   17.2,
+   "of old age?"
+  ],
+  [
+   18.32,
+   "That's wear and tear"
+  ],
+  [
+   19.64,
+   "Not covered"
+  ],
+  [
+   20.8,
+   "And a new furnace?"
+  ],
+  [
+   22.2,
+   "About $4,800"
+  ],
+  [
+   24.08,
+   "Ouch"
+  ],
+  [
+   25.1,
+   "That's what a"
+  ],
+  [
+   25.95,
+   "home warranty is for"
+  ],
+  [
+   27.3,
+   "It covers stuff"
+  ],
+  [
+   28.3,
+   "that wears out"
+  ],
+  [
+   30.3,
+   "About $73 a month"
+  ],
+  [
+   32.6,
+   "plus a service fee"
+  ],
+  [
+   34.4,
+   "Read the fine print"
+  ],
+  [
+   36.2,
+   "So..."
+  ],
+  [
+   36.8,
+   "Insurance = disasters"
+  ],
+  [
+   38.5,
+   "Warranty = breakdowns"
+  ],
+  [
+   40.1,
+   "Know which you've got"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.1,
+   "lines": [
+    "FURNACE BROKE?",
+    "WHO PAYS?"
+   ],
+   "y": 1180
+  },
+  {
+   "type": "impact",
+   "at": 1.25,
+   "dur": 1.5,
+   "text": "CLUNK!",
+   "x": 800,
+   "y": 760
+  },
+  {
+   "type": "tag",
+   "start": 4.3,
+   "end": 5.92,
+   "text": "I'M COVERED!",
+   "color": "yellow",
+   "x": 790,
+   "y": 470,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 6.0,
+   "end": 9.2,
+   "text": "RING RING...",
+   "color": "cream",
+   "x": 800,
+   "y": 480,
+   "rot": 4
+  },
+  {
+   "type": "impact",
+   "at": 9.23,
+   "dur": 0.01,
+   "text": "",
+   "x": -900,
+   "y": -900
+  },
+  {
+   "type": "stamp",
+   "start": 9.25,
+   "end": 10.84,
+   "text": "DENIED",
+   "color": "red",
+   "x": 730,
+   "y": 1120,
+   "rot": -9
+  },
+  {
+   "type": "tag",
+   "start": 10.9,
+   "end": 16.04,
+   "text": "INSURANCE COVERS",
+   "color": "teal",
+   "x": 770,
+   "y": 420,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 13.56,
+   "end": 16.04,
+   "text": "FIRE",
+   "color": "yellow",
+   "x": 800,
+   "y": 560,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 14.08,
+   "end": 16.04,
+   "text": "STORMS",
+   "color": "yellow",
+   "x": 800,
+   "y": 690,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 14.83,
+   "end": 16.04,
+   "text": "BURST PIPE",
+   "color": "yellow",
+   "x": 800,
+   "y": 820,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 18.32,
+   "end": 20.64,
+   "text": "WEAR AND TEAR",
+   "color": "yellow",
+   "x": 770,
+   "y": 520,
+   "rot": -4
+  },
+  {
+   "type": "stamp",
+   "start": 19.64,
+   "end": 20.64,
+   "text": "NOT COVERED",
+   "color": "red",
+   "x": 560,
+   "y": 1150,
+   "rot": -7
+  },
+  {
+   "type": "counter",
+   "start": 20.8,
+   "end": 24.08,
+   "value": 4800,
+   "prefix": "$",
+   "color": "red",
+   "icon": "coin",
+   "count_secs": 1.8,
+   "labels": [
+    [
+     20.8,
+     "NEW FURNACE"
+    ],
+    [
+     22.84,
+     "AVERAGE COST"
+    ]
+   ],
+   "y": 1190
+  },
+  {
+   "type": "impact",
+   "at": 24.08,
+   "dur": 0.95,
+   "text": "OUCH!",
+   "x": 800,
+   "y": 700
+  },
+  {
+   "type": "tag",
+   "start": 25.3,
+   "end": 30.16,
+   "text": "HOME WARRANTY",
+   "color": "teal",
+   "x": 780,
+   "y": 420,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 27.2,
+   "end": 30.16,
+   "text": "SYSTEMS",
+   "color": "yellow",
+   "x": 800,
+   "y": 560,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 28.28,
+   "end": 30.16,
+   "text": "APPLIANCES",
+   "color": "yellow",
+   "x": 800,
+   "y": 690,
+   "rot": -3
+  },
+  {
+   "type": "check",
+   "start": 29.28,
+   "end": 30.16,
+   "text": "THAT WEAR OUT",
+   "y": 1190
+  },
+  {
+   "type": "counter",
+   "start": 30.3,
+   "end": 32.6,
+   "value": 73,
+   "prefix": "$",
+   "suffix": " / MO",
+   "suffix_always": " / MO",
+   "color": "teal",
+   "icon": "coin",
+   "count_secs": 1.0,
+   "labels": [
+    [
+     30.3,
+     "HOME WARRANTY"
+    ],
+    [
+     31.52,
+     "AVERAGE COST"
+    ]
+   ],
+   "y": 1190
+  },
+  {
+   "type": "tag",
+   "start": 32.6,
+   "end": 34.4,
+   "text": "+ SERVICE FEE",
+   "color": "orange",
+   "x": 790,
+   "y": 520,
+   "rot": -4
+  },
+  {
+   "type": "price",
+   "start": 33.3,
+   "end": 34.4,
+   "text": "~$108 A VISIT",
+   "x": 620,
+   "y": 1190
+  },
+  {
+   "type": "tag",
+   "start": 34.4,
+   "end": 36.16,
+   "text": "READ THE FINE PRINT",
+   "color": "yellow",
+   "x": 560,
+   "y": 1190,
+   "rot": -4
+  },
+  {
+   "type": "versus",
+   "start": 36.3,
+   "end": 41.66,
+   "left": "INSURANCE",
+   "right": "WARRANTY",
+   "title_size": 38,
+   "cols": [
+    0.4,
+    0.6,
+    0.86
+   ],
+   "y": 1170,
+   "rows": [
+    [
+     "Fire or storm",
+     "+",
+     "-"
+    ],
+    [
+     "Burst pipe",
+     "+",
+     "-"
+    ],
+    [
+     "Worn-out furnace",
+     "-",
+     "+"
+    ]
+   ]
+  },
+  {
+   "type": "catchphrase",
+   "start": 41.66,
+   "end": 45.205,
+   "verb": "FIGURE IT OUT",
+   "y": 1170
+  }
+ ],
+ "made_with": "code only (engine/vector.py + engine/synth_audio.py), no Revid",
+ "poses": [
+  [
+   0,
+   "shiver"
+  ],
+  [
+   3.2,
+   "phone"
+  ],
+  [
+   6.0,
+   "hello"
+  ],
+  [
+   9.23,
+   "shock"
+  ],
+  [
+   10.84,
+   "teach"
+  ],
+  [
+   11.4,
+   "explain"
+  ],
+  [
+   13.4,
+   "teach"
+  ],
+  [
+   16.04,
+   "sad"
+  ],
+  [
+   20.64,
+   "broke"
+  ],
+  [
+   24.08,
+   "ouch"
+  ],
+  [
+   25.04,
+   "teach"
+  ],
+  [
+   25.9,
+   "happy"
+  ],
+  [
+   30.16,
+   "wink"
+  ],
+  [
+   31.6,
+   "happy"
+  ],
+  [
+   36.16,
+   "explain"
+  ],
+  [
+   37.4,
+   "teach"
+  ],
+  [
+   41.66,
+   "wink"
+  ]
+ ],
+ "events": {
+  "clunk": 1.25,
+  "furnace_on": 25.5,
+  "ring1": 5.3,
+  "ring2": 5.75
+ }
+}
