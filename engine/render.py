@@ -347,9 +347,44 @@ class Episode:
             fr.paste(ec, (0, 0), m)
         return fr.convert('RGB')
 
+def render_cover(ep):
+    """Reel cover / grid thumbnail. Key content stays inside the centered 3:4 area (y 240 to 1680)
+    because the Instagram profile grid crops the 9:16 cover to 3:4."""
+    c = ep.spec['cover']
+    im = ep.base_img(c['still'])
+    z = c.get('zoom', 1.05); fx, fy = c.get('focus', [0.5, 0.5])
+    cw, ch = W / z, H / z
+    cx = clamp(fx * im.width, cw / 2, im.width - cw / 2); cy = clamp(fy * im.height, ch / 2, im.height - ch / 2)
+    fr = im.resize((W, H), Image.LANCZOS, box=(cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2)).convert('RGBA')
+    sh = int(c.get('shift_down', 0))
+    if sh > 0:  # push the scene down to free the top for the headline; fill the gap with a soft blur of the top edge
+        from PIL import ImageFilter
+        moved = Image.new('RGBA', (W, H)); moved.paste(fr, (0, sh))
+        top = fr.crop((0, 0, W, 60)).resize((W, sh + 60)).filter(ImageFilter.GaussianBlur(18))
+        moved.paste(top, (0, 0)); moved.paste(fr.crop((0, 0, W, H - sh)), (0, sh)); fr = moved
+    # darken the top so the headline always reads
+    grad = Image.new('L', (1, H), 0)
+    for y in range(H): grad.putpixel((0, y), int(170 * clamp(1 - (y - 240) / 760)) if y > 0 else 170)
+    shade = Image.new('RGBA', (W, H), (10, 20, 22, 255)); shade.putalpha(grad.resize((W, H)))
+    fr.alpha_composite(shade)
+    label = pill(c.get('label', ep.spec['series_label']), font(F, 62), ORANGE if c.get('label_color') == 'orange' else TEAL, CREAM, padx=40, pady=20, ow=7)
+    paste_scaled(fr, label, W / 2, 330, 1)
+    l1, l2 = c['lines']
+    def fit(s, base, maxw=980):
+        f = font(FC, base); d = ImageDraw.Draw(Image.new('RGBA', (10, 10)))
+        while text_size(d, s, f)[0] > maxw and base > 60: base -= 6; f = font(FC, base)
+        return f
+    t = Image.new('RGBA', (W, 420), (0, 0, 0, 0))
+    outlined(t, (W // 2, 110), l1, fit(l1, 170), CREAM, INK, 14)
+    outlined(t, (W // 2, 290), l2, fit(l2, 190), YELLOW, INK, 15)
+    paste_scaled(fr, t, W / 2, 640, 1)
+    return fr.convert('RGB')
+
 def main():
     folder = sys.argv[1]; ep = Episode(folder)
     out = os.path.join(folder, 'out'); os.makedirs(out, exist_ok=True)
+    if '--cover' in sys.argv:
+        dst = os.path.join(out, 'cover.jpg'); render_cover(ep).save(dst, quality=92); print(dst); return
     if '--stills' in sys.argv:
         ts = [float(x) for x in sys.argv[sys.argv.index('--stills') + 1:]]
         ims = [ep.render(t).resize((360, 640)) for t in ts]

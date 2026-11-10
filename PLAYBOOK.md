@@ -62,8 +62,13 @@ Post 7 numbered concepts in #content-updates. Each concept is one line: `#N Titl
 6. **Timings.** `edit_project` with `[{tool: "get_captions"}]` and `dryRun: true` returns every caption line with `startSeconds`. Copy them into `captions` (drop trailing punctuation), cut shots exactly at line starts, and time each overlay to its line. Set `captions_stop` to the catchphrase start.
 7. **Render.** `python3 engine/render.py episodes/NNN-slug --stills <times>` to preview, look at it, fix, then `python3 engine/render.py episodes/NNN-slug` for the mp4 (about 30 s).
 8. **Video QC:** check one frame per second. Each shot matches its line, no text covers Homie's face, captions readable, overlays on time.
-9. **Publish.** `create_upload_url` (video/mp4), PUT the file, then `schedule_publish` with `scheduledTime` today 12:00 America/New_York (or `publish_now` if that time has passed), `instagram: {id: "28530495066629147"}`, `extraParams.description` = caption + hashtags.
-10. **Report** in #content-updates: episode number, title, caption, credits used, scheduled time. Update `queue.json` (`status: "scheduled"`) and `log.csv`, commit and push.
+9. **Cover (required, every episode).** Add a `cover` block to episode.json and run `python3 engine/render.py episodes/NNN-slug --cover` (writes `out/cover.jpg`). Rules so the profile grid looks like one series:
+   - `still`: the funniest Homie moment of the gag (his reaction to the disaster), face clearly visible. Not a close-up of an object.
+   - `lines`: 2 short lines, all caps. Line 1 = the problem as a question or setup (cream). Line 2 = the punch (yellow), 2 to 4 words. Example: "DRIPPING FAUCET?" / "DON'T DO THIS."
+   - `shift_down` (usually 300 to 420) so the headline sits over wall or cabinets, never over Homie's face. `label` defaults to the series label.
+   - Check the cover AND its centered 3:4 crop (y 240 to 1680): label, both lines and Homie's face must all be inside it.
+10. **Publish.** Upload both files with `create_upload_url` + PUT (video/mp4 and image/jpeg), then `schedule_publish` with `scheduledTime` today 12:00 America/New_York (or `publish_now` if that time has passed), `instagram: {id: "28530495066629147"}`, `extraParams.description` = caption + hashtags, `extraParams.thumbnailUrl` = the cover URL.
+11. **Report** in #content-updates: episode number, title, caption, credits used, scheduled time. Update `queue.json` (`status: "scheduled"`) and `log.csv`, commit and push.
 
 ## Overlay types (engine)
 
