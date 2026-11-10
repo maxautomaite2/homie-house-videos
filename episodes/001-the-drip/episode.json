@@ -1,0 +1,52 @@
+{
+  "number": 1,
+  "slug": "homie-fixes-001-the-drip",
+  "series_label": "HOMIE FIXES #1",
+  "topic": "Dripping kitchen faucet",
+  "catchphrase_verb": "FIX IT",
+  "caption": "One drip per second wastes 3,000 gallons a year. The fix costs $20.",
+  "hashtags": ["#homeownertips", "#diyhomerepair", "#leakyfaucet", "#homeowner"],
+  "status": "posted",
+  "posted_at": "2026-11-10T14:13:00-05:00",
+  "revid_audio_project": "Yzs8An1AE7iSNn279qzf",
+  "script": "Ugh, this drip is driving me nuts. I'll just crank it tighter...\n\n...oh no. Oh no no no.\n\nOkay. Plan B.\n\nOne drip per second wastes over three thousand gallons a year. That's on your water bill.\n\nStep one: open the cabinet under the sink.\n\nShut off the valves. Righty tighty.\n\nStep two: the handle's already off, so just swap the worn washer.\n\nAbout twenty bucks at the hardware store.\n\nTurn the water back on... and no more drip.\n\nIf Homie can fix it, so can you.",
+  "audio_end": 34.41,
+  "end_card": {"seconds": 2.2, "line1": "SAVE THIS.", "line2": "YOUR HOUSE IS NEXT.", "handle": "@homiethehouseguy"},
+  "captions_stop": 31.0,
+  "shots": [
+    {"still": "s1.jpg", "start": 0.0, "end": 4.55, "zoom": [1.0, 1.05], "focus": [0.55, 0.45]},
+    {"still": "s4.jpg", "start": 4.55, "end": 5.95, "zoom": [1.04, 1.09], "focus": [0.6, 0.5],
+     "effect": {"type": "geyser", "pop": 4.95, "hub": [1010, 1190], "lever": [1025, 1080], "arc": -420}},
+    {"still": "s2.jpg", "start": 5.95, "end": 7.75, "zoom": [1.1, 1.16], "focus": [0.45, 0.35]},
+    {"still": "s3.jpg", "start": 7.75, "end": 9.5, "zoom": [1.04, 1.1], "focus": [0.35, 0.4]},
+    {"still": "s4.jpg", "start": 9.5, "end": 15.5, "zoom": [1.0, 1.12], "focus": [0.55, 0.45]},
+    {"still": "s5.jpg", "start": 15.5, "end": 18.5, "zoom": [1.0, 1.08], "focus": [0.3, 0.65]},
+    {"still": "s6.jpg", "start": 18.5, "end": 21.25, "zoom": [1.0, 1.1], "focus": [0.45, 0.45]},
+    {"still": "s7.jpg", "start": 21.25, "end": 25.75, "zoom": [1.0, 1.1], "focus": [0.45, 0.5]},
+    {"still": "s8.jpg", "start": 25.75, "end": 28.0, "zoom": [1.04, 1.1], "focus": [0.5, 0.4]},
+    {"still": "s9.jpg", "start": 28.0, "end": 31.0, "zoom": [1.0, 1.06], "focus": [0.6, 0.45]},
+    {"still": "s10.jpg", "start": 31.0, "end": 36.61, "zoom": [1.0, 1.08], "focus": [0.4, 0.45]}
+  ],
+  "captions": [
+    [0.16, "Ugh"], [0.64, "this drip is driving"], [1.84, "me nuts"], [3.04, "I'll just crank"], [3.84, "it tighter"],
+    [5.04, "...oh no"], [6.16, "Oh no no no"], [7.68, "Okay"], [8.56, "Plan B"], [9.6, "One drip per second"],
+    [10.8, "wastes over three"], [12.0, "thousand gallons"], [12.96, "a year"], [13.84, "That's on your water"],
+    [14.72, "bill"], [15.52, "Step one, open the"], [17.12, "cabinet under the"], [18.0, "sink"],
+    [18.56, "Shut off the valves"], [20.04, "Righty tighty"], [21.28, "Step two, the handle's"], [22.8, "already off"],
+    [23.72, "so just swap the"], [24.64, "worn washer"], [25.76, "About twenty bucks"], [26.52, "at the hardware"],
+    [27.2, "store"], [27.96, "Turn the water back"], [28.8, "on"], [29.48, "and no more drip"]
+  ],
+  "overlays": [
+    {"type": "hook", "start": 0.2, "end": 4.6, "lines": ["DRIPPING FAUCET?", "DON'T DO THIS."], "y": 1190},
+    {"type": "impact", "at": 4.95, "dur": 1.0, "text": "CRACK!", "x": 300, "y": 620},
+    {"type": "stamp", "start": 8.5, "end": 9.6, "text": "PLAN B", "y": 520},
+    {"type": "counter", "start": 10.6, "end": 15.5, "value": 3000, "suffix": "+", "icon": "drop", "color": "blue",
+     "labels": [[10.6, "GALLONS A YEAR"], [13.75, "ON YOUR WATER BILL"]], "y": 560},
+    {"type": "step", "start": 15.5, "end": 21.25, "n": 1, "text": "Shut off the valves", "from": "left"},
+    {"type": "tag", "start": 20.0, "end": 21.25, "text": "RIGHTY TIGHTY", "arrow": true, "y": 760},
+    {"type": "step", "start": 21.25, "end": 25.75, "n": 2, "text": "Swap the washer", "from": "right"},
+    {"type": "price", "start": 25.75, "end": 28.0, "text": "~$20 PART"},
+    {"type": "check", "start": 29.5, "end": 31.0, "text": "NO MORE DRIP"},
+    {"type": "catchphrase", "start": 31.0, "end": 34.41, "verb": "FIX IT"}
+  ]
+}

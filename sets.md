@@ -1,0 +1,6 @@
+# Sets
+
+Wide reference still per location. Use as reference image 1 for every shot there.
+
+- kitchen (oak cabinets, plaid valance, double window, stainless double sink): https://cdn.revid.ai/ai-gen/9F54_WiT7.jpg
+- kitchen faucet close-up: https://cdn.revid.ai/ai-gen/ZyZxibUcq.jpg
