@@ -1,77 +1,87 @@
 {
-  "next_number": 10,
-  "concepts": [
-    {
-      "number": 1,
-      "title": "The Drip",
-      "status": "posted",
-      "episode": "episodes/001-the-drip"
-    },
-    {
-      "number": 2,
-      "title": "Running Toilet",
-      "verb": "FIX IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 3,
-      "title": "Chirping Smoke Detector",
-      "verb": "FIX IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 4,
-      "title": "Frozen Pipes",
-      "verb": "HANDLE IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 5,
-      "title": "Clogged Drain",
-      "verb": "FIX IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 6,
-      "title": "Dirty Furnace Filter",
-      "verb": "SAVE",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 7,
-      "title": "Overflowing Gutters",
-      "verb": "HANDLE IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 8,
-      "title": "Selling a House That Needs Work",
-      "verb": "SELL IT",
-      "status": "proposed",
-      "slack_channel": "C0CGK7SHV0S",
-      "slack_thread_ts": "1794338554.280509"
-    },
-    {
-      "number": 9,
-      "title": "Cash Offer vs Listing",
-      "verb": "SELL IT",
-      "status": "posted",
-      "episode": "episodes/002-cash-or-list",
-      "episode_number": 2,
-      "note": "Picked by Max in chat on 2026-11-10; awaiting his OK to post",
-      "revid_content_id": "a398a3f4-65f2-4d82-89de-4330b2e0c619"
-    }
-  ]
+ "next_number": 10,
+ "concepts": [
+  {
+   "number": 1,
+   "title": "The Drip",
+   "status": "posted",
+   "episode": "episodes/001-the-drip"
+  },
+  {
+   "number": 2,
+   "title": "Running Toilet",
+   "verb": "FIX IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 3,
+   "title": "Chirping Smoke Detector",
+   "verb": "FIX IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 4,
+   "title": "Frozen Pipes",
+   "verb": "HANDLE IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 5,
+   "title": "Clogged Drain",
+   "verb": "FIX IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 6,
+   "title": "Dirty Furnace Filter",
+   "verb": "SAVE",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 7,
+   "title": "Overflowing Gutters",
+   "verb": "HANDLE IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 8,
+   "title": "Selling a House That Needs Work",
+   "verb": "SELL IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794338554.280509"
+  },
+  {
+   "number": 9,
+   "title": "Cash Offer vs Listing",
+   "verb": "SELL IT",
+   "status": "posted",
+   "episode": "episodes/002-cash-or-list",
+   "episode_number": 2,
+   "note": "Picked by Max in chat on 2026-11-10; awaiting his OK to post",
+   "revid_content_id": "a398a3f4-65f2-4d82-89de-4330b2e0c619"
+  },
+  {
+   "number": 20,
+   "title": "Warranty vs Insurance",
+   "verb": "FIGURE IT OUT",
+   "status": "posted",
+   "episode": "episodes/003-warranty-vs-insurance",
+   "episode_number": 3,
+   "note": "Picked and approved to post by Max in chat on 2026-11-10",
+   "revid_content_id": "526370f7-8967-4694-8829-d675ba117e71"
+  }
+ ]
 }

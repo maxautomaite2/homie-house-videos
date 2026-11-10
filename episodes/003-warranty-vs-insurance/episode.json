@@ -13,7 +13,7 @@
   "#homeownertips",
   "#homeowner"
  ],
- "status": "review",
+ "status": "posted",
  "revid_audio_project": "I87SxQD1vNuGfDOBjCwi",
  "sources": [
   "https://www.policygenius.com/homeowners-insurance/does-homeowners-insurance-cover-furnace-replacement/ (standard policies cover sudden damage from covered perils, not wear and tear or mechanical breakdown)",
@@ -612,5 +612,6 @@
    "verb": "FIGURE IT OUT",
    "y": 1170
   }
- ]
+ ],
+ "posted_at": "2026-11-10T15:33:00-05:00"
 }
