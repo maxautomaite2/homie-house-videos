@@ -1,6 +1,67 @@
 {
-  "next_number": 2,
+  "next_number": 9,
   "concepts": [
-    {"number": 1, "title": "The Drip", "status": "posted", "episode": "episodes/001-the-drip"}
+    {
+      "number": 1,
+      "title": "The Drip",
+      "status": "posted",
+      "episode": "episodes/001-the-drip"
+    },
+    {
+      "number": 2,
+      "title": "Running Toilet",
+      "verb": "FIX IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 3,
+      "title": "Chirping Smoke Detector",
+      "verb": "FIX IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 4,
+      "title": "Frozen Pipes",
+      "verb": "HANDLE IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 5,
+      "title": "Clogged Drain",
+      "verb": "FIX IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 6,
+      "title": "Dirty Furnace Filter",
+      "verb": "SAVE",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 7,
+      "title": "Overflowing Gutters",
+      "verb": "HANDLE IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 8,
+      "title": "Selling a House That Needs Work",
+      "verb": "SELL IT",
+      "status": "proposed",
+      "slack_channel": "C0CGK7SHV0S",
+      "slack_thread_ts": "1794338554.280509"
+    }
   ]
 }
