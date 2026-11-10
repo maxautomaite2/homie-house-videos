@@ -338,13 +338,15 @@ class Episode:
         l = Image.new('RGBA', (w + 30, h + 30), (0, 0, 0, 0)); d = ImageDraw.Draw(l)
         d.rounded_rectangle((14, 16, w + 14, h + 16), radius=40, fill=(0, 0, 0, 110))
         d.rounded_rectangle((0, 0, w, h), radius=40, fill=CREAM, outline=INK, width=8)
-        cols = [w * 0.38, w * 0.69, w * 0.88]
-        d.text((cols[1], 78), o['left'], font=font(F, 50), fill=TEAL_D, anchor='mm')
-        d.text((cols[2], 78), o['right'], font=font(F, 50), fill=ORANGE, anchor='mm')
+        cols = [w * c for c in o.get('cols', [0.38, 0.69, 0.88])]; ts = o.get('title_size', 50)
+        d.text((cols[1], 78), o['left'], font=font(F, ts), fill=TEAL_D, anchor='mm')
+        d.text((cols[2], 78), o['right'], font=font(F, ts), fill=ORANGE, anchor='mm')
         for k, (lab, lm, rm) in enumerate(rows):
             y = 150 + rh * k + rh / 2
             d.line((30, y - rh / 2, w - 30, y - rh / 2), fill=(225, 214, 196), width=3)
-            d.text((50, y), lab, font=font(F, 54), fill=INK, anchor='lm')
+            lf = 54
+            while lf > 30 and d.textlength(lab, font=font(F, lf)) > cols[1] - 50 - 70: lf -= 2
+            d.text((50, y), lab, font=font(F, lf), fill=INK, anchor='lm')
             for cx, m in ((cols[1], lm), (cols[2], rm)):
                 good = m == '+'
                 d.ellipse((cx - 30, y - 30, cx + 30, y + 30), fill=TEAL if good else RED, outline=INK, width=5)

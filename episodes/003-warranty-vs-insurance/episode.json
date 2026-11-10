@@ -1,0 +1,616 @@
+{
+ "number": 3,
+ "concept_number": 20,
+ "slug": "homie-fixes-003-warranty-vs-insurance",
+ "series_label": "HOMIE FIXES #3",
+ "topic": "Home warranty vs homeowners insurance",
+ "site_section": "Home insurance and warranties (homeownerpedia.com)",
+ "catchphrase_verb": "FIGURE IT OUT",
+ "caption": "Insurance covers disasters. A home warranty covers breakdowns. Know which one you've got.",
+ "hashtags": [
+  "#homewarranty",
+  "#homeinsurance",
+  "#homeownertips",
+  "#homeowner"
+ ],
+ "status": "review",
+ "revid_audio_project": "I87SxQD1vNuGfDOBjCwi",
+ "sources": [
+  "https://www.policygenius.com/homeowners-insurance/does-homeowners-insurance-cover-furnace-replacement/ (standard policies cover sudden damage from covered perils, not wear and tear or mechanical breakdown)",
+  "https://www.nerdwallet.com/home-ownership/home-improvement/learn/cost-to-replace-a-furnace (furnace replacement about $4,800 on average, 2026)",
+  "https://www.nerdwallet.com/article/mortgages/home-warranty-cost (home warranty about $73 a month, service call fee about $108, 2026)"
+ ],
+ "script": "My furnace just died. In November.\n\nNo problem. I've got home insurance!\n\nHello, insurance? My furnace broke. ... Denied?!\n\nTurns out, home insurance covers sudden disasters. Fire. Storms. A burst pipe.\n\nA furnace that dies of old age? That's wear and tear. Not covered.\n\nAnd a new furnace runs about forty-eight hundred dollars. Ouch.\n\nThat's what a home warranty is for. It covers systems and appliances that wear out.\n\nIt runs about seventy-three dollars a month, plus a service fee per visit. Just read the fine print.\n\nSo. Insurance for disasters. Warranty for breakdowns. Know which one you've got.\n\nIf Homie can figure it out, so can you.",
+ "audio_end": 45.205,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "KNOW YOUR COVERAGE.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 41.66,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 380,
+  "lines": [
+   "FURNACE DIED?",
+   "INSURANCE SAID NO."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 3.2,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 3.2,
+   "end": 9.23,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 9.23,
+   "end": 10.84,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 10.84,
+   "end": 16.04,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 16.04,
+   "end": 20.64,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.6,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 20.64,
+   "end": 25.04,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 25.04,
+   "end": 30.16,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 30.16,
+   "end": 36.16,
+   "zoom": [
+    1.14,
+    1.2
+   ],
+   "focus": [
+    0.35,
+    0.42
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 36.16,
+   "end": 41.66,
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 41.66,
+   "end": 47.405,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.29,
+   "My furnace just"
+  ],
+  [
+   1.25,
+   "died"
+  ],
+  [
+   1.92,
+   "In November"
+  ],
+  [
+   3.2,
+   "No problem"
+  ],
+  [
+   4.24,
+   "I've got home insurance!"
+  ],
+  [
+   5.92,
+   "Hello,"
+  ],
+  [
+   6.68,
+   "insurance?"
+  ],
+  [
+   7.36,
+   "My furnace broke"
+  ],
+  [
+   9.23,
+   "Denied?!"
+  ],
+  [
+   10.04,
+   "Turns out,"
+  ],
+  [
+   10.84,
+   "home insurance covers"
+  ],
+  [
+   12.0,
+   "sudden disasters"
+  ],
+  [
+   13.56,
+   "Fire"
+  ],
+  [
+   14.08,
+   "Storms"
+  ],
+  [
+   14.83,
+   "A burst pipe"
+  ],
+  [
+   16.04,
+   "A furnace that dies"
+  ],
+  [
+   17.16,
+   "of old age?"
+  ],
+  [
+   18.32,
+   "That's wear and"
+  ],
+  [
+   18.96,
+   "tear"
+  ],
+  [
+   19.64,
+   "Not covered"
+  ],
+  [
+   20.64,
+   "And a new furnace"
+  ],
+  [
+   21.8,
+   "runs about forty-eight"
+  ],
+  [
+   22.84,
+   "hundred dollars"
+  ],
+  [
+   24.08,
+   "Ouch"
+  ],
+  [
+   25.04,
+   "That's what a home"
+  ],
+  [
+   25.92,
+   "warranty is for"
+  ],
+  [
+   27.2,
+   "It covers systems"
+  ],
+  [
+   28.28,
+   "and appliances that"
+  ],
+  [
+   29.28,
+   "wear out"
+  ],
+  [
+   30.16,
+   "It runs about"
+  ],
+  [
+   30.9,
+   "seventy-three"
+  ],
+  [
+   31.52,
+   "dollars a month,"
+  ],
+  [
+   32.6,
+   "plus a service fee"
+  ],
+  [
+   33.52,
+   "per visit"
+  ],
+  [
+   34.4,
+   "Just read the fine"
+  ],
+  [
+   35.2,
+   "print"
+  ],
+  [
+   36.16,
+   "So"
+  ],
+  [
+   36.64,
+   "Insurance for disasters"
+  ],
+  [
+   38.36,
+   "Warranty for breakdowns"
+  ],
+  [
+   40.16,
+   "Know which one you've"
+  ],
+  [
+   41.16,
+   "got"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.1,
+   "lines": [
+    "FURNACE BROKE?",
+    "WHO PAYS?"
+   ],
+   "y": 1180
+  },
+  {
+   "type": "impact",
+   "at": 1.25,
+   "dur": 1.5,
+   "text": "CLUNK!",
+   "x": 800,
+   "y": 760
+  },
+  {
+   "type": "tag",
+   "start": 4.3,
+   "end": 5.92,
+   "text": "I'M COVERED!",
+   "color": "yellow",
+   "x": 790,
+   "y": 470,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 6.0,
+   "end": 9.2,
+   "text": "RING RING...",
+   "color": "cream",
+   "x": 800,
+   "y": 480,
+   "rot": 4
+  },
+  {
+   "type": "impact",
+   "at": 9.23,
+   "dur": 0.01,
+   "text": "",
+   "x": -900,
+   "y": -900
+  },
+  {
+   "type": "stamp",
+   "start": 9.25,
+   "end": 10.84,
+   "text": "DENIED",
+   "color": "red",
+   "x": 730,
+   "y": 1120,
+   "rot": -9
+  },
+  {
+   "type": "tag",
+   "start": 10.9,
+   "end": 16.04,
+   "text": "INSURANCE COVERS",
+   "color": "teal",
+   "x": 770,
+   "y": 420,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 13.56,
+   "end": 16.04,
+   "text": "FIRE",
+   "color": "yellow",
+   "x": 800,
+   "y": 560,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 14.08,
+   "end": 16.04,
+   "text": "STORMS",
+   "color": "yellow",
+   "x": 800,
+   "y": 690,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 14.83,
+   "end": 16.04,
+   "text": "BURST PIPE",
+   "color": "yellow",
+   "x": 800,
+   "y": 820,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 18.32,
+   "end": 20.64,
+   "text": "WEAR AND TEAR",
+   "color": "yellow",
+   "x": 770,
+   "y": 520,
+   "rot": -4
+  },
+  {
+   "type": "stamp",
+   "start": 19.64,
+   "end": 20.64,
+   "text": "NOT COVERED",
+   "color": "red",
+   "x": 560,
+   "y": 1150,
+   "rot": -7
+  },
+  {
+   "type": "counter",
+   "start": 20.8,
+   "end": 24.08,
+   "value": 4800,
+   "prefix": "$",
+   "color": "red",
+   "icon": "coin",
+   "count_secs": 1.8,
+   "labels": [
+    [
+     20.8,
+     "NEW FURNACE"
+    ],
+    [
+     22.84,
+     "AVERAGE COST"
+    ]
+   ],
+   "y": 1190
+  },
+  {
+   "type": "impact",
+   "at": 24.08,
+   "dur": 0.95,
+   "text": "OUCH!",
+   "x": 800,
+   "y": 700
+  },
+  {
+   "type": "tag",
+   "start": 25.3,
+   "end": 30.16,
+   "text": "HOME WARRANTY",
+   "color": "teal",
+   "x": 780,
+   "y": 420,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 27.2,
+   "end": 30.16,
+   "text": "SYSTEMS",
+   "color": "yellow",
+   "x": 800,
+   "y": 560,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 28.28,
+   "end": 30.16,
+   "text": "APPLIANCES",
+   "color": "yellow",
+   "x": 800,
+   "y": 690,
+   "rot": -3
+  },
+  {
+   "type": "check",
+   "start": 29.28,
+   "end": 30.16,
+   "text": "THAT WEAR OUT",
+   "y": 1190
+  },
+  {
+   "type": "counter",
+   "start": 30.3,
+   "end": 32.6,
+   "value": 73,
+   "prefix": "$",
+   "suffix": " / MO",
+   "suffix_always": " / MO",
+   "color": "teal",
+   "icon": "coin",
+   "count_secs": 1.0,
+   "labels": [
+    [
+     30.3,
+     "HOME WARRANTY"
+    ],
+    [
+     31.52,
+     "AVERAGE COST"
+    ]
+   ],
+   "y": 1190
+  },
+  {
+   "type": "tag",
+   "start": 32.6,
+   "end": 34.4,
+   "text": "+ SERVICE FEE",
+   "color": "orange",
+   "x": 790,
+   "y": 520,
+   "rot": -4
+  },
+  {
+   "type": "price",
+   "start": 33.3,
+   "end": 34.4,
+   "text": "~$108 A VISIT",
+   "x": 620,
+   "y": 1190
+  },
+  {
+   "type": "tag",
+   "start": 34.4,
+   "end": 36.16,
+   "text": "READ THE FINE PRINT",
+   "color": "yellow",
+   "x": 560,
+   "y": 1190,
+   "rot": -4
+  },
+  {
+   "type": "versus",
+   "start": 36.3,
+   "end": 41.66,
+   "left": "INSURANCE",
+   "right": "WARRANTY",
+   "title_size": 38,
+   "cols": [
+    0.4,
+    0.6,
+    0.86
+   ],
+   "y": 1170,
+   "rows": [
+    [
+     "Fire or storm",
+     "+",
+     "-"
+    ],
+    [
+     "Burst pipe",
+     "+",
+     "-"
+    ],
+    [
+     "Worn-out furnace",
+     "-",
+     "+"
+    ]
+   ]
+  },
+  {
+   "type": "catchphrase",
+   "start": 41.66,
+   "end": 45.205,
+   "verb": "FIGURE IT OUT",
+   "y": 1170
+  }
+ ]
+}
