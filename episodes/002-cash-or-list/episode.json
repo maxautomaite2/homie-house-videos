@@ -1,0 +1,570 @@
+{
+  "number": 2,
+  "concept_number": 9,
+  "slug": "homie-fixes-002-cash-or-list",
+  "series_label": "HOMIE FIXES #2",
+  "topic": "Selling: list with an agent vs take a cash offer",
+  "site_section": "Selling your home (homeownerpedia.com)",
+  "catchphrase_verb": "SELL IT",
+  "caption": "Listing gets the higher price. Cash gets you out in weeks. Pick your Homie.",
+  "hashtags": [
+    "#sellmyhouse",
+    "#homeselling",
+    "#realestatetips",
+    "#homeowner"
+  ],
+  "status": "rendered",
+  "revid_audio_project": "mncfcwhqfavsTEa7xotO",
+  "sources": [
+    "https://www.realestatewitch.com/average-real-estate-commission/ (sellers pay about 5.49% in agent fees, Clever Real Estate survey)",
+    "https://www.rocketmortgage.com/learn/time-to-close-on-a-house (average 42 days to close a purchase in 2025)",
+    "https://blog.idealagent.com/cash-buyer-vs-traditional-sale (cash sales close in about 7 to 21 days, offers below market value)"
+  ],
+  "script": "I wanna sell my house. But do I list it... or take a cash offer?\n\nTwo Homies. Same house. Let's find out.\n\nListing Homie fixes up everything first. Whoa, whoa, whoa!\n\nThen he pays agent fees. Around five and a half percent of the price.\n\nAnd he waits. About forty-two days to close with a mortgage.\n\nBut he usually gets the higher price.\n\nCash Homie sells as-is. No repairs. No showings.\n\nThe offer is lower, but he can close in one to three weeks.\n\nNeed top dollar and have time? List it. Need speed, or the house needs work? Get a cash offer. Smartest move? Compare both.\n\nIf Homie can sell it, so can you.",
+  "audio_end": 44.885,
+  "end_card": {
+    "seconds": 2.2,
+    "line1": "SAVE THIS.",
+    "line2": "BEFORE YOU SELL.",
+    "handle": "@homiethehouseguy"
+  },
+  "captions_stop": 41.44,
+  "cover": {
+    "still": "s2.jpg",
+    "zoom": 1.0,
+    "focus": [
+      0.5,
+      0.5
+    ],
+    "shift_down": 380,
+    "lines": [
+      "SELLING YOUR HOUSE?",
+      "CASH OR LIST?"
+    ]
+  },
+  "shots": [
+    {
+      "still": "s1.jpg",
+      "start": 0.0,
+      "end": 5.44,
+      "zoom": [
+        1.0,
+        1.06
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "FOR",
+          "SALE"
+        ]
+      }
+    },
+    {
+      "split": [
+        {
+          "still": "s2.jpg",
+          "focus": [
+            0.42,
+            0.5
+          ]
+        },
+        {
+          "still": "s4.jpg",
+          "focus": [
+            0.42,
+            0.5
+          ]
+        }
+      ],
+      "start": 5.44,
+      "end": 8.8,
+      "zoom": [
+        1.0,
+        1.04
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "FOR",
+          "SALE"
+        ]
+      }
+    },
+    {
+      "still": "s2.jpg",
+      "start": 8.8,
+      "end": 13.2,
+      "zoom": [
+        1.0,
+        1.08
+      ],
+      "focus": [
+        0.45,
+        0.5
+      ]
+    },
+    {
+      "still": "s1.jpg",
+      "start": 13.2,
+      "end": 17.6,
+      "zoom": [
+        1.15,
+        1.22
+      ],
+      "focus": [
+        0.68,
+        0.52
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "FOR",
+          "SALE"
+        ]
+      }
+    },
+    {
+      "still": "s3.jpg",
+      "start": 17.6,
+      "end": 24.56,
+      "zoom": [
+        1.0,
+        1.1
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ]
+    },
+    {
+      "still": "s4.jpg",
+      "start": 24.56,
+      "end": 32.72,
+      "zoom": [
+        1.0,
+        1.08
+      ],
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "FOR",
+          "SALE"
+        ]
+      }
+    },
+    {
+      "still": "s5.jpg",
+      "start": 32.72,
+      "end": 41.44,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "FOR",
+          "SALE"
+        ]
+      }
+    },
+    {
+      "still": "s6.jpg",
+      "start": 41.44,
+      "end": 47.085,
+      "zoom": [
+        1.0,
+        1.06
+      ],
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "sign": {
+        "box": [
+          694,
+          925,
+          924,
+          1117
+        ],
+        "lines": [
+          "SOLD!"
+        ]
+      }
+    }
+  ],
+  "captions": [
+    [
+      0.0,
+      "I wanna sell my"
+    ],
+    [
+      1.12,
+      "house"
+    ],
+    [
+      1.76,
+      "But do I list it..."
+    ],
+    [
+      3.56,
+      "or take a cash offer?"
+    ],
+    [
+      5.44,
+      "Two Homies"
+    ],
+    [
+      6.48,
+      "Same house"
+    ],
+    [
+      7.6,
+      "Let's find out"
+    ],
+    [
+      8.8,
+      "Listing Homie fixes"
+    ],
+    [
+      10.08,
+      "up everything first"
+    ],
+    [
+      11.76,
+      "Whoa, whoa, whoa!"
+    ],
+    [
+      13.2,
+      "Then he pays agent"
+    ],
+    [
+      14.48,
+      "fees"
+    ],
+    [
+      15.12,
+      "Around five and"
+    ],
+    [
+      15.92,
+      "a half percent of"
+    ],
+    [
+      16.68,
+      "the price"
+    ],
+    [
+      17.6,
+      "And he waits"
+    ],
+    [
+      19.04,
+      "About forty-two"
+    ],
+    [
+      20.08,
+      "days to close with"
+    ],
+    [
+      21.12,
+      "a mortgage"
+    ],
+    [
+      22.0,
+      "But he usually gets"
+    ],
+    [
+      23.24,
+      "the higher price"
+    ],
+    [
+      24.56,
+      "Cash Homie sells"
+    ],
+    [
+      25.76,
+      "as-is"
+    ],
+    [
+      26.8,
+      "No repairs"
+    ],
+    [
+      27.84,
+      "No showings"
+    ],
+    [
+      28.88,
+      "The offer is lower,"
+    ],
+    [
+      30.2,
+      "but he can close"
+    ],
+    [
+      31.12,
+      "in one to three"
+    ],
+    [
+      31.92,
+      "weeks"
+    ],
+    [
+      32.72,
+      "Need top dollar"
+    ],
+    [
+      33.6,
+      "and have time?"
+    ],
+    [
+      34.72,
+      "List it"
+    ],
+    [
+      35.6,
+      "Need speed,"
+    ],
+    [
+      36.44,
+      "or the house needs"
+    ],
+    [
+      37.2,
+      "work?"
+    ],
+    [
+      37.84,
+      "Get a cash offer"
+    ],
+    [
+      39.2,
+      "Smartest move?"
+    ],
+    [
+      40.24,
+      "Compare both"
+    ]
+  ],
+  "overlays": [
+    {
+      "type": "hook",
+      "start": 0.2,
+      "end": 5.3,
+      "lines": [
+        "SELLING YOUR HOUSE?",
+        "LIST IT OR CASH?"
+      ],
+      "y": 400
+    },
+    {
+      "type": "tag",
+      "start": 5.6,
+      "end": 8.8,
+      "text": "LIST IT",
+      "color": "teal",
+      "x": 270,
+      "y": 330,
+      "rot": -3
+    },
+    {
+      "type": "tag",
+      "start": 5.9,
+      "end": 8.8,
+      "text": "CASH OFFER",
+      "color": "orange",
+      "x": 810,
+      "y": 330,
+      "rot": 3
+    },
+    {
+      "type": "tag",
+      "start": 9.0,
+      "end": 11.76,
+      "text": "REPAIRS FIRST",
+      "color": "yellow",
+      "x": 600,
+      "y": 380,
+      "rot": -4
+    },
+    {
+      "type": "splat",
+      "start": 11.85,
+      "end": 13.2,
+      "color": "red",
+      "count": 6,
+      "seed": 4
+    },
+    {
+      "type": "impact",
+      "at": 11.85,
+      "dur": 1.3,
+      "text": "SPLAT!",
+      "x": 780,
+      "y": 560
+    },
+    {
+      "type": "counter",
+      "start": 13.3,
+      "end": 17.6,
+      "value": 5.5,
+      "decimals": 1,
+      "suffix_always": "%",
+      "suffix": "%",
+      "color": "orange",
+      "icon": "coin",
+      "labels": [
+        [
+          13.3,
+          "AGENT FEES"
+        ],
+        [
+          16.7,
+          "OF YOUR SALE PRICE"
+        ]
+      ],
+      "y": 520
+    },
+    {
+      "type": "counter",
+      "start": 19.0,
+      "end": 22.0,
+      "value": 42,
+      "color": "blue",
+      "labels": [
+        [
+          19.0,
+          "DAYS TO CLOSE"
+        ],
+        [
+          21.1,
+          "WITH A MORTGAGE"
+        ]
+      ],
+      "y": 480
+    },
+    {
+      "type": "check",
+      "start": 22.4,
+      "end": 24.56,
+      "text": "HIGHER PRICE",
+      "y": 480
+    },
+    {
+      "type": "tag",
+      "start": 26.8,
+      "end": 28.88,
+      "text": "NO REPAIRS",
+      "color": "yellow",
+      "x": 560,
+      "y": 360,
+      "rot": -4
+    },
+    {
+      "type": "tag",
+      "start": 27.84,
+      "end": 28.88,
+      "text": "NO SHOWINGS",
+      "color": "yellow",
+      "x": 560,
+      "y": 490,
+      "rot": 3
+    },
+    {
+      "type": "tag",
+      "start": 29.0,
+      "end": 32.72,
+      "text": "LOWER OFFER",
+      "color": "orange",
+      "x": 620,
+      "y": 335,
+      "rot": -4
+    },
+    {
+      "type": "price",
+      "start": 31.1,
+      "end": 32.72,
+      "text": "1 TO 3 WEEKS",
+      "x": 640,
+      "y": 475
+    },
+    {
+      "type": "versus",
+      "start": 32.8,
+      "end": 41.44,
+      "left": "LIST IT",
+      "right": "CASH",
+      "y": 1160,
+      "rows": [
+        [
+          "Higher price",
+          "+",
+          "-"
+        ],
+        [
+          "Fast close",
+          "-",
+          "+"
+        ],
+        [
+          "Sell as-is",
+          "-",
+          "+"
+        ]
+      ]
+    },
+    {
+      "type": "stamp",
+      "start": 39.3,
+      "end": 41.44,
+      "text": "COMPARE BOTH",
+      "color": "teal",
+      "y": 390,
+      "rot": -6
+    },
+    {
+      "type": "catchphrase",
+      "start": 41.44,
+      "end": 44.885,
+      "verb": "SELL IT"
+    }
+  ]
+}

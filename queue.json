@@ -1,5 +1,5 @@
 {
-  "next_number": 9,
+  "next_number": 10,
   "concepts": [
     {
       "number": 1,
@@ -62,6 +62,15 @@
       "status": "proposed",
       "slack_channel": "C0CGK7SHV0S",
       "slack_thread_ts": "1794338554.280509"
+    },
+    {
+      "number": 9,
+      "title": "Cash Offer vs Listing",
+      "verb": "SELL IT",
+      "status": "rendered",
+      "episode": "episodes/002-cash-or-list",
+      "episode_number": 2,
+      "note": "Picked by Max in chat on 2026-11-10; awaiting his OK to post"
     }
   ]
 }

@@ -154,6 +154,38 @@ class Episode:
             self.imgs[fn] = im.resize((round(im.width * sc), round(im.height * sc)), Image.LANCZOS)
         return self.imgs[fn]
 
+    def still(self, sh, fn=None):
+        """Base still for a shot, with a yard-sign text drawn on it when the shot asks for one."""
+        fn = fn or sh['still']; sign = sh.get('sign')
+        if not sign: return self.base_img(fn)
+        key = 'sign_' + fn + json.dumps(sign)
+        if key not in self.cache:
+            im = self.base_img(fn).copy(); d = ImageDraw.Draw(im)
+            x0, y0, x1, y1 = sign['box']; lines = sign.get('lines', ['FOR', 'SALE'])
+            d.rectangle((x0, y0, x1, y1), fill=(250, 250, 248))
+            d.rectangle((x0 + 8, y0 + 8, x1 - 8, y1 - 8), outline=RED, width=6)
+            hh = (y1 - y0 - 30) / len(lines)
+            for k, ln in enumerate(lines):
+                size = int(hh * 0.9); f = font(FC, size)
+                while ImageDraw.Draw(im).textbbox((0, 0), ln, font=f)[2] > (x1 - x0 - 40) and size > 20:
+                    size -= 4; f = font(FC, size)
+                d.text(((x0 + x1) / 2, y0 + 15 + hh * (k + 0.5) + 4), ln, font=f, fill=RED, anchor='mm')
+            self.cache[key] = im
+        return self.cache[key]
+
+    def split_frame(self, sh, z):
+        """Two stills side by side (left/right halves), each cropped around its own focus point."""
+        fr = Image.new('RGB', (W, H), INK)
+        for k, side in enumerate(sh['split']):
+            im = self.still(sh, side['still'])
+            hw = W // 2; cw, ch = hw / z, H / z
+            fx, fy = side.get('focus', [0.5, 0.5])
+            cx = clamp(fx * im.width, cw / 2, im.width - cw / 2); cy = clamp(fy * im.height, ch / 2, im.height - ch / 2)
+            half = im.resize((hw, H), Image.BILINEAR, box=(cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2))
+            fr.paste(half, (k * hw, 0))
+        ImageDraw.Draw(fr).rectangle((W // 2 - 6, 0, W // 2 + 6, H), fill=INK)
+        return fr
+
     # ----- effects drawn in image space -----
     def fx_geyser(self, sh, t):
         """Lever snaps off, water geyser arcs out of the faucet base. params: pop, hub [x,y], lever [x,y], arc."""
@@ -207,8 +239,10 @@ class Episode:
                 z0, z1 = sh.get('zoom', [1.0, 1.06]); fx, fy = sh.get('focus', [0.5, 0.45])
                 p = ease_in_out((t - a) / max(0.01, b - a))
                 z = (z0 + (z1 - z0) * p) * (1 + 0.04 * (1 - ease_out((t - a) / 0.25)))
+                if 'split' in sh:
+                    return self.split_frame(sh, z)
                 eff = sh.get('effect', {}).get('type')
-                im = self.fx_geyser(sh, t) if eff == 'geyser' else self.base_img(sh['still'])
+                im = self.fx_geyser(sh, t) if eff == 'geyser' else self.still(sh)
                 cw, ch = W / z, H / z
                 cx = clamp(fx * im.width, cw / 2, im.width - cw / 2)
                 cy = clamp(fy * im.height, ch / 2, im.height - ch / 2)
@@ -238,8 +272,10 @@ class Episode:
             paste_scaled(fr, l, o.get('x', W / 2), o.get('y', 520), 1.8 - 0.8 * ease_out(sp), rot=o.get('rot', -9), alpha=clamp(sp * 2) * out)
         elif ty == 'counter':
             cp = back_out(prog(t, a, 0.4))
-            n = int(o['value'] * ease_out(prog(t, a + 0.2, o.get('count_secs', 1.6))))
-            num = o.get('prefix', '') + f"{n:,}" + (o.get('suffix', '') if n >= o['value'] else '')
+            dec = o.get('decimals', 0)
+            v = o['value'] * ease_out(prog(t, a + 0.2, o.get('count_secs', 1.6)))
+            n = round(v, dec) if dec else int(v)
+            num = o.get('prefix', '') + (f"{n:,.{dec}f}" if dec else f"{n:,}") + (o.get('suffix', '') if n >= o['value'] else o.get('suffix_always', ''))
             sub = o['labels'][0][1]
             for st, lab in o['labels']:
                 if t >= st: sub = lab
@@ -270,9 +306,52 @@ class Episode:
         elif ty == 'catchphrase':
             l = self.layer(key, lambda: self._catch(o['verb']))
             paste_scaled(fr, l, W / 2, o.get('y', 470) + 6 * math.sin((t - a) * 5), back_out(prog(t, a, 0.45)))
+        elif ty == 'splat':
+            # irregular paint splats in "zones" that avoid the character's face; short drips
+            col = COLORS.get(o.get('color', 'red'), RED); p = ease_out(prog(t, a, 0.2))
+            zones = o.get('zones', [[60, 280, 360, 620], [760, 560, 1020, 1100], [300, 1120, 820, 1300]])
+            rnd = random.Random(o.get('seed', 3)); l = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(l)
+            for k in range(o.get('count', 6)):
+                x0, y0, x1, y1 = zones[k % len(zones)]
+                bx, by = rnd.uniform(x0, x1), rnd.uniform(y0, y1); r = rnd.uniform(45, 85) * p
+                if r < 2: continue
+                parts = [(bx, by, r)] + [(bx + rnd.uniform(-1.3, 1.3) * r, by + rnd.uniform(-1.3, 1.3) * r, r * rnd.uniform(0.25, 0.5)) for _ in range(6)]
+                drip = min(70, (t - a) * rnd.uniform(40, 90))
+                for (cx, cy, rr) in parts:
+                    d.ellipse((cx - rr - 6, cy - rr - 6, cx + rr + 6, cy + rr + 6), fill=INK)
+                d.rounded_rectangle((bx - r * 0.22 - 6, by, bx + r * 0.22 + 6, by + r * 0.8 + drip + 6), radius=int(r * 0.22) + 4, fill=INK)
+                for (cx, cy, rr) in parts:
+                    d.ellipse((cx - rr, cy - rr, cx + rr, cy + rr), fill=col)
+                d.rounded_rectangle((bx - r * 0.22, by, bx + r * 0.22, by + r * 0.8 + drip), radius=int(r * 0.22) + 1, fill=col)
+                d.ellipse((bx - r * 0.45, by - r * 0.5, bx - r * 0.1, by - r * 0.2), fill=(255, 140, 130))
+            paste_scaled(fr, l, W / 2, H / 2, 1, alpha=out)
+        elif ty == 'versus':
+            l = self.layer(key, lambda: self._versus(o))
+            paste_scaled(fr, l, W / 2, o.get('y', 560), back_out(prog(t, a, 0.4)), alpha=out)
         elif ty == 'text':
             l = self.layer(key, lambda: self._text(o))
             paste_scaled(fr, l, o.get('x', W / 2), o.get('y', 520), back_out(prog(t, a, 0.3)), rot=o.get('rot', 0), alpha=out)
+
+    def _versus(self, o):
+        """Two-column comparison card. o: left, right (titles), rows: [[label, left_mark, right_mark]] with marks '+' or '-'."""
+        w = 940; rows = o['rows']; rh = 96; h = 150 + rh * len(rows) + 30
+        l = Image.new('RGBA', (w + 30, h + 30), (0, 0, 0, 0)); d = ImageDraw.Draw(l)
+        d.rounded_rectangle((14, 16, w + 14, h + 16), radius=40, fill=(0, 0, 0, 110))
+        d.rounded_rectangle((0, 0, w, h), radius=40, fill=CREAM, outline=INK, width=8)
+        cols = [w * 0.38, w * 0.69, w * 0.88]
+        d.text((cols[1], 78), o['left'], font=font(F, 50), fill=TEAL_D, anchor='mm')
+        d.text((cols[2], 78), o['right'], font=font(F, 50), fill=ORANGE, anchor='mm')
+        for k, (lab, lm, rm) in enumerate(rows):
+            y = 150 + rh * k + rh / 2
+            d.line((30, y - rh / 2, w - 30, y - rh / 2), fill=(225, 214, 196), width=3)
+            d.text((50, y), lab, font=font(F, 54), fill=INK, anchor='lm')
+            for cx, m in ((cols[1], lm), (cols[2], rm)):
+                good = m == '+'
+                d.ellipse((cx - 30, y - 30, cx + 30, y + 30), fill=TEAL if good else RED, outline=INK, width=5)
+                if good: d.line([(cx - 14, y + 1), (cx - 4, y + 12), (cx + 15, y - 11)], fill=CREAM, width=8, joint='curve')
+                else:
+                    d.line([(cx - 11, y - 11), (cx + 11, y + 11)], fill=CREAM, width=8); d.line([(cx - 11, y + 11), (cx + 11, y - 11)], fill=CREAM, width=8)
+        return l
 
     def _hook(self, lines):
         l = Image.new('RGBA', (W, 420), (0, 0, 0, 0))

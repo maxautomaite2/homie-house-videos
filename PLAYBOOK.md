@@ -72,4 +72,4 @@ Post 7 numbered concepts in #content-updates. Each concept is one line: `#N Titl
 
 ## Overlay types (engine)
 
-`hook`, `impact` (burst + shake + flash), `stamp`, `counter` (value, prefix, suffix, labels, icon drop|coin), `step`, `tag` (optional rotating arrow), `price`, `check`, `catchphrase`, `text`. Shot effects: `geyser` (snapped handle + water). New effects go in `engine/render.py` as `fx_<name>` and get documented here.
+`hook`, `impact` (burst + shake + flash), `splat` (paint splats in zones that avoid the face), `stamp`, `counter` (value, decimals, prefix, suffix, labels, icon drop|coin), `step`, `tag` (x, y, color, optional rotating arrow), `price`, `check`, `versus` (two-column comparison card with check/cross rows), `catchphrase`, `text`. Shot options: `split` (two stills side by side), `sign` (text painted on a blank yard sign, box in image px), effect `geyser` (snapped handle + water). Episode 2 (`episodes/002-cash-or-list`) is the reference for money/comparison episodes. New effects go in `engine/render.py` as `fx_<name>` and get documented here.
