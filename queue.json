@@ -67,10 +67,11 @@
       "number": 9,
       "title": "Cash Offer vs Listing",
       "verb": "SELL IT",
-      "status": "rendered",
+      "status": "posted",
       "episode": "episodes/002-cash-or-list",
       "episode_number": 2,
-      "note": "Picked by Max in chat on 2026-11-10; awaiting his OK to post"
+      "note": "Picked by Max in chat on 2026-11-10; awaiting his OK to post",
+      "revid_content_id": "a398a3f4-65f2-4d82-89de-4330b2e0c619"
     }
   ]
 }

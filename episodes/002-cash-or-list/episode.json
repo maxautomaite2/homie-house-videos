@@ -13,7 +13,7 @@
     "#realestatetips",
     "#homeowner"
   ],
-  "status": "rendered",
+  "status": "posted",
   "revid_audio_project": "mncfcwhqfavsTEa7xotO",
   "sources": [
     "https://www.realestatewitch.com/average-real-estate-commission/ (sellers pay about 5.49% in agent fees, Clever Real Estate survey)",
@@ -566,5 +566,6 @@
       "end": 44.885,
       "verb": "SELL IT"
     }
-  ]
+  ],
+  "posted_at": "2026-11-10T14:58:00-05:00"
 }
