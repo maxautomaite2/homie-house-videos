@@ -12,7 +12,7 @@ Writing rule for everything we publish or post: **never use em dashes.**
 | Slack approvals channel | #content-updates, id `C0CGK7SHV0S` |
 | Revid character "Homie" | `6b157212-5e31-4b08-8c4b-1e3c5e9c298c` |
 | Voice | Stevie, The Living Cartoon, voiceId `IvUJKFyjVb5hItY9dJAT` |
-| Post time | 12:00 America/New_York, one episode per day |
+| Post time | After an approve reply in #content-updates, at 1:33pm or 4:33pm America/New_York, one episode per day |
 | Credit budget | target ~80 credits per episode, hard stop at 150 (report in Slack instead of continuing) |
 
 Reference images already on Revid's CDN (use as `referenceImages`):
@@ -48,13 +48,13 @@ Facts: every number or instruction must be true. Search the web to confirm any s
 
 One short punchy line built on the stat or the payoff, plus 4 topic hashtags. Example: `One drip per second wastes 3,000 gallons a year. The fix costs $20.` then `#homeownertips #diyhomerepair #leakyfaucet #homeowner`.
 
-## Weekly concepts (Sunday run)
+## Weekly concepts (Monday morning run)
 
-Post 7 numbered concepts in #content-updates. Each concept is one line: `#N Title: gag / stat / fix / verb`. Append them to `queue.json` with `status: "proposed"` and the Slack message `ts`. Max replies in the thread with the numbers he approves or edits; the daily run reads that thread.
+Post ONE message in #content-updates with 7 numbered concepts, one per day Tuesday to Monday, each with its date: `N. **Day Mon DD, #Q Title**: gag / stat / fix / verb` (Q is the queue number). Say how to reply: `approve` takes all, `approve 3, 6` takes some, any other text is an edit to apply. Append the concepts to `queue.json` with `status: "proposed"`, `scheduled_for` (the date) and the Slack message `ts`. Max or Aaron reply in that thread; the daily run reads it. Concepts that never get a reply stay `proposed` and are never produced.
 
-## Daily production (morning run)
+## Daily production (morning run, 10:47am ET)
 
-1. Read `queue.json` and the latest concepts thread in #content-updates. Apply any replies: approved numbers become `approved`, edits change the concept. Pick the oldest `approved` concept that has not been produced. If none, post "No approved Homie concept for today" in the channel and stop.
+1. Read `queue.json` and the concepts thread in #content-updates (`slack_thread_ts` on the concepts). Apply the replies: `approve` sets every concept in that message to `approved`; `approve 3, 6` only those numbers; any other reply that names a number edits that concept (update gag, stat, fix or title to what was asked, keep it `approved`). Then pick the `approved` concept whose `scheduled_for` is today; if none is dated today, take the oldest `approved` one not yet produced. If there is none, post "No approved Homie concept for today" in the channel and stop. Never produce a `proposed` concept.
 2. Write the script (8 to 11 short lines, Homie's voice, clumsy but helpful) and the shot list (8 to 11 shots, each 2 to 6 s). Create `episodes/NNN-slug/episode.json` from the episode 1 file.
 3. **Stills.** `generate_media` image, ratio 9:16, quality `good`, characterIds [Homie], referenceImages [set still, turnaround or expressions or poses]. Prompt pattern: "Exact same kitchen, camera angle and style as the first reference image... Homie <pose>, <expression>. Vertical framing, no text." Close-ups of hands: "cartoon hand with thick black outline and a teal ribbed sweater cuff, 4 cartoon fingers, no glove". Download to `stills/sN.jpg`.
 4. **Still QC** (look at every still): one Homie only, normal arm length, hands attached, same set, sweater logo, no text, no gloves. Regenerate bad ones (max 2 tries per shot). If a still has an extra Homie but one good one, crop to the good one (that is what fixed episode 1's shot 1).
@@ -67,8 +67,19 @@ Post 7 numbered concepts in #content-updates. Each concept is one line: `#N Titl
    - `lines`: 2 short lines, all caps. Line 1 = the problem as a question or setup (cream). Line 2 = the punch (yellow), 2 to 4 words. Example: "DRIPPING FAUCET?" / "DON'T DO THIS."
    - `shift_down` (usually 300 to 420) so the headline sits over wall or cabinets, never over Homie's face. `label` defaults to the series label.
    - Check the cover AND its centered 3:4 crop (y 240 to 1680): label, both lines and Homie's face must all be inside it.
-10. **Publish.** Upload both files with `create_upload_url` + PUT (video/mp4 and image/jpeg), then `schedule_publish` with `scheduledTime` today 12:00 America/New_York (or `publish_now` if that time has passed), `instagram: {id: "28530495066629147"}`, `extraParams.description` = caption + hashtags, `extraParams.thumbnailUrl` = the cover URL.
-11. **Report** in #content-updates: episode number, title, caption, credits used, scheduled time. Update `queue.json` (`status: "scheduled"`) and `log.csv`, commit and push.
+10. **Upload, do not publish.** Upload both files with `create_upload_url` + PUT (video/mp4 and image/jpeg). Save the two URLs in `episode.json` under `uploads` (`video_url`, `cover_url`) and the caption under `caption`.
+11. **Post for review** in #content-updates, as a new message (not in the concepts thread): episode number, title, the video URL and the cover URL so they play in Slack, the caption + hashtags, credits used, and the line "Reply **approve**, **change: ...** or **reject**. Publishes at the next window (1:33pm or 4:33pm ET) only after an approve." Save that message `ts` on the concept as `review_ts`, set `status: "in_review"`. Update `log.csv` with `posted_at` empty, commit and push.
+
+## Publish approved (runs 1:33pm and 4:33pm ET)
+
+1. For every concept with `status: "in_review"`, read its review thread (`review_ts`).
+2. **approve** (any reply starting with approve, ok, go, yes): `publish_now` to Instagram, `instagram: {id: "28530495066629147"}`, `extraParams.description` = caption + hashtags, `extraParams.thumbnailUrl` = the cover URL. Set `status: "posted"`, fill `posted_at` in `log.csv`, reply in the thread "Posted" with the Instagram link if Revid returns one.
+3. **change: ...**: apply the change (new caption, re-render a shot, swap the cover...), re-upload what changed, post the new version as a reply in the same thread with the same "Reply approve..." line, and leave `status: "in_review"`. Stay under the 150 credit cap for the episode including the change; if a change needs more, say so in the thread and stop.
+4. **reject**: set `status: "rejected"`, reply "Dropped", nothing is published.
+5. No reply: do nothing, say nothing. The episode waits for the next window. If an episode has waited more than 48 hours, post one reminder in its thread and mention Aaron.
+6. Commit and push `queue.json`, `log.csv` and any changed episode files.
+
+Only the approve reply publishes. The old Sunday concepts task and the noon auto-publish are retired.
 
 ## Overlay types (engine)
 

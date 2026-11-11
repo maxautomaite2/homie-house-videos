@@ -11,9 +11,10 @@
    "number": 2,
    "title": "Running Toilet",
    "verb": "FIX IT",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794338554.280509",
+   "note": "Not in the Nov 12 to 15 test batch; re-propose in a later weekly list"
   },
   {
    "number": 3,
@@ -21,7 +22,16 @@
    "verb": "FIX IT",
    "status": "proposed",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794433656.729099",
+   "scheduled_for": "2026-11-13",
+   "gag": "Homie swats the chirping detector with a broom at 3am, it lands in the sink",
+   "stat": "About 3 out of 5 home fire deaths happen in homes with no or non-working smoke alarm (NFPA)",
+   "fix": [
+    "Twist it off, swap the battery",
+    "Hold the test button until it screams",
+    "Check the date on the back, replace the unit at 10 years"
+   ],
+   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
   },
   {
    "number": 4,
@@ -29,15 +39,25 @@
    "verb": "HANDLE IT",
    "status": "proposed",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794433656.729099",
+   "scheduled_for": "2026-11-14",
+   "gag": "Homie aims a blowtorch at a frozen pipe under the sink, cabinet starts smoking",
+   "stat": "Uninsulated pipes start freezing around 20 F outside (Building Research Council, U of Illinois)",
+   "fix": [
+    "Shut off the main water valve",
+    "Open the faucet so melting water can escape",
+    "Warm with a hair dryer or hot towels, never a flame; burst pipe = call a plumber"
+   ],
+   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
   },
   {
    "number": 5,
    "title": "Clogged Drain",
    "verb": "FIX IT",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794338554.280509",
+   "note": "Not in the Nov 12 to 15 test batch; re-propose in a later weekly list"
   },
   {
    "number": 6,
@@ -45,7 +65,16 @@
    "verb": "SAVE",
    "status": "proposed",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794433656.729099",
+   "scheduled_for": "2026-11-12",
+   "gag": "Homie vacuums the old filter, gets a face full of dust, jams it back in backwards",
+   "stat": "Clogged filter raises heating/cooling energy use 5 to 15 percent (U.S. DOE)",
+   "fix": [
+    "Find the filter, read the size and arrow",
+    "Slide the new one in, arrow toward the furnace",
+    "Write the date on the frame, swap every 1 to 3 months"
+   ],
+   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
   },
   {
    "number": 7,
@@ -53,15 +82,25 @@
    "verb": "HANDLE IT",
    "status": "proposed",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794433656.729099",
+   "scheduled_for": "2026-11-15",
+   "gag": "Homie leaf-blows the clogged gutter from a wobbly ladder, wet mess lands on him",
+   "stat": "About 1 in 60 insured homes files a water damage or freezing claim each year (III)",
+   "fix": [
+    "Steady ladder and a scoop, bag the gunk",
+    "Flush the downspout with a hose until clear",
+    "Extend the downspout 4 to 6 feet from the foundation"
+   ],
+   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
   },
   {
    "number": 8,
    "title": "Selling a House That Needs Work",
    "verb": "SELL IT",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794338554.280509"
+   "slack_thread_ts": "1794338554.280509",
+   "note": "Not in the Nov 12 to 15 test batch; re-propose in a later weekly list"
   },
   {
    "number": 9,
