@@ -125,7 +125,7 @@
    "title": "Stuck in a Solar Contract",
    "vertical": "solar exit",
    "verb": "GET OUT OF IT",
-   "status": "in_review",
+   "status": "posted",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-12",
@@ -136,10 +136,11 @@
     "Read the cancellation and transfer clauses",
     "Write down what was promised vs what you got; have the contract reviewed before paying anyone"
    ],
-   "note": "Approved by Max in chat on 2026-11-12 (asked to produce it today). In review in #content-updates.",
+   "note": "Approved by Max in the review thread 2026-11-12; published by hand (no publish-approved task exists yet)",
    "episode": "episodes/004-solar-contract",
    "episode_number": 4,
-   "review_ts": "1794514329.697899"
+   "review_ts": "1794514329.697899",
+   "revid_content_id": "e7a9519f-bfbf-465c-955e-fe884e515799"
   },
   {
    "number": 11,

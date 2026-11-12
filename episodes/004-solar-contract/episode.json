@@ -13,7 +13,7 @@
   "#homeownertips",
   "#homeowner"
  ],
- "status": "in_review",
+ "status": "posted",
  "revid_audio_project": "SriaOTPDq5ciakpciiGK",
  "sources": [
   "https://www.ftc.gov/legal-library/browse/rules/cooling-period-sales-made-home-or-other-locations (FTC Cooling-Off Rule: 3 business days to cancel door-to-door sales over $25)"
@@ -534,5 +534,6 @@
  "uploads": {
   "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794514309928-5mok67o4-homie-fixes-004-solar-contract.mp4",
   "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794514310647-nh2w9b9c-homie-fixes-004-cover.jpg"
- }
+ },
+ "posted_at": "2026-11-12T16:12:00-05:00"
 }
