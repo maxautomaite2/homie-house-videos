@@ -1,0 +1,538 @@
+{
+ "number": 4,
+ "concept_number": 10,
+ "slug": "homie-fixes-004-solar-contract",
+ "series_label": "HOMIE FIXES #4",
+ "topic": "Stuck in a solar contract: what to check",
+ "vertical": "solar exit",
+ "catchphrase_verb": "GET OUT OF IT",
+ "caption": "Went solar and still paying two bills? Check these 3 things in your contract before you pay anyone.",
+ "hashtags": [
+  "#solarcontract",
+  "#solarpanels",
+  "#homeownertips",
+  "#homeowner"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "SriaOTPDq5ciakpciiGK",
+ "sources": [
+  "https://www.ftc.gov/legal-library/browse/rules/cooling-period-sales-made-home-or-other-locations (FTC Cooling-Off Rule: 3 business days to cancel door-to-door sales over $25)"
+ ],
+ "script": "I went solar to kill my electric bill.\n\nNow I get two. The solar payment, and the electric bill. Whoa!\n\nHere's the thing. If you signed at your door, federal law gives you three business days to cancel.\n\nPast that? Don't panic. Three steps.\n\nOne. Find your contract. Is it a lease, a power agreement, or a loan?\n\nTwo. Read the cancellation and transfer clauses.\n\nThree. Write down what they promised, and what you actually got.\n\nThen get that contract reviewed before you pay anyone a dime.\n\nIf Homie can get out of it, so can you.",
+ "audio_end": 36.97,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "READ YOUR CONTRACT.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 33.52,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 300,
+  "lines": [
+   "WENT SOLAR?",
+   "TWO BILLS NOW."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 2.88,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 2.88,
+   "end": 6.88,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 6.88,
+   "end": 9.12,
+   "zoom": [
+    1.1,
+    1.18
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 9.12,
+   "end": 13.92,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 13.92,
+   "end": 17.04,
+   "zoom": [
+    1.16,
+    1.24
+   ],
+   "focus": [
+    0.38,
+    0.48
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 17.04,
+   "end": 22.08,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 22.08,
+   "end": 25.52,
+   "zoom": [
+    1.22,
+    1.32
+   ],
+   "focus": [
+    0.5,
+    0.55
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 25.52,
+   "end": 29.52,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 29.52,
+   "end": 33.52,
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 33.52,
+   "end": 39.17,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.08,
+   "I went solar to"
+  ],
+  [
+   1.28,
+   "kill my electric"
+  ],
+  [
+   2.24,
+   "bill"
+  ],
+  [
+   2.88,
+   "Now I get two"
+  ],
+  [
+   4.24,
+   "The solar payment,"
+  ],
+  [
+   5.36,
+   "and the electric"
+  ],
+  [
+   6.24,
+   "bill"
+  ],
+  [
+   6.88,
+   "Whoa!"
+  ],
+  [
+   8.0,
+   "Here's the thing"
+  ],
+  [
+   9.12,
+   "If you signed at"
+  ],
+  [
+   9.92,
+   "your door,"
+  ],
+  [
+   10.72,
+   "federal law gives"
+  ],
+  [
+   11.72,
+   "you three business"
+  ],
+  [
+   12.64,
+   "days to cancel"
+  ],
+  [
+   13.92,
+   "Past that?"
+  ],
+  [
+   14.88,
+   "Don't panic"
+  ],
+  [
+   15.84,
+   "Three steps"
+  ],
+  [
+   17.04,
+   "One"
+  ],
+  [
+   17.68,
+   "Find your contract"
+  ],
+  [
+   18.96,
+   "Is it a lease,"
+  ],
+  [
+   19.88,
+   "a power agreement,"
+  ],
+  [
+   20.92,
+   "or a loan?"
+  ],
+  [
+   22.08,
+   "Two"
+  ],
+  [
+   22.64,
+   "Read the cancellation"
+  ],
+  [
+   23.76,
+   "and transfer clauses"
+  ],
+  [
+   25.52,
+   "Three"
+  ],
+  [
+   26.2,
+   "Write down what"
+  ],
+  [
+   26.88,
+   "they promised,"
+  ],
+  [
+   27.68,
+   "and what you actually"
+  ],
+  [
+   28.72,
+   "got"
+  ],
+  [
+   29.52,
+   "Then get that contract"
+  ],
+  [
+   30.88,
+   "reviewed before"
+  ],
+  [
+   31.76,
+   "you pay anyone a"
+  ],
+  [
+   32.8,
+   "dime"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 2.8,
+   "lines": [
+    "WENT SOLAR?",
+    "STILL GET A BILL?"
+   ],
+   "y": 400
+  },
+  {
+   "type": "impact",
+   "at": 2.95,
+   "dur": 1.2,
+   "text": "POOF!",
+   "x": 800,
+   "y": 480
+  },
+  {
+   "type": "tag",
+   "start": 4.24,
+   "end": 6.88,
+   "text": "SOLAR PAYMENT",
+   "color": "orange",
+   "x": 330,
+   "y": 360,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 5.36,
+   "end": 6.88,
+   "text": "+ ELECTRIC BILL",
+   "color": "yellow",
+   "x": 720,
+   "y": 1180,
+   "rot": 3
+  },
+  {
+   "type": "stamp",
+   "start": 6.9,
+   "end": 9.12,
+   "text": "2 BILLS",
+   "color": "red",
+   "x": 540,
+   "y": 400,
+   "rot": -7
+  },
+  {
+   "type": "tag",
+   "start": 9.2,
+   "end": 10.72,
+   "text": "SIGNED AT YOUR DOOR?",
+   "color": "teal",
+   "x": 540,
+   "y": 400,
+   "rot": -2
+  },
+  {
+   "type": "counter",
+   "start": 10.72,
+   "end": 13.92,
+   "value": 3,
+   "color": "blue",
+   "count_secs": 0.9,
+   "labels": [
+    [
+     10.72,
+     "BUSINESS DAYS"
+    ],
+    [
+     12.64,
+     "TO CANCEL (FTC RULE)"
+    ]
+   ],
+   "y": 460
+  },
+  {
+   "type": "text",
+   "start": 14.0,
+   "end": 15.84,
+   "text": "PAST THAT?",
+   "color": "cream",
+   "size": 110,
+   "x": 640,
+   "y": 380,
+   "rot": -3
+  },
+  {
+   "type": "stamp",
+   "start": 15.84,
+   "end": 17.04,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 660,
+   "y": 400,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 17.04,
+   "end": 22.08,
+   "n": 1,
+   "text": "Find your contract",
+   "from": "left",
+   "y": 400
+  },
+  {
+   "type": "tag",
+   "start": 18.96,
+   "end": 22.08,
+   "text": "LEASE?",
+   "color": "yellow",
+   "x": 830,
+   "y": 640,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 19.88,
+   "end": 22.08,
+   "text": "PPA?",
+   "color": "yellow",
+   "x": 850,
+   "y": 770,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 20.92,
+   "end": 22.08,
+   "text": "LOAN?",
+   "color": "yellow",
+   "x": 830,
+   "y": 900,
+   "rot": -3
+  },
+  {
+   "type": "step",
+   "start": 22.08,
+   "end": 25.52,
+   "n": 2,
+   "text": "Read the exit clauses",
+   "from": "right",
+   "y": 400
+  },
+  {
+   "type": "tag",
+   "start": 22.64,
+   "end": 25.52,
+   "text": "CANCELLATION",
+   "color": "orange",
+   "x": 760,
+   "y": 1150,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 23.76,
+   "end": 25.52,
+   "text": "TRANSFER",
+   "color": "orange",
+   "x": 780,
+   "y": 1280,
+   "rot": 3
+  },
+  {
+   "type": "step",
+   "start": 25.52,
+   "end": 29.52,
+   "n": 3,
+   "text": "Write it all down",
+   "from": "left",
+   "y": 400
+  },
+  {
+   "type": "tag",
+   "start": 26.88,
+   "end": 29.52,
+   "text": "WHAT THEY PROMISED",
+   "color": "yellow",
+   "x": 650,
+   "y": 1130,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 27.68,
+   "end": 29.52,
+   "text": "WHAT YOU GOT",
+   "color": "orange",
+   "x": 700,
+   "y": 1260,
+   "rot": 3
+  },
+  {
+   "type": "check",
+   "start": 29.6,
+   "end": 33.52,
+   "text": "GET IT REVIEWED",
+   "y": 400
+  },
+  {
+   "type": "tag",
+   "start": 31.76,
+   "end": 33.52,
+   "text": "BEFORE YOU PAY ANYONE",
+   "color": "yellow",
+   "x": 560,
+   "y": 1180,
+   "rot": -3
+  },
+  {
+   "type": "catchphrase",
+   "start": 33.52,
+   "end": 36.97,
+   "verb": "GET OUT OF IT",
+   "y": 1170
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794514309928-5mok67o4-homie-fixes-004-solar-contract.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794514310647-nh2w9b9c-homie-fixes-004-cover.jpg"
+ }
+}

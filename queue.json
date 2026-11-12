@@ -125,10 +125,10 @@
    "title": "Stuck in a Solar Contract",
    "vertical": "solar exit",
    "verb": "GET OUT OF IT",
-   "status": "proposed",
+   "status": "in_review",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
-   "scheduled_for": "2026-11-13",
+   "scheduled_for": "2026-11-12",
    "gag": "Homie opens the mail and gets buried under two bills: the solar payment and the electric bill he thought was gone",
    "stat": "Door-to-door sales come with a 3 business day right to cancel (FTC Cooling-Off Rule)",
    "fix": [
@@ -136,7 +136,10 @@
     "Read the cancellation and transfer clauses",
     "Write down what was promised vs what you got; have the contract reviewed before paying anyone"
    ],
-   "note": "Vertical list posted 2026-11-12. No company names, no legal promises."
+   "note": "Approved by Max in chat on 2026-11-12 (asked to produce it today). In review in #content-updates.",
+   "episode": "episodes/004-solar-contract",
+   "episode_number": 4,
+   "review_ts": "1794514329.697899"
   },
   {
    "number": 11,
