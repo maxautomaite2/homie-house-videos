@@ -1,5 +1,5 @@
 {
- "next_number": 10,
+ "next_number": 12,
  "concepts": [
   {
    "number": 1,
@@ -20,10 +20,9 @@
    "number": 3,
    "title": "Chirping Smoke Detector",
    "verb": "FIX IT",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794433656.729099",
-   "scheduled_for": "2026-11-13",
    "gag": "Homie swats the chirping detector with a broom at 3am, it lands in the sink",
    "stat": "About 3 out of 5 home fire deaths happen in homes with no or non-working smoke alarm (NFPA)",
    "fix": [
@@ -31,16 +30,15 @@
     "Hold the test button until it screams",
     "Check the date on the back, replace the unit at 10 years"
    ],
-   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
+   "note": "Replaced on 2026-11-12 by vertical topics (Max); re-propose only as one of the max 2 fix-it slots"
   },
   {
    "number": 4,
    "title": "Frozen Pipes",
    "verb": "HANDLE IT",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794433656.729099",
-   "scheduled_for": "2026-11-14",
    "gag": "Homie aims a blowtorch at a frozen pipe under the sink, cabinet starts smoking",
    "stat": "Uninsulated pipes start freezing around 20 F outside (Building Research Council, U of Illinois)",
    "fix": [
@@ -48,7 +46,7 @@
     "Open the faucet so melting water can escape",
     "Warm with a hair dryer or hot towels, never a flame; burst pipe = call a plumber"
    ],
-   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
+   "note": "Replaced on 2026-11-12 by vertical topics (Max); re-propose only as one of the max 2 fix-it slots"
   },
   {
    "number": 5,
@@ -63,10 +61,9 @@
    "number": 6,
    "title": "Dirty Furnace Filter",
    "verb": "SAVE",
-   "status": "proposed",
+   "status": "backlog",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794433656.729099",
-   "scheduled_for": "2026-11-12",
    "gag": "Homie vacuums the old filter, gets a face full of dust, jams it back in backwards",
    "stat": "Clogged filter raises heating/cooling energy use 5 to 15 percent (U.S. DOE)",
    "fix": [
@@ -74,7 +71,7 @@
     "Slide the new one in, arrow toward the furnace",
     "Write the date on the frame, swap every 1 to 3 months"
    ],
-   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
+   "note": "Replaced on 2026-11-12 by vertical topics (Max); re-propose only as one of the max 2 fix-it slots"
   },
   {
    "number": 7,
@@ -82,16 +79,17 @@
    "verb": "HANDLE IT",
    "status": "proposed",
    "slack_channel": "C0CGK7SHV0S",
-   "slack_thread_ts": "1794433656.729099",
+   "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-15",
    "gag": "Homie leaf-blows the clogged gutter from a wobbly ladder, wet mess lands on him",
    "stat": "About 1 in 60 insured homes files a water damage or freezing claim each year (III)",
    "fix": [
     "Steady ladder and a scoop, bag the gunk",
     "Flush the downspout with a hose until clear",
-    "Extend the downspout 4 to 6 feet from the foundation"
+    "Extend the downspout 4 to 6 feet from the foundation; look at gutter guards if you clean every month"
    ],
-   "note": "Test of the Monday approval flow, concepts posted Wed 2026-11-11"
+   "note": "Re-proposed 2026-11-12 in the vertical list",
+   "vertical": "gutters"
   },
   {
    "number": 8,
@@ -121,6 +119,42 @@
    "episode_number": 3,
    "note": "Picked and approved to post by Max in chat on 2026-11-10",
    "revid_content_id": "526370f7-8967-4694-8829-d675ba117e71"
+  },
+  {
+   "number": 10,
+   "title": "Stuck in a Solar Contract",
+   "vertical": "solar exit",
+   "verb": "GET OUT OF IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794513372.943039",
+   "scheduled_for": "2026-11-13",
+   "gag": "Homie opens the mail and gets buried under two bills: the solar payment and the electric bill he thought was gone",
+   "stat": "Door-to-door sales come with a 3 business day right to cancel (FTC Cooling-Off Rule)",
+   "fix": [
+    "Find the contract, check if it is a lease, a PPA or a loan",
+    "Read the cancellation and transfer clauses",
+    "Write down what was promised vs what you got; have the contract reviewed before paying anyone"
+   ],
+   "note": "Vertical list posted 2026-11-12. No company names, no legal promises."
+  },
+  {
+   "number": 11,
+   "title": "The Timeshare Bill That Never Stops",
+   "vertical": "timeshare exit",
+   "verb": "GET OUT OF IT",
+   "status": "proposed",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794513372.943039",
+   "scheduled_for": "2026-11-14",
+   "gag": "Homie gets a maintenance fee bill for a week he never used; the paper unrolls across the living room",
+   "stat": "Average timeshare maintenance fee is over $1,000 a year and rising (ARDA); confirm the current figure before production",
+   "fix": [
+    "Check if you are still inside the cancellation window (short, set by state law)",
+    "Call the resort and ask about an exit or deed-back program",
+    "Avoid anyone who wants a big upfront fee and guarantees a result"
+   ],
+   "note": "Vertical list posted 2026-11-12. No company names, no legal promises."
   }
  ]
 }

@@ -42,7 +42,7 @@ Cartoon Homie (thick black outlines, flat colors) inside a warm, realistic rende
 
 Catchphrase verbs: repairs = FIX IT, cash sale = SELL IT, insurance or anything confusing = FIGURE IT OUT, timeshare or solar contract = GET OUT OF IT, bills and energy = SAVE, seasonal prep = HANDLE IT.
 
-Topics: mostly home repairs and maintenance. About one episode in five can touch a HomeownerPedia topic (selling for cash, home insurance, timeshare exit, solar contract exit), always education first, no company names.
+Topics (changed 2026-11-12 at Max's request): At least 5 of the 7 weekly concepts must tie to one of our verticals: selling a house (cash offer vs listing, selling as-is, inherited house, behind on payments), home insurance, home warranty, solar contract exit, timeshare exit, gutters, home security. At most 2 can be classic fix-it tips, and prefer ones that lead into a vertical (a burst pipe into what insurance covers, a dead appliance into home warranty). No vertical more than twice in one week. Vertical episodes keep the same shape: gag, one sourced stat, 3 plain steps the homeowner can take, catchphrase. Education first, no company names, no legal or financial promises; for contract exits the last step is to have the contract reviewed by a licensed pro. Tag each concept with its vertical in queue.json (`vertical`).
 
 Facts: every number or instruction must be true. Search the web to confirm any stat and keep the source URL in `episode.json` (`sources`). Safety first: tell people to shut off water, power or gas when relevant. No electrical-panel or gas-line DIY; for those, the fix is "call a licensed pro."
 
