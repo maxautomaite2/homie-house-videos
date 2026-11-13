@@ -1,0 +1,502 @@
+{
+ "number": 5,
+ "concept_number": 11,
+ "slug": "homie-fixes-005-timeshare-bill",
+ "series_label": "HOMIE FIXES #5",
+ "topic": "The timeshare bill that never stops",
+ "vertical": "timeshare exit",
+ "catchphrase_verb": "GET OUT OF IT",
+ "caption": "The average timeshare fee is almost $1,500 a year and rising. 3 things to check if you want out.",
+ "hashtags": [
+  "#timeshare",
+  "#timeshareexit",
+  "#homeownertips",
+  "#moneytips"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "HDjlO7Uxd8Aa22qZzjTX",
+ "sources": [
+  "https://lendedu.com/blog/timeshare-maintenance-fees/ (average annual maintenance fee $1,480 per interval, ARDA 2025 industry study; $1,090 in 2020, $1,260 in 2023)",
+  "https://www.nerdwallet.com/finance/learn/how-to-get-rid-of-a-timeshare (rescission period varies by state, 3 to 15 days; some developers run discretionary take-back programs; upfront-fee resale offers are typically scams)"
+ ],
+ "script": "I bought a timeshare ten years ago. I used it twice.\n\nBut the bill still shows up. Every. Single. Year. Whoa!\n\nThe average maintenance fee is almost fifteen hundred dollars a year. And it keeps going up.\n\nWant out? Three steps.\n\nOne. Just bought it? Check your cancellation window. It's only a few days, and it depends on your state.\n\nTwo. Call the resort. Ask if they have an exit or deed-back program.\n\nThree. Watch out for anyone who wants a big upfront fee and guarantees a result.\n\nIf Homie can get out of it, so can you.",
+ "audio_end": 37.674,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "BEFORE THE NEXT BILL.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 34.24,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 380,
+  "lines": [
+   "TIMESHARE BILL?",
+   "IT NEVER STOPS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 4.16,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 4.16,
+   "end": 8.48,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 8.48,
+   "end": 15.12,
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 15.12,
+   "end": 17.2,
+   "zoom": [
+    1.12,
+    1.2
+   ],
+   "focus": [
+    0.4,
+    0.48
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 17.2,
+   "end": 23.84,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 23.84,
+   "end": 28.84,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 28.84,
+   "end": 34.24,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s8.jpg",
+   "start": 34.24,
+   "end": 39.874,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.08,
+   "I bought a timeshare"
+  ],
+  [
+   1.28,
+   "ten years ago"
+  ],
+  [
+   2.72,
+   "I used it twice"
+  ],
+  [
+   4.16,
+   "But the bill still"
+  ],
+  [
+   5.28,
+   "shows up"
+  ],
+  [
+   6.16,
+   "Every"
+  ],
+  [
+   6.8,
+   "Single"
+  ],
+  [
+   7.52,
+   "Year"
+  ],
+  [
+   8.48,
+   "Whoa!"
+  ],
+  [
+   9.28,
+   "The average maintenance"
+  ],
+  [
+   10.32,
+   "fee is almost fifteen"
+  ],
+  [
+   11.68,
+   "hundred dollars"
+  ],
+  [
+   12.4,
+   "a year"
+  ],
+  [
+   13.32,
+   "And it keeps going"
+  ],
+  [
+   14.32,
+   "up"
+  ],
+  [
+   15.12,
+   "Want out?"
+  ],
+  [
+   16.04,
+   "Three steps"
+  ],
+  [
+   17.2,
+   "One"
+  ],
+  [
+   17.92,
+   "Just bought it?"
+  ],
+  [
+   18.96,
+   "Check your cancellation"
+  ],
+  [
+   20.0,
+   "window"
+  ],
+  [
+   20.68,
+   "It's only a few"
+  ],
+  [
+   21.64,
+   "days,"
+  ],
+  [
+   21.95,
+   "and it depends on"
+  ],
+  [
+   22.72,
+   "your state"
+  ],
+  [
+   23.84,
+   "Two"
+  ],
+  [
+   24.48,
+   "Call the resort"
+  ],
+  [
+   25.72,
+   "Ask if they have"
+  ],
+  [
+   26.4,
+   "an exit or deed-back"
+  ],
+  [
+   27.92,
+   "program"
+  ],
+  [
+   28.84,
+   "Three"
+  ],
+  [
+   29.44,
+   "Watch out for anyone"
+  ],
+  [
+   30.64,
+   "who wants a big"
+  ],
+  [
+   31.44,
+   "upfront fee and"
+  ],
+  [
+   32.56,
+   "guarantees a result"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.0,
+   "lines": [
+    "OWN A TIMESHARE?",
+    "STILL PAYING?"
+   ],
+   "y": 420
+  },
+  {
+   "type": "tag",
+   "start": 2.8,
+   "end": 4.16,
+   "text": "USED IT TWICE",
+   "color": "yellow",
+   "x": 760,
+   "y": 760,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 4.2,
+   "dur": 1.2,
+   "text": "FWIP!",
+   "x": 800,
+   "y": 420
+  },
+  {
+   "type": "tag",
+   "start": 6.16,
+   "end": 8.48,
+   "text": "EVERY",
+   "color": "yellow",
+   "x": 800,
+   "y": 640,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 6.8,
+   "end": 8.48,
+   "text": "SINGLE",
+   "color": "yellow",
+   "x": 800,
+   "y": 770,
+   "rot": 3
+  },
+  {
+   "type": "tag",
+   "start": 7.52,
+   "end": 8.48,
+   "text": "YEAR",
+   "color": "orange",
+   "x": 800,
+   "y": 900,
+   "rot": -3
+  },
+  {
+   "type": "counter",
+   "start": 9.4,
+   "end": 15.12,
+   "value": 1480,
+   "prefix": "$",
+   "color": "red",
+   "icon": "coin",
+   "count_secs": 2.0,
+   "labels": [
+    [
+     9.4,
+     "AVG MAINTENANCE FEE"
+    ],
+    [
+     12.4,
+     "PER YEAR (ARDA)"
+    ]
+   ],
+   "y": 390
+  },
+  {
+   "type": "tag",
+   "start": 13.32,
+   "end": 15.12,
+   "text": "AND RISING",
+   "color": "orange",
+   "x": 790,
+   "y": 700,
+   "rot": -4
+  },
+  {
+   "type": "text",
+   "start": 15.2,
+   "end": 16.04,
+   "text": "WANT OUT?",
+   "color": "cream",
+   "size": 110,
+   "x": 640,
+   "y": 340,
+   "rot": -3
+  },
+  {
+   "type": "stamp",
+   "start": 16.04,
+   "end": 17.2,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 660,
+   "y": 350,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 17.2,
+   "end": 23.84,
+   "n": 1,
+   "text": "Check your cancel window",
+   "from": "left",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 20.68,
+   "end": 23.84,
+   "text": "ONLY A FEW DAYS",
+   "color": "yellow",
+   "x": 720,
+   "y": 1150,
+   "rot": -3
+  },
+  {
+   "type": "tag",
+   "start": 21.95,
+   "end": 23.84,
+   "text": "DEPENDS ON YOUR STATE",
+   "color": "orange",
+   "x": 600,
+   "y": 1280,
+   "rot": 3
+  },
+  {
+   "type": "step",
+   "start": 23.84,
+   "end": 28.84,
+   "n": 2,
+   "text": "Call the resort",
+   "from": "right",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 26.4,
+   "end": 28.84,
+   "text": "EXIT PROGRAM?",
+   "color": "yellow",
+   "x": 780,
+   "y": 660,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 27.2,
+   "end": 28.84,
+   "text": "DEED-BACK?",
+   "color": "yellow",
+   "x": 800,
+   "y": 790,
+   "rot": 3
+  },
+  {
+   "type": "step",
+   "start": 28.84,
+   "end": 34.24,
+   "n": 3,
+   "text": "Spot the red flags",
+   "from": "left",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 30.64,
+   "end": 34.24,
+   "text": "BIG UPFRONT FEE",
+   "color": "orange",
+   "x": 750,
+   "y": 660,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 32.56,
+   "end": 34.24,
+   "text": "\"GUARANTEED\" RESULT",
+   "color": "orange",
+   "x": 720,
+   "y": 790,
+   "rot": 3
+  },
+  {
+   "type": "catchphrase",
+   "start": 34.24,
+   "end": 37.674,
+   "verb": "GET OUT OF IT",
+   "y": 1170
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794601393251-uvlvq7pi-homie-fixes-005-timeshare-bill.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794601394067-ygn20my4-homie-fixes-005-cover.jpg"
+ }
+}

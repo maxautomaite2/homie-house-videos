@@ -147,18 +147,21 @@
    "title": "The Timeshare Bill That Never Stops",
    "vertical": "timeshare exit",
    "verb": "GET OUT OF IT",
-   "status": "approved",
+   "status": "in_review",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-14",
    "gag": "Homie gets a maintenance fee bill for a week he never used; the paper unrolls across the living room",
-   "stat": "Average timeshare maintenance fee is over $1,000 a year and rising (ARDA); confirm the current figure before production",
+   "stat": "Average maintenance fee $1,480 a year per interval (ARDA 2025 study)",
    "fix": [
     "Check if you are still inside the cancellation window (short, set by state law)",
     "Call the resort and ask about an exit or deed-back program",
     "Avoid anyone who wants a big upfront fee and guarantees a result"
    ],
-   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\")"
+   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\")",
+   "episode": "episodes/005-timeshare-bill",
+   "episode_number": 5,
+   "review_ts": "1794601413.209099"
   }
  ]
 }
