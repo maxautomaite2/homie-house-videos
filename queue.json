@@ -151,7 +151,7 @@
    "title": "The Timeshare Bill That Never Stops",
    "vertical": "timeshare exit",
    "verb": "GET OUT OF IT",
-   "status": "in_review",
+   "status": "posted",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-14",
@@ -162,10 +162,11 @@
     "Call the resort and ask about an exit or deed-back program",
     "Avoid anyone who wants a big upfront fee and guarantees a result"
    ],
-   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\")",
+   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\"); approved by Max in the review thread 2026-11-14, published by the publish-approved run",
    "episode": "episodes/005-timeshare-bill",
    "episode_number": 5,
-   "review_ts": "1794601413.209099"
+   "review_ts": "1794601413.209099",
+   "revid_content_id": "ae08ab4a-257b-4735-a50b-5e4b93750701"
   }
  ]
 }
