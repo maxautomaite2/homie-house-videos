@@ -7,3 +7,4 @@ Wide reference still per location. Use as reference image 1 for every shot there
 - basement utility room (gray upright furnace, ducts, water heater, wooden stairs): https://cdn.revid.ai/ai-gen/o_xoi8IW5.jpg
 - front yard with solar panels on the roof and a curbside mailbox: https://cdn.revid.ai/ai-gen/P0bWRF-Qj.jpg
 - living room (beige sofa, floor lamp, beach photo on the wall, window with curtains): https://cdn.revid.ai/ai-gen/Uq6gqP03p.jpg
+- side wall of a one-story house with gutter, downspout and ladder (autumn lawn): https://cdn.revid.ai/ai-gen/U1I7W8YbC.jpg

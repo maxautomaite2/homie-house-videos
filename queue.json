@@ -77,7 +77,7 @@
    "number": 7,
    "title": "Overflowing Gutters",
    "verb": "HANDLE IT",
-   "status": "approved",
+   "status": "in_review",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-15",
@@ -89,7 +89,11 @@
     "Extend the downspout 4 to 6 feet from the foundation; look at gutter guards if you clean every month"
    ],
    "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\")",
-   "vertical": "gutters"
+   "vertical": "gutters",
+   "episode": "episodes/006-overflowing-gutters",
+   "episode_number": 6,
+   "review_ts": "1794672409.657549",
+   "revid_content_id": "DBQF5cifKJqU9bDkGSRt"
   },
   {
    "number": 8,

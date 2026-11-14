@@ -1,0 +1,473 @@
+{
+ "number": 6,
+ "concept_number": 7,
+ "slug": "homie-fixes-006-overflowing-gutters",
+ "series_label": "HOMIE FIXES #6",
+ "topic": "Overflowing gutters",
+ "vertical": "gutters",
+ "catchphrase_verb": "HANDLE IT",
+ "caption": "About 1 in 60 insured homes files a water or freezing claim every year. Clean gutters are step one.",
+ "hashtags": [
+  "#gutters",
+  "#guttercleaning",
+  "#homeownertips",
+  "#homemaintenance"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "DBQF5cifKJqU9bDkGSRt",
+ "set": "https://cdn.revid.ai/ai-gen/U1I7W8YbC.jpg",
+ "sources": [
+  "https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance (Insurance Information Institute: water damage and freezing claims, roughly 1 in 60 insured homes per year)",
+  "https://www.moneytalksnews.com/water-damage-and-freezing-claims-average-checks-to-make-this-winter/ (\"roughly 1 in 60 insured homes filed a claim each year, based on 2018 through 2020 data\"; average claim about $15,400 for 2019 to 2023)"
+ ],
+ "script": "Clogged gutters? Easy. I've got a leaf blower.\n\nWhoa! Oh no. It's in my mouth.\n\nAbout one in sixty insured homes files a water damage or freezing claim every year.\n\nAnd an overflowing gutter dumps rain right at your foundation.\n\nHere's the real fix. Three steps.\n\nOne. Steady ladder, a scoop, and a bag for the gunk.\n\nTwo. Flush the downspout with a hose until it runs clear.\n\nThree. Extend the downspout four to six feet from the house. Cleaning every month? Look at gutter guards.\n\nIf Homie can handle it, so can you.",
+ "audio_end": 36.8,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "BEFORE THE NEXT STORM.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 33.36,
+ "cover": {
+  "still": "s2.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 380,
+  "lines": [
+   "CLOGGED GUTTERS?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 3.76,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 3.76,
+   "end": 6.8,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 6.8,
+   "end": 12.51,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 12.51,
+   "end": 16.35,
+   "zoom": [
+    1.2,
+    1.3
+   ],
+   "focus": [
+    0.68,
+    0.55
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 16.35,
+   "end": 19.04,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.6,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 19.04,
+   "end": 22.96,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.35,
+    0.45
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 22.96,
+   "end": 26.88,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.6,
+    0.55
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 26.88,
+   "end": 30.84,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.6,
+    0.6
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 30.84,
+   "end": 33.36,
+   "zoom": [
+    1.25,
+    1.35
+   ],
+   "focus": [
+    0.35,
+    0.3
+   ]
+  },
+  {
+   "still": "s8.jpg",
+   "start": 33.36,
+   "end": 39.0,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.08,
+   "Clogged gutters?"
+  ],
+  [
+   1.44,
+   "Easy"
+  ],
+  [
+   2.24,
+   "I've got a leaf"
+  ],
+  [
+   3.04,
+   "blower"
+  ],
+  [
+   3.76,
+   "Whoa!"
+  ],
+  [
+   4.48,
+   "Oh no"
+  ],
+  [
+   5.28,
+   "It's in my mouth"
+  ],
+  [
+   6.8,
+   "About one in sixty"
+  ],
+  [
+   8.12,
+   "insured homes files"
+  ],
+  [
+   9.36,
+   "a water damage or"
+  ],
+  [
+   10.48,
+   "freezing claim every"
+  ],
+  [
+   11.76,
+   "year"
+  ],
+  [
+   12.51,
+   "And an overflowing"
+  ],
+  [
+   13.48,
+   "gutter dumps rain"
+  ],
+  [
+   14.64,
+   "right at your foundation"
+  ],
+  [
+   16.35,
+   "Here's the real"
+  ],
+  [
+   17.44,
+   "fix"
+  ],
+  [
+   17.84,
+   "Three steps"
+  ],
+  [
+   19.04,
+   "One"
+  ],
+  [
+   19.68,
+   "Steady ladder,"
+  ],
+  [
+   20.56,
+   "a scoop,"
+  ],
+  [
+   21.25,
+   "and a bag for the"
+  ],
+  [
+   22.08,
+   "gunk"
+  ],
+  [
+   22.96,
+   "Two"
+  ],
+  [
+   23.6,
+   "Flush the downspout"
+  ],
+  [
+   24.52,
+   "with a hose until"
+  ],
+  [
+   25.52,
+   "it runs clear"
+  ],
+  [
+   26.88,
+   "Three"
+  ],
+  [
+   27.6,
+   "Extend the downspout"
+  ],
+  [
+   28.64,
+   "four to six feet"
+  ],
+  [
+   29.6,
+   "from the house"
+  ],
+  [
+   30.84,
+   "Cleaning every month?"
+  ],
+  [
+   32.0,
+   "Look at gutter guards"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.76,
+   "lines": [
+    "CLOGGED GUTTERS?",
+    "DON'T DO THIS."
+   ],
+   "y": 430
+  },
+  {
+   "type": "impact",
+   "at": 3.8,
+   "dur": 1.2,
+   "text": "SPLAT!",
+   "x": 820,
+   "y": 440
+  },
+  {
+   "type": "tag",
+   "start": 5.28,
+   "end": 6.8,
+   "text": "BLEH!",
+   "color": "orange",
+   "x": 260,
+   "y": 420,
+   "rot": -6
+  },
+  {
+   "type": "counter",
+   "start": 6.9,
+   "end": 12.51,
+   "value": 60,
+   "prefix": "1 IN ",
+   "color": "blue",
+   "icon": "drop",
+   "count_secs": 1.2,
+   "labels": [
+    [
+     6.9,
+     "INSURED HOMES"
+    ],
+    [
+     9.36,
+     "WATER OR FREEZE CLAIM"
+    ],
+    [
+     11.76,
+     "EVERY YEAR (III)"
+    ]
+   ],
+   "y": 410
+  },
+  {
+   "type": "tag",
+   "start": 13.48,
+   "end": 16.35,
+   "text": "RAIN ON YOUR FOUNDATION",
+   "color": "orange",
+   "x": 540,
+   "y": 420,
+   "rot": -3
+  },
+  {
+   "type": "text",
+   "start": 16.4,
+   "end": 17.84,
+   "text": "THE REAL FIX",
+   "color": "cream",
+   "size": 110,
+   "x": 540,
+   "y": 340,
+   "rot": -3
+  },
+  {
+   "type": "stamp",
+   "start": 17.84,
+   "end": 19.04,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 560,
+   "y": 350,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 19.04,
+   "end": 22.96,
+   "n": 1,
+   "text": "Steady ladder + scoop",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 21.25,
+   "end": 22.96,
+   "text": "BAG THE GUNK",
+   "color": "yellow",
+   "x": 780,
+   "y": 980,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 22.96,
+   "end": 26.88,
+   "n": 2,
+   "text": "Flush the downspout",
+   "from": "right",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 25.52,
+   "end": 26.88,
+   "text": "RUNS CLEAR",
+   "color": "yellow",
+   "x": 300,
+   "y": 760,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 26.88,
+   "end": 30.84,
+   "n": 3,
+   "text": "Extend the downspout",
+   "from": "left",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 28.64,
+   "end": 30.84,
+   "text": "4 TO 6 FT AWAY",
+   "color": "yellow",
+   "x": 760,
+   "y": 760,
+   "rot": -4
+  },
+  {
+   "type": "check",
+   "start": 31.2,
+   "end": 33.36,
+   "text": "GUTTER GUARDS",
+   "y": 1180
+  },
+  {
+   "type": "catchphrase",
+   "start": 33.36,
+   "end": 36.8,
+   "verb": "HANDLE IT",
+   "y": 330
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794672386153-4xkrch93-homie-fixes-006-overflowing-gutters.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794672386719-yfoah34m-homie-fixes-006-cover.jpg"
+ },
+ "review_ts": "1794672409.657549"
+}
