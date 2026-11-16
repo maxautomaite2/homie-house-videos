@@ -1,5 +1,5 @@
 {
- "next_number": 12,
+ "next_number": 19,
  "concepts": [
   {
    "number": 1,
@@ -167,6 +167,132 @@
    "episode_number": 5,
    "review_ts": "1794601413.209099",
    "revid_content_id": "ae08ab4a-257b-4735-a50b-5e4b93750701"
+  },
+  {
+   "number": 12,
+   "title": "Burst Pipe: Is It Covered?",
+   "vertical": "home insurance",
+   "verb": "FIGURE IT OUT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-17",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "Homie plugs a spraying burst pipe with chewing gum and it rockets across the basement",
+   "stat": "Water damage and freezing claims average about $15,400 (III, 2019 to 2023)",
+   "fix": [
+    "Shut off the main water valve",
+    "Photograph everything before you clean up",
+    "Read your policy: a sudden burst is usually covered, a slow leak or a flood usually is not; then call your insurer"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 13,
+   "title": "Leaving Town for Thanksgiving",
+   "vertical": "home security",
+   "verb": "HANDLE IT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-18",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "Homie tapes a GONE TILL SUNDAY sign on the front door and posts road trip selfies while packages pile up on the porch",
+   "stat": "The average burglary costs the victim about $2,661 (FBI, 2019)",
+   "fix": [
+    "Put lights on timers and hold your mail and deliveries",
+    "Post the trip photos after you get home",
+    "Lock every door and window and ask a neighbor to check in"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 14,
+   "title": "Behind on House Payments",
+   "vertical": "selling a house (behind on payments)",
+   "verb": "FIGURE IT OUT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-19",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "Homie hides the mortgage letters in the freezer, the freezer door will not close",
+   "stat": "In most cases a servicer cannot start foreclosure until you are more than 120 days behind (CFPB rule)",
+   "fix": [
+    "Open the mail and call your servicer early",
+    "Ask what options exist: forbearance, a repayment plan, a modification, or selling before it gets to foreclosure",
+    "Talk to a free HUD-approved housing counselor before you sign anything"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 15,
+   "title": "Oven Dies Before Thanksgiving",
+   "vertical": "home warranty",
+   "verb": "FIGURE IT OUT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-20",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "The oven dies with the turkey inside and Homie tries to finish it with a hair dryer",
+   "stat": "An electric range lasts about 13 years, a gas range about 15 (NAHB)",
+   "fix": [
+    "Check the easy stuff first: clock set, door lock off, plugged in",
+    "Find your manufacturer or home warranty and read what is covered and the service fee",
+    "Book the repair before the holiday rush and get the repair vs replace quote in writing"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 16,
+   "title": "Turkey Grease Down the Drain",
+   "vertical": "fix-it",
+   "verb": "FIX IT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-21",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "Homie pours a whole pan of hot turkey grease into the sink and the drain burps it back up at him",
+   "stat": "Grease is one of the leading causes of sewer blockages and backups (EPA)",
+   "fix": [
+    "Let the grease cool, pour it into a can and toss it in the trash",
+    "Wipe pans with a paper towel before washing",
+    "Slow drain: hot water and dish soap, then a plunger, never mix chemical cleaners"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 17,
+   "title": "Inheriting the Family House",
+   "vertical": "selling a house (inherited house)",
+   "verb": "SELL IT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-22",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "At the family dinner everyone grabs the house deed, Homie wins the tug of war and rips it in half",
+   "stat": "Only 46 percent of US adults have a will (Gallup, 2021)",
+   "fix": [
+    "Find out if there is a will or trust and who the executor is",
+    "Keep the house locked, insured and the bills paid while it sits empty",
+    "Get a value estimate and talk to a probate attorney before selling"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+  },
+  {
+   "number": 18,
+   "title": "Ice Dams",
+   "vertical": "gutters",
+   "verb": "HANDLE IT",
+   "status": "proposed",
+   "scheduled_for": "2026-11-23",
+   "slack_channel": "C0CGK7SHV0S",
+   "slack_thread_ts": "1794830803.074069",
+   "gag": "Homie hacks at the ice on the gutter with a hammer from a ladder and the whole gutter rips off",
+   "stat": "Ice dams form when the upper roof is above 32 F while the edge stays below freezing (University of Minnesota Extension)",
+   "fix": [
+    "From the ground, pull snow off the roof edge with a roof rake",
+    "Keep gutters and downspouts clear before the freeze",
+    "Water stains on the ceiling: call a roofer and have the attic insulation and ventilation checked"
+   ],
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
   }
  ]
 }
