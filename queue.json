@@ -77,7 +77,7 @@
    "number": 7,
    "title": "Overflowing Gutters",
    "verb": "HANDLE IT",
-   "status": "in_review",
+   "status": "posted",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794513372.943039",
    "scheduled_for": "2026-11-15",
@@ -88,12 +88,14 @@
     "Flush the downspout with a hose until clear",
     "Extend the downspout 4 to 6 feet from the foundation; look at gutter guards if you clean every month"
    ],
-   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\")",
+   "note": "Approved by Max in chat on 2026-11-13 (\"approve 2 and 3 for this week\"); approved by Max in the review thread 2026-11-15, published by the publish-approved run 2026-11-16 1:37pm ET",
    "vertical": "gutters",
    "episode": "episodes/006-overflowing-gutters",
    "episode_number": 6,
    "review_ts": "1794672409.657549",
-   "revid_content_id": "DBQF5cifKJqU9bDkGSRt"
+   "revid_content_id": "DBQF5cifKJqU9bDkGSRt",
+   "publish_content_id": "90872ba8-a67b-4aa0-b13b-882c37cec308",
+   "instagram_post_id": "18101954504453067"
   },
   {
    "number": 8,
@@ -184,11 +186,12 @@
     "Photograph everything before you clean up",
     "Read your policy: a sudden burst is usually covered, a slow leak or a flood usually is not; then call your insurer"
    ],
-   "note": "Produced by Max's request in chat on 2026-11-16 (a day early); awaiting Aaron's approve in the review thread",
+   "note": "Produced by Max's request in chat on 2026-11-16 (a day early); awaiting Aaron's approve in the review thread; Aaron approved in the review thread 2026-11-16 12:40pm ET. Held on 2026-11-16 because episode 6 was posted that day (one episode per day): publish at the first window on or after 2026-11-17 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/007-burst-pipe",
    "episode_number": 7,
-   "review_ts": "1794850048.493039"
+   "review_ts": "1794850048.493039",
+   "publish_not_before": "2026-11-17"
   },
   {
    "number": 13,
