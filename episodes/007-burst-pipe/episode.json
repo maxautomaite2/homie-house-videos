@@ -1,0 +1,479 @@
+{
+ "number": 7,
+ "concept_number": 12,
+ "slug": "homie-fixes-007-burst-pipe",
+ "series_label": "HOMIE FIXES #7",
+ "topic": "Burst pipe: is it covered?",
+ "vertical": "home insurance",
+ "catchphrase_verb": "FIGURE IT OUT",
+ "caption": "A burst pipe claim averages about $15,400. Three things to do before you call your insurer.",
+ "hashtags": [
+  "#burstpipe",
+  "#homeinsurance",
+  "#homeownertips",
+  "#waterdamage"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "KH1tG2pnmizPikD9e8Cg",
+ "set": "https://cdn.revid.ai/ai-gen/o_xoi8IW5.jpg",
+ "sources": [
+  "https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance (Insurance Information Institute, Average Homeowners Losses 2019 to 2023: water damage and freezing, average claim severity $15,400)"
+ ],
+ "script": "Burst pipe? Relax. I've got gum.\n\nWhoa! Hey! Come back here!\n\nWater damage and freezing claims average about fifteen thousand four hundred dollars.\n\nSo, is a burst pipe covered? Usually, yes. If you do this.\n\nOne. Shut off the main water valve. Right now.\n\nTwo. Take photos of everything before you clean up.\n\nThree. Read your policy. A sudden burst is usually covered. A slow leak or a flood usually is not. Then call your insurer.\n\nIf Homie can figure it out, so can you.",
+ "audio_end": 36.74,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "BEFORE THE FIRST FREEZE.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 33.12,
+ "cover": {
+  "still": "s2.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 380,
+  "lines": [
+   "BURST PIPE?",
+   "NOT LIKE THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 3.44,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 3.44,
+   "end": 5.92,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 5.92,
+   "end": 11.04,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 11.04,
+   "end": 16.48,
+   "zoom": [
+    1.18,
+    1.28
+   ],
+   "focus": [
+    0.35,
+    0.4
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 16.48,
+   "end": 20.32,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "focus": [
+    0.55,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 20.32,
+   "end": 24.28,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.55
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 24.28,
+   "end": 31.6,
+   "zoom": [
+    1.35,
+    1.42
+   ],
+   "focus": [
+    0.3,
+    0.52
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 31.6,
+   "end": 33.12,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 33.12,
+   "end": 38.94,
+   "zoom": [
+    1.06,
+    1.12
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.08,
+   "Burst pipe?"
+  ],
+  [
+   1.28,
+   "Relax"
+  ],
+  [
+   2.24,
+   "I've got gum"
+  ],
+  [
+   3.44,
+   "Whoa!"
+  ],
+  [
+   4.0,
+   "Hey!"
+  ],
+  [
+   4.48,
+   "Come back here!"
+  ],
+  [
+   5.92,
+   "Water damage and"
+  ],
+  [
+   6.92,
+   "freezing claims"
+  ],
+  [
+   7.84,
+   "average about fifteen"
+  ],
+  [
+   9.04,
+   "thousand four hundred"
+  ],
+  [
+   10.2,
+   "dollars"
+  ],
+  [
+   11.04,
+   "So,"
+  ],
+  [
+   11.52,
+   "is a burst pipe"
+  ],
+  [
+   12.52,
+   "covered?"
+  ],
+  [
+   13.2,
+   "Usually,"
+  ],
+  [
+   14.12,
+   "yes"
+  ],
+  [
+   14.72,
+   "If you do this"
+  ],
+  [
+   16.48,
+   "One"
+  ],
+  [
+   17.08,
+   "Shut off the main"
+  ],
+  [
+   18.0,
+   "water valve"
+  ],
+  [
+   19.08,
+   "Right now"
+  ],
+  [
+   20.32,
+   "Two"
+  ],
+  [
+   21.0,
+   "Take photos of everything"
+  ],
+  [
+   22.48,
+   "before you clean"
+  ],
+  [
+   23.44,
+   "up"
+  ],
+  [
+   24.28,
+   "Three"
+  ],
+  [
+   24.88,
+   "Read your policy"
+  ],
+  [
+   26.24,
+   "A sudden burst is"
+  ],
+  [
+   27.36,
+   "usually covered"
+  ],
+  [
+   28.51,
+   "A slow leak or a"
+  ],
+  [
+   29.56,
+   "flood usually is"
+  ],
+  [
+   30.8,
+   "not"
+  ],
+  [
+   31.6,
+   "Then call your insurer"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.44,
+   "lines": [
+    "BURST PIPE?",
+    "NOT LIKE THIS."
+   ],
+   "y": 1180
+  },
+  {
+   "type": "impact",
+   "at": 3.5,
+   "dur": 1.3,
+   "text": "SPLOOSH!",
+   "x": 800,
+   "y": 520
+  },
+  {
+   "type": "tag",
+   "start": 4.48,
+   "end": 5.92,
+   "text": "GUM: GONE",
+   "color": "orange",
+   "x": 790,
+   "y": 900,
+   "rot": -6
+  },
+  {
+   "type": "counter",
+   "start": 6.0,
+   "end": 11.04,
+   "value": 15400,
+   "prefix": "$",
+   "color": "blue",
+   "icon": "drop",
+   "count_secs": 1.6,
+   "labels": [
+    [
+     6.0,
+     "AVERAGE CLAIM"
+    ],
+    [
+     7.84,
+     "WATER + FREEZE CLAIMS"
+    ],
+    [
+     10.2,
+     "2019 TO 2023 (III)"
+    ]
+   ],
+   "y": 1190
+  },
+  {
+   "type": "tag",
+   "start": 11.52,
+   "end": 13.2,
+   "text": "COVERED?",
+   "color": "yellow",
+   "x": 790,
+   "y": 470,
+   "rot": -4
+  },
+  {
+   "type": "stamp",
+   "start": 13.2,
+   "end": 14.72,
+   "text": "USUALLY, YES",
+   "color": "teal",
+   "x": 600,
+   "y": 1190,
+   "rot": -7
+  },
+  {
+   "type": "stamp",
+   "start": 14.72,
+   "end": 16.48,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 780,
+   "y": 420,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 16.48,
+   "end": 20.32,
+   "n": 1,
+   "text": "Shut off the main valve",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 19.08,
+   "end": 20.32,
+   "text": "RIGHT NOW",
+   "color": "yellow",
+   "x": 780,
+   "y": 400,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 20.32,
+   "end": 24.28,
+   "n": 2,
+   "text": "Photos of everything",
+   "from": "right",
+   "y": 340
+  },
+  {
+   "type": "tag",
+   "start": 22.48,
+   "end": 24.28,
+   "text": "BEFORE CLEANUP",
+   "color": "yellow",
+   "x": 790,
+   "y": 760,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 24.28,
+   "end": 26.24,
+   "n": 3,
+   "text": "Read your policy",
+   "from": "left",
+   "y": 340
+  },
+  {
+   "type": "versus",
+   "start": 26.24,
+   "end": 31.6,
+   "left": "COVERED",
+   "right": "NOT",
+   "title_size": 38,
+   "cols": [
+    0.4,
+    0.6,
+    0.86
+   ],
+   "y": 1170,
+   "rows": [
+    [
+     "Sudden burst",
+     "+",
+     "-"
+    ],
+    [
+     "Slow leak",
+     "-",
+     "+"
+    ],
+    [
+     "Flood",
+     "-",
+     "+"
+    ]
+   ]
+  },
+  {
+   "type": "check",
+   "start": 31.7,
+   "end": 33.12,
+   "text": "CALL INSURER",
+   "y": 1190
+  },
+  {
+   "type": "catchphrase",
+   "start": 33.12,
+   "end": 36.74,
+   "verb": "FIGURE IT OUT",
+   "y": 1170
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794850010271-smyntddf-homie-fixes-007-burst-pipe.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794850011186-8yh8cgqp-homie-fixes-007-cover.jpg"
+ },
+ "review_ts": "1794850048.493039"
+}

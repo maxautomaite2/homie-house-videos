@@ -173,7 +173,7 @@
    "title": "Burst Pipe: Is It Covered?",
    "vertical": "home insurance",
    "verb": "FIGURE IT OUT",
-   "status": "proposed",
+   "status": "in_review",
    "scheduled_for": "2026-11-17",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -184,14 +184,18 @@
     "Photograph everything before you clean up",
     "Read your policy: a sudden burst is usually covered, a slow leak or a flood usually is not; then call your insurer"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Produced by Max's request in chat on 2026-11-16 (a day early); awaiting Aaron's approve in the review thread",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
+   "episode": "episodes/007-burst-pipe",
+   "episode_number": 7,
+   "review_ts": "1794850048.493039"
   },
   {
    "number": 13,
    "title": "Leaving Town for Thanksgiving",
    "vertical": "home security",
    "verb": "HANDLE IT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-18",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -202,14 +206,15 @@
     "Post the trip photos after you get home",
     "Lock every door and window and ask a neighbor to check in"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   },
   {
    "number": 14,
    "title": "Behind on House Payments",
    "vertical": "selling a house (behind on payments)",
    "verb": "FIGURE IT OUT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-19",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -220,14 +225,15 @@
     "Ask what options exist: forbearance, a repayment plan, a modification, or selling before it gets to foreclosure",
     "Talk to a free HUD-approved housing counselor before you sign anything"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   },
   {
    "number": 15,
    "title": "Oven Dies Before Thanksgiving",
    "vertical": "home warranty",
    "verb": "FIGURE IT OUT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-20",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -238,14 +244,15 @@
     "Find your manufacturer or home warranty and read what is covered and the service fee",
     "Book the repair before the holiday rush and get the repair vs replace quote in writing"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   },
   {
    "number": 16,
    "title": "Turkey Grease Down the Drain",
    "vertical": "fix-it",
    "verb": "FIX IT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-21",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -256,14 +263,15 @@
     "Wipe pans with a paper towel before washing",
     "Slow drain: hot water and dish soap, then a plunger, never mix chemical cleaners"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   },
   {
    "number": 17,
    "title": "Inheriting the Family House",
    "vertical": "selling a house (inherited house)",
    "verb": "SELL IT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-22",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -274,14 +282,15 @@
     "Keep the house locked, insured and the bills paid while it sits empty",
     "Get a value estimate and talk to a probate attorney before selling"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   },
   {
    "number": 18,
    "title": "Ice Dams",
    "vertical": "gutters",
    "verb": "HANDLE IT",
-   "status": "proposed",
+   "status": "approved",
    "scheduled_for": "2026-11-23",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -292,7 +301,8 @@
     "Keep gutters and downspouts clear before the freeze",
     "Water stains on the ceiling: call a roofer and have the attic insulation and ventilation checked"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
   }
  ]
 }
