@@ -175,7 +175,7 @@
    "title": "Burst Pipe: Is It Covered?",
    "vertical": "home insurance",
    "verb": "FIGURE IT OUT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-17",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -186,12 +186,14 @@
     "Photograph everything before you clean up",
     "Read your policy: a sudden burst is usually covered, a slow leak or a flood usually is not; then call your insurer"
    ],
-   "note": "Produced by Max's request in chat on 2026-11-16 (a day early); awaiting Aaron's approve in the review thread; Aaron approved in the review thread 2026-11-16 12:40pm ET. Held on 2026-11-16 because episode 6 was posted that day (one episode per day): publish at the first window on or after 2026-11-17 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Produced by Max's request in chat on 2026-11-16 (a day early); awaiting Aaron's approve in the review thread; Aaron approved in the review thread 2026-11-16 12:40pm ET. Held on 2026-11-16 because episode 6 was posted that day (one episode per day): publish at the first window on or after 2026-11-17 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-17 1:37pm ET (extraParams.title = caption line, required by Revid for Instagram)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/007-burst-pipe",
    "episode_number": 7,
    "review_ts": "1794850048.493039",
-   "publish_not_before": "2026-11-17"
+   "publish_not_before": "2026-11-17",
+   "publish_content_id": "54394583-c6a6-47a7-a370-ecdd69f4a737",
+   "instagram_post_id": "18653167129048325"
   },
   {
    "number": 13,
@@ -209,12 +211,13 @@
     "Post the trip photos after you get home",
     "Lock every door and window and ask a neighbor to check in"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-17 (FBI CIUS 2019 burglary, $2,661). Produced 2026-11-17 (a day early, #12 already in review); awaiting approve in the review thread",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-17 (FBI CIUS 2019 burglary, $2,661). Produced 2026-11-17 (a day early, #12 already in review); awaiting approve in the review thread; Aaron approved in the review thread 2026-11-17 11:09am ET. Held on 2026-11-17 because episode 7 was posted that day (one episode per day): publish at the first window on or after 2026-11-18 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/008-leaving-town",
    "episode_number": 8,
    "review_ts": "1794931485.292239",
-   "revid_content_id": "nW9af6oGxGK4liMlzNP4"
+   "revid_content_id": "nW9af6oGxGK4liMlzNP4",
+   "publish_not_before": "2026-11-18"
   },
   {
    "number": 14,
