@@ -1,0 +1,483 @@
+{
+ "number": 8,
+ "concept_number": 13,
+ "slug": "homie-fixes-008-leaving-town",
+ "series_label": "HOMIE FIXES #8",
+ "topic": "Leaving town for Thanksgiving",
+ "vertical": "home security",
+ "catchphrase_verb": "HANDLE IT",
+ "caption": "The average burglary costs the victim $2,661. Do these 3 things before you hit the road for Thanksgiving.",
+ "hashtags": [
+  "#homesecurity",
+  "#thanksgivingtravel",
+  "#homeownertips",
+  "#burglaryprevention"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "nW9af6oGxGK4liMlzNP4",
+ "set": "https://cdn.revid.ai/ai-gen/dGLwQPqE1.jpg",
+ "sources": [
+  "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/burglary (FBI, Crime in the United States 2019, Burglary: the average dollar loss per burglary offense was $2,661)"
+ ],
+ "script": "Thanksgiving road trip! Better tell the whole world I'm gone.\n\nSign on the door. Selfie for the internet. Nailed it!\n\nUh oh. Who ordered all these packages?\n\nThe average burglary costs the victim about two thousand six hundred sixty-one dollars.\n\nSo before you hit the road, do this.\n\nOne. Put your lights on timers, and hold your mail and deliveries.\n\nTwo. Post the trip photos after you get home.\n\nThree. Lock every door and window, and ask a neighbor to check in.\n\nIf Homie can handle it, so can you.",
+ "audio_end": 34.24,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "BEFORE YOU HIT THE ROAD.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 30.88,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.3,
+  "focus": [
+   0.6,
+   0.45
+  ],
+  "shift_down": 380,
+  "lines": [
+   "LEAVING TOWN?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 4.16,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "sign": {
+    "box": [
+     462,
+     628,
+     616,
+     842
+    ],
+    "lines": [
+     "GONE",
+     "TILL",
+     "SUNDAY!"
+    ]
+   }
+  },
+  {
+   "still": "s1.jpg",
+   "start": 4.16,
+   "end": 5.36,
+   "zoom": [
+    1.3,
+    1.38
+   ],
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "sign": {
+    "box": [
+     462,
+     628,
+     616,
+     842
+    ],
+    "lines": [
+     "GONE",
+     "TILL",
+     "SUNDAY!"
+    ]
+   }
+  },
+  {
+   "still": "s2.jpg",
+   "start": 5.36,
+   "end": 7.92,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.92,
+   "end": 10.8,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 10.8,
+   "end": 16.13,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 16.13,
+   "end": 18.88,
+   "zoom": [
+    1.3,
+    1.4
+   ],
+   "focus": [
+    0.55,
+    0.42
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 18.88,
+   "end": 23.2,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 23.2,
+   "end": 26.68,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 26.68,
+   "end": 30.88,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 30.88,
+   "end": 36.44,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.08,
+   "Thanksgiving road"
+  ],
+  [
+   1.12,
+   "trip!"
+  ],
+  [
+   1.84,
+   "Better tell the"
+  ],
+  [
+   2.48,
+   "whole world I'm"
+  ],
+  [
+   3.48,
+   "gone"
+  ],
+  [
+   4.16,
+   "Sign on the door"
+  ],
+  [
+   5.36,
+   "Selfie for the internet"
+  ],
+  [
+   6.88,
+   "Nailed it!"
+  ],
+  [
+   7.92,
+   "Uh oh"
+  ],
+  [
+   8.72,
+   "Who ordered all"
+  ],
+  [
+   9.36,
+   "these packages?"
+  ],
+  [
+   10.8,
+   "The average burglary"
+  ],
+  [
+   12.04,
+   "costs the victim"
+  ],
+  [
+   12.8,
+   "about two thousand"
+  ],
+  [
+   13.92,
+   "six hundred sixty-one"
+  ],
+  [
+   15.12,
+   "dollars"
+  ],
+  [
+   16.13,
+   "So before you hit"
+  ],
+  [
+   16.96,
+   "the road"
+  ],
+  [
+   17.68,
+   "do this"
+  ],
+  [
+   18.88,
+   "One"
+  ],
+  [
+   19.52,
+   "Put your lights"
+  ],
+  [
+   20.2,
+   "on timers"
+  ],
+  [
+   21.04,
+   "and hold your mail"
+  ],
+  [
+   21.92,
+   "and deliveries"
+  ],
+  [
+   23.2,
+   "Two"
+  ],
+  [
+   23.88,
+   "Post the trip photos"
+  ],
+  [
+   25.04,
+   "after you get home"
+  ],
+  [
+   26.68,
+   "Three"
+  ],
+  [
+   27.28,
+   "Lock every door"
+  ],
+  [
+   28.28,
+   "and window"
+  ],
+  [
+   28.96,
+   "and ask a neighbor"
+  ],
+  [
+   29.84,
+   "to check in"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.16,
+   "lines": [
+    "LEAVING TOWN?",
+    "DON'T DO THIS."
+   ],
+   "y": 1180
+  },
+  {
+   "type": "tag",
+   "start": 4.3,
+   "end": 5.36,
+   "text": "TELLS EVERYONE",
+   "color": "orange",
+   "x": 330,
+   "y": 1150,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 6.0,
+   "end": 7.92,
+   "text": "POSTED LIVE!",
+   "color": "orange",
+   "x": 800,
+   "y": 1000,
+   "rot": -5
+  },
+  {
+   "type": "impact",
+   "at": 7.95,
+   "dur": 1.2,
+   "text": "UH OH!",
+   "x": 290,
+   "y": 470
+  },
+  {
+   "type": "tag",
+   "start": 9.0,
+   "end": 10.8,
+   "text": "NOBODY HOME",
+   "color": "yellow",
+   "x": 790,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 10.9,
+   "end": 16.13,
+   "value": 2661,
+   "prefix": "$",
+   "color": "red",
+   "icon": "coin",
+   "count_secs": 1.6,
+   "labels": [
+    [
+     10.9,
+     "AVERAGE BURGLARY"
+    ],
+    [
+     12.8,
+     "COST TO THE VICTIM"
+    ],
+    [
+     15.12,
+     "FBI, 2019"
+    ]
+   ],
+   "y": 1210
+  },
+  {
+   "type": "stamp",
+   "start": 17.68,
+   "end": 18.88,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 600,
+   "y": 1330,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 18.88,
+   "end": 23.2,
+   "n": 1,
+   "text": "Lights on timers",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 21.04,
+   "end": 23.2,
+   "text": "HOLD MAIL + PACKAGES",
+   "color": "yellow",
+   "x": 600,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 23.2,
+   "end": 26.68,
+   "n": 2,
+   "text": "Post photos later",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 25.04,
+   "end": 26.68,
+   "text": "AFTER YOU'RE HOME",
+   "color": "yellow",
+   "x": 700,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 26.68,
+   "end": 28.96,
+   "n": 3,
+   "text": "Lock every door",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "check",
+   "start": 28.96,
+   "end": 30.88,
+   "text": "ASK A NEIGHBOR",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 30.88,
+   "end": 34.24,
+   "verb": "HANDLE IT",
+   "y": 1360
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794931457987-owl6jvyk-homie-fixes-008-leaving-town.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1794931458721-kllyn7z1-homie-fixes-008-cover.jpg"
+ },
+ "review_ts": "1794931485.292239"
+}
