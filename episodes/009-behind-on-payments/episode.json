@@ -1,0 +1,479 @@
+{
+ "number": 9,
+ "concept_number": 14,
+ "slug": "homie-fixes-009-behind-on-payments",
+ "series_label": "HOMIE FIXES #9",
+ "topic": "Behind on house payments",
+ "vertical": "selling a house (behind on payments)",
+ "catchphrase_verb": "FIGURE IT OUT",
+ "caption": "Behind on your mortgage? You usually have 120 days before foreclosure can even start. Use them.",
+ "hashtags": [
+  "#mortgagehelp",
+  "#foreclosure",
+  "#homeownertips",
+  "#homeowner"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "VqY0tlYL9wYOpRRuTVY6",
+ "set": "https://cdn.revid.ai/ai-gen/aDU2g203W.jpg",
+ "sources": [
+  "https://www.consumerfinance.gov/ask-cfpb/what-is-the-120-day-rule-for-foreclosure-en-1849/ (CFPB: generally a servicer can't start the foreclosure process until the borrower is more than 120 days behind on payments; Regulation X, 12 CFR 1024.41(f))"
+ ],
+ "script": "Scary mortgage letters? Easy. Out of sight, out of mind.\n\nInto the freezer you go. All of you!\n\nUh oh. Why won't the door close?\n\nGood news. In most cases, your servicer can't start foreclosure until you're more than one hundred twenty days behind.\n\nSo use that time. Here's how.\n\nOne. Open the mail, and call your servicer early.\n\nTwo. Ask about your options: forbearance, a repayment plan, a loan modification, or selling first.\n\nThree. Talk to a free HUD-approved housing counselor before you sign anything.\n\nIf Homie can figure it out, so can you.",
+ "audio_note": "Revid voice render was 39.9 s; audio.m4a is sped up 1.1x with ffmpeg atempo (pitch kept), caption times divided by 1.1",
+ "audio_end": 36.22,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "OPEN THE MAIL FIRST.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 32.95,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.25,
+  "focus": [
+   0.62,
+   0.42
+  ],
+  "shift_down": 380,
+  "lines": [
+   "BEHIND ON PAYMENTS?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 4.29,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.35,
+    0.4
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 4.29,
+   "end": 6.76,
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "focus": [
+    0.35,
+    0.38
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 6.76,
+   "end": 9.24,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.55,
+    0.42
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 9.24,
+   "end": 15.93,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 15.93,
+   "end": 18.25,
+   "zoom": [
+    1.3,
+    1.4
+   ],
+   "focus": [
+    0.66,
+    0.4
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 18.25,
+   "end": 21.38,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 21.38,
+   "end": 24.17,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 24.17,
+   "end": 28.18,
+   "zoom": [
+    1.1,
+    1.16
+   ],
+   "focus": [
+    0.45,
+    0.35
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 28.18,
+   "end": 32.95,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.42
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 32.95,
+   "end": 38.42,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.15,
+   "Scary mortgage letters?"
+  ],
+  [
+   1.75,
+   "Easy"
+  ],
+  [
+   2.55,
+   "Out of sight"
+  ],
+  [
+   3.35,
+   "out of mind"
+  ],
+  [
+   4.29,
+   "Into the freezer"
+  ],
+  [
+   5.09,
+   "you go"
+  ],
+  [
+   5.75,
+   "All of you!"
+  ],
+  [
+   6.76,
+   "Uh oh"
+  ],
+  [
+   7.56,
+   "Why won't the door"
+  ],
+  [
+   8.29,
+   "close?"
+  ],
+  [
+   9.24,
+   "Good news"
+  ],
+  [
+   10.18,
+   "In most cases"
+  ],
+  [
+   11.24,
+   "your servicer can't"
+  ],
+  [
+   12.25,
+   "start foreclosure"
+  ],
+  [
+   13.09,
+   "until you're more"
+  ],
+  [
+   13.82,
+   "than one hundred"
+  ],
+  [
+   14.62,
+   "twenty days behind"
+  ],
+  [
+   15.93,
+   "So use that time"
+  ],
+  [
+   17.24,
+   "Here's how"
+  ],
+  [
+   18.25,
+   "One"
+  ],
+  [
+   18.76,
+   "Open the mail"
+  ],
+  [
+   19.53,
+   "and call your servicer"
+  ],
+  [
+   20.76,
+   "early"
+  ],
+  [
+   21.38,
+   "Two"
+  ],
+  [
+   22.07,
+   "Ask about your options"
+  ],
+  [
+   23.45,
+   "forbearance"
+  ],
+  [
+   24.17,
+   "a repayment plan"
+  ],
+  [
+   25.27,
+   "a loan modification"
+  ],
+  [
+   26.58,
+   "or selling first"
+  ],
+  [
+   28.18,
+   "Three"
+  ],
+  [
+   28.73,
+   "Talk to a free"
+  ],
+  [
+   29.55,
+   "HUD-approved"
+  ],
+  [
+   30.25,
+   "housing counselor"
+  ],
+  [
+   31.27,
+   "before you sign"
+  ],
+  [
+   32.15,
+   "anything"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.29,
+   "lines": [
+    "BEHIND ON PAYMENTS?",
+    "DON'T DO THIS."
+   ],
+   "y": 1180
+  },
+  {
+   "type": "tag",
+   "start": 2.55,
+   "end": 4.29,
+   "text": "OUT OF SIGHT...",
+   "color": "orange",
+   "x": 760,
+   "y": 420,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 5.75,
+   "end": 6.76,
+   "text": "HIDE THE MAIL!",
+   "color": "orange",
+   "x": 760,
+   "y": 1000,
+   "rot": -5
+  },
+  {
+   "type": "impact",
+   "at": 6.79,
+   "dur": 1.2,
+   "text": "UH OH!",
+   "x": 290,
+   "y": 470
+  },
+  {
+   "type": "tag",
+   "start": 7.56,
+   "end": 9.24,
+   "text": "IT DOESN'T GO AWAY",
+   "color": "yellow",
+   "x": 560,
+   "y": 330,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 9.34,
+   "end": 15.93,
+   "value": 120,
+   "suffix": "+ DAYS",
+   "color": "teal",
+   "count_secs": 1.6,
+   "labels": [
+    [
+     9.34,
+     "BEHIND BEFORE"
+    ],
+    [
+     12.25,
+     "FORECLOSURE CAN START"
+    ],
+    [
+     14.62,
+     "CFPB RULE, MOST LOANS"
+    ]
+   ],
+   "y": 1210
+  },
+  {
+   "type": "stamp",
+   "start": 17.24,
+   "end": 18.25,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 600,
+   "y": 1330,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 18.25,
+   "end": 21.38,
+   "n": 1,
+   "text": "Open the mail",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 19.53,
+   "end": 21.38,
+   "text": "CALL YOUR SERVICER EARLY",
+   "color": "yellow",
+   "x": 540,
+   "y": 330,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 21.38,
+   "end": 28.18,
+   "n": 2,
+   "text": "Ask about options",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 23.45,
+   "end": 25.27,
+   "text": "PAUSE OR PLAN",
+   "color": "yellow",
+   "x": 760,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 25.27,
+   "end": 28.18,
+   "text": "MODIFY OR SELL",
+   "color": "yellow",
+   "x": 760,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 28.18,
+   "end": 31.27,
+   "n": 3,
+   "text": "Free HUD counselor",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "check",
+   "start": 31.27,
+   "end": 32.95,
+   "text": "BEFORE YOU SIGN",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 32.95,
+   "end": 36.22,
+   "verb": "FIGURE IT OUT",
+   "y": 1360
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795017941514-7ri4m6n7-homie-fixes-009-behind-on-payments.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795017942794-zswogpl0-homie-fixes-009-cover.jpg"
+ },
+ "review_ts": "1795017968.631569"
+}

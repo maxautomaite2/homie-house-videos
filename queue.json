@@ -224,7 +224,7 @@
    "title": "Behind on House Payments",
    "vertical": "selling a house (behind on payments)",
    "verb": "FIGURE IT OUT",
-   "status": "approved",
+   "status": "in_review",
    "scheduled_for": "2026-11-19",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -235,8 +235,13 @@
     "Ask what options exist: forbearance, a repayment plan, a modification, or selling before it gets to foreclosure",
     "Talk to a free HUD-approved housing counselor before you sign anything"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
-   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-18 (CFPB 120 day rule, Reg X 1024.41(f)). Produced 2026-11-18 (a day early, #13 already in review); awaiting approve in the review thread. One episode per day: if #13 posts on 2026-11-18, publish this at the first window on or after 2026-11-19",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
+   "episode": "episodes/009-behind-on-payments",
+   "episode_number": 9,
+   "review_ts": "1795017968.631569",
+   "revid_content_id": "VqY0tlYL9wYOpRRuTVY6",
+   "publish_not_before": "2026-11-19"
   },
   {
    "number": 15,

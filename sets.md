@@ -9,3 +9,4 @@ Wide reference still per location. Use as reference image 1 for every shot there
 - living room (beige sofa, floor lamp, beach photo on the wall, window with curtains): https://cdn.revid.ai/ai-gen/Uq6gqP03p.jpg
 - side wall of a one-story house with gutter, downspout and ladder (autumn lawn): https://cdn.revid.ai/ai-gen/U1I7W8YbC.jpg
 - front porch (green front door, porch light left, window right, wooden steps, autumn leaves): https://cdn.revid.ai/ai-gen/dGLwQPqE1.jpg
+- kitchen fridge corner (white top-freezer fridge, oak cabinets, checkered floor): https://cdn.revid.ai/ai-gen/aDU2g203W.jpg
