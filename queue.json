@@ -200,7 +200,7 @@
    "title": "Leaving Town for Thanksgiving",
    "vertical": "home security",
    "verb": "HANDLE IT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-18",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -211,13 +211,15 @@
     "Post the trip photos after you get home",
     "Lock every door and window and ask a neighbor to check in"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-17 (FBI CIUS 2019 burglary, $2,661). Produced 2026-11-17 (a day early, #12 already in review); awaiting approve in the review thread; Aaron approved in the review thread 2026-11-17 11:09am ET. Held on 2026-11-17 because episode 7 was posted that day (one episode per day): publish at the first window on or after 2026-11-18 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-17 (FBI CIUS 2019 burglary, $2,661). Produced 2026-11-17 (a day early, #12 already in review); awaiting approve in the review thread; Aaron approved in the review thread 2026-11-17 11:09am ET. Held on 2026-11-17 because episode 7 was posted that day (one episode per day): publish at the first window on or after 2026-11-18 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-18 1:35pm ET (extraParams.title = caption line)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/008-leaving-town",
    "episode_number": 8,
    "review_ts": "1794931485.292239",
    "revid_content_id": "nW9af6oGxGK4liMlzNP4",
-   "publish_not_before": "2026-11-18"
+   "publish_not_before": "2026-11-18",
+   "publish_content_id": "50a34f44-3a94-4580-9689-8dc4361d8be3",
+   "instagram_post_id": "17942719482183998"
   },
   {
    "number": 14,
@@ -235,7 +237,7 @@
     "Ask what options exist: forbearance, a repayment plan, a modification, or selling before it gets to foreclosure",
     "Talk to a free HUD-approved housing counselor before you sign anything"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-18 (CFPB 120 day rule, Reg X 1024.41(f)). Produced 2026-11-18 (a day early, #13 already in review); awaiting approve in the review thread. One episode per day: if #13 posts on 2026-11-18, publish this at the first window on or after 2026-11-19",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-18 (CFPB 120 day rule, Reg X 1024.41(f)). Produced 2026-11-18 (a day early, #13 already in review); awaiting approve in the review thread. One episode per day: if #13 posts on 2026-11-18, publish this at the first window on or after 2026-11-19; Aaron approved in the review thread 2026-11-18 11:08am ET. Held on 2026-11-18 because episode 8 was posted that day (one episode per day): publish at the first window on or after 2026-11-19 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/009-behind-on-payments",
    "episode_number": 9,
