@@ -10,3 +10,4 @@ Wide reference still per location. Use as reference image 1 for every shot there
 - side wall of a one-story house with gutter, downspout and ladder (autumn lawn): https://cdn.revid.ai/ai-gen/U1I7W8YbC.jpg
 - front porch (green front door, porch light left, window right, wooden steps, autumn leaves): https://cdn.revid.ai/ai-gen/dGLwQPqE1.jpg
 - kitchen fridge corner (white top-freezer fridge, oak cabinets, checkered floor): https://cdn.revid.ai/ai-gen/aDU2g203W.jpg
+- kitchen range corner (white electric range with coil burners, range hood, oak cabinets, plaid valance window, checkered floor): https://cdn.revid.ai/ai-gen/koX3pmDfl.jpg
