@@ -226,7 +226,7 @@
    "title": "Behind on House Payments",
    "vertical": "selling a house (behind on payments)",
    "verb": "FIGURE IT OUT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-19",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -237,13 +237,15 @@
     "Ask what options exist: forbearance, a repayment plan, a modification, or selling before it gets to foreclosure",
     "Talk to a free HUD-approved housing counselor before you sign anything"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-18 (CFPB 120 day rule, Reg X 1024.41(f)). Produced 2026-11-18 (a day early, #13 already in review); awaiting approve in the review thread. One episode per day: if #13 posts on 2026-11-18, publish this at the first window on or after 2026-11-19; Aaron approved in the review thread 2026-11-18 11:08am ET. Held on 2026-11-18 because episode 8 was posted that day (one episode per day): publish at the first window on or after 2026-11-19 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-18 (CFPB 120 day rule, Reg X 1024.41(f)). Produced 2026-11-18 (a day early, #13 already in review); awaiting approve in the review thread. One episode per day: if #13 posts on 2026-11-18, publish this at the first window on or after 2026-11-19; Aaron approved in the review thread 2026-11-18 11:08am ET. Held on 2026-11-18 because episode 8 was posted that day (one episode per day): publish at the first window on or after 2026-11-19 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-19 1:36pm ET (extraParams.title = caption line)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/009-behind-on-payments",
    "episode_number": 9,
    "review_ts": "1795017968.631569",
    "revid_content_id": "VqY0tlYL9wYOpRRuTVY6",
-   "publish_not_before": "2026-11-19"
+   "publish_not_before": "2026-11-19",
+   "publish_content_id": "1d3e1227-77a9-435b-8927-852df0030ada",
+   "instagram_post_id": "18122130137086714"
   },
   {
    "number": 15,
@@ -261,7 +263,7 @@
     "Find your manufacturer or home warranty and read what is covered and the service fee",
     "Book the repair before the holiday rush and get the repair vs replace quote in writing"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-19 (NAHB 2007 life expectancy study: electric range 13 years, gas 15). Produced 2026-11-19 (a day early, #14 already in review); awaiting approve in the review thread. One episode per day: publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-19 (NAHB 2007 life expectancy study: electric range 13 years, gas 15). Produced 2026-11-19 (a day early, #14 already in review); awaiting approve in the review thread. One episode per day: publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-19 11:19am ET. Held on 2026-11-19 because episode 9 was posted that day (one episode per day): publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/010-oven-dies",
    "episode_number": 10,
