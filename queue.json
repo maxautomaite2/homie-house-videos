@@ -252,7 +252,7 @@
    "title": "Oven Dies Before Thanksgiving",
    "vertical": "home warranty",
    "verb": "FIGURE IT OUT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-20",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -263,13 +263,15 @@
     "Find your manufacturer or home warranty and read what is covered and the service fee",
     "Book the repair before the holiday rush and get the repair vs replace quote in writing"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-19 (NAHB 2007 life expectancy study: electric range 13 years, gas 15). Produced 2026-11-19 (a day early, #14 already in review); awaiting approve in the review thread. One episode per day: publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-19 11:19am ET. Held on 2026-11-19 because episode 9 was posted that day (one episode per day): publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat fact-checked 2026-11-19 (NAHB 2007 life expectancy study: electric range 13 years, gas 15). Produced 2026-11-19 (a day early, #14 already in review); awaiting approve in the review thread. One episode per day: publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-19 11:19am ET. Held on 2026-11-19 because episode 9 was posted that day (one episode per day): publish at the first window on or after 2026-11-20 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-20 1:38pm ET (extraParams.title = caption line)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/010-oven-dies",
    "episode_number": 10,
    "review_ts": "1795104705.929649",
    "revid_content_id": "NGBSOfCmuMredh6S03PZ",
-   "publish_not_before": "2026-11-20"
+   "publish_not_before": "2026-11-20",
+   "publish_content_id": "eee120e2-6530-4a05-b4bd-5f2917a52455",
+   "instagram_post_id": "18109905701632035"
   },
   {
    "number": 16,
