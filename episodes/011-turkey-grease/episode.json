@@ -1,0 +1,451 @@
+{
+ "number": 11,
+ "concept_number": 16,
+ "slug": "homie-fixes-011-turkey-grease",
+ "series_label": "HOMIE FIXES #11",
+ "topic": "Turkey grease down the drain",
+ "vertical": "fix-it",
+ "catchphrase_verb": "FIX IT",
+ "caption": "Grease causes almost half of reported sewer blockages. After the turkey, it goes in a can, not the sink.",
+ "hashtags": [
+  "#thanksgiving",
+  "#homeownertips",
+  "#cloggeddrain",
+  "#diyhomerepair"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "0yUi6xuHdQgbof6GTuEF",
+ "set": "https://cdn.revid.ai/ai-gen/9F54_WiT7.jpg",
+ "sources": [
+  "https://19january2021snapshot.epa.gov/sites/static/files/2020-02/documents/pretreatment_foodservice_fs1.pdf (EPA fact sheet EPA-833-F-12-003, Controlling Fats, Oils, and Grease Discharges: grease from restaurants, homes, and industrial sources is the most common cause (47%) of reported blockages, citing EPA's 2004 Report to Congress on CSOs and SSOs)"
+ ],
+ "script": "Turkey's done. Now the grease. Straight down the sink!\n\nWait. Why is the sink gurgling?\n\nBlurp! It came right back up. On me.\n\nHere's the thing. Grease causes almost half of reported sewer blockages. Forty-seven percent, says the EPA.\n\nSo after the feast, do this.\n\nOne. Let the grease cool, pour it in a can, and toss it in the trash.\n\nTwo. Wipe the pan with a paper towel before you wash it.\n\nThree. Slow drain? Hot water and dish soap, then a plunger. And never mix drain cleaners.\n\nIf Homie can fix it, so can you.",
+ "audio_note": "Revid voice render was 38.24 s of voice; audio.m4a is trimmed at 38.8 s and sped up 1.12x with ffmpeg atempo (pitch kept), caption times divided by 1.12",
+ "audio_end": 34.65,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "GREASE GOES IN A CAN.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 32.14,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.2,
+  "focus": [
+   0.3,
+   0.45
+  ],
+  "shift_down": 380,
+  "lines": [
+   "TURKEY GREASE?",
+   "NOT THE SINK."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 3.57,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 3.57,
+   "end": 5.86,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 5.86,
+   "end": 9.14,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.35,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 9.14,
+   "end": 15.89,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 15.89,
+   "end": 18.29,
+   "zoom": [
+    1.08,
+    1.16
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 18.29,
+   "end": 22.64,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 22.64,
+   "end": 26.07,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 26.07,
+   "end": 32.14,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 32.14,
+   "end": 36.95,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.27,
+   "Turkey's done"
+  ],
+  [
+   1.14,
+   "Now the grease"
+  ],
+  [
+   2.14,
+   "Straight down the"
+  ],
+  [
+   2.79,
+   "sink!"
+  ],
+  [
+   3.57,
+   "Wait"
+  ],
+  [
+   4.21,
+   "Why is the sink"
+  ],
+  [
+   5.0,
+   "gurgling?"
+  ],
+  [
+   5.86,
+   "Blurp!"
+  ],
+  [
+   6.57,
+   "It came right back"
+  ],
+  [
+   7.43,
+   "up"
+  ],
+  [
+   8.0,
+   "On me"
+  ],
+  [
+   9.14,
+   "Here's the thing"
+  ],
+  [
+   10.21,
+   "Grease causes almost"
+  ],
+  [
+   11.57,
+   "half of reported"
+  ],
+  [
+   12.36,
+   "sewer blockages"
+  ],
+  [
+   13.5,
+   "Forty-seven percent"
+  ],
+  [
+   14.68,
+   "says the EPA"
+  ],
+  [
+   15.89,
+   "So after the feast"
+  ],
+  [
+   17.25,
+   "do this"
+  ],
+  [
+   18.29,
+   "One"
+  ],
+  [
+   18.86,
+   "Let the grease cool"
+  ],
+  [
+   20.07,
+   "pour it in a can"
+  ],
+  [
+   21.04,
+   "and toss it in the"
+  ],
+  [
+   21.93,
+   "trash"
+  ],
+  [
+   22.64,
+   "Two"
+  ],
+  [
+   23.14,
+   "Wipe the pan with"
+  ],
+  [
+   23.89,
+   "a paper towel before"
+  ],
+  [
+   25.14,
+   "you wash it"
+  ],
+  [
+   26.07,
+   "Three"
+  ],
+  [
+   26.79,
+   "Slow drain?"
+  ],
+  [
+   27.75,
+   "Hot water and dish"
+  ],
+  [
+   28.71,
+   "soap"
+  ],
+  [
+   29.25,
+   "then a plunger"
+  ],
+  [
+   30.36,
+   "And never mix drain"
+  ],
+  [
+   31.43,
+   "cleaners"
+  ],
+  [
+   32.14,
+   "If Homie can fix"
+  ],
+  [
+   33.0,
+   "it"
+  ],
+  [
+   33.36,
+   "so can you"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.57,
+   "lines": [
+    "TURKEY GREASE?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 2.14,
+   "end": 3.57,
+   "text": "DOWN THE DRAIN!",
+   "color": "orange",
+   "x": 760,
+   "y": 420,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 5.0,
+   "end": 5.86,
+   "text": "GURGLE...",
+   "color": "yellow",
+   "x": 780,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 5.86,
+   "dur": 1.2,
+   "text": "BLURP!",
+   "x": 760,
+   "y": 420
+  },
+  {
+   "type": "counter",
+   "start": 9.24,
+   "end": 15.89,
+   "value": 47,
+   "suffix": "%",
+   "color": "teal",
+   "count_secs": 1.4,
+   "labels": [
+    [
+     9.24,
+     "OF REPORTED CLOGS"
+    ],
+    [
+     13.5,
+     "CAUSE: GREASE"
+    ],
+    [
+     14.68,
+     "SOURCE: EPA"
+    ]
+   ],
+   "y": 1210
+  },
+  {
+   "type": "stamp",
+   "start": 17.25,
+   "end": 18.29,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 600,
+   "y": 1330,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 18.29,
+   "end": 22.64,
+   "n": 1,
+   "text": "Cool it, can it, trash it",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "step",
+   "start": 22.64,
+   "end": 26.07,
+   "n": 2,
+   "text": "Wipe the pan first",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 23.89,
+   "end": 26.07,
+   "text": "PAPER TOWEL",
+   "color": "yellow",
+   "x": 780,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 26.07,
+   "end": 30.36,
+   "n": 3,
+   "text": "Hot water, soap, plunger",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 30.36,
+   "end": 32.14,
+   "text": "NEVER MIX CLEANERS!",
+   "color": "red",
+   "x": 540,
+   "y": 1230,
+   "rot": -3
+  },
+  {
+   "type": "catchphrase",
+   "start": 32.14,
+   "end": 34.65,
+   "verb": "FIX IT",
+   "y": 1360
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795190396244-x4oizppx-homie-fixes-011-turkey-grease.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795190396910-i5d7zmpz-homie-fixes-011-cover.jpg"
+ },
+ "review_ts": "1795190418.786939"
+}

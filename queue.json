@@ -276,19 +276,24 @@
    "title": "Turkey Grease Down the Drain",
    "vertical": "fix-it",
    "verb": "FIX IT",
-   "status": "approved",
+   "status": "in_review",
    "scheduled_for": "2026-11-21",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
    "gag": "Homie pours a whole pan of hot turkey grease into the sink and the drain burps it back up at him",
-   "stat": "Grease is one of the leading causes of sewer blockages and backups (EPA)",
+   "stat": "Grease from restaurants, homes and industry is the most common cause (47%) of reported sewer blockages (EPA)",
    "fix": [
     "Let the grease cool, pour it into a can and toss it in the trash",
     "Wipe pans with a paper towel before washing",
     "Slow drain: hot water and dish soap, then a plunger, never mix chemical cleaners"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
-   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-20 (EPA FOG fact sheet EPA-833-F-12-003: 47% of reported blockages). Produced 2026-11-20 (a day early, #15 already in review); one episode per day: publish at the first window on or after 2026-11-21 after an approve in the review thread",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
+   "episode": "episodes/011-turkey-grease",
+   "episode_number": 11,
+   "review_ts": "1795190418.786939",
+   "revid_content_id": "0yUi6xuHdQgbof6GTuEF",
+   "publish_not_before": "2026-11-21"
   },
   {
    "number": 17,
