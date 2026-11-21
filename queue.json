@@ -278,7 +278,7 @@
    "title": "Turkey Grease Down the Drain",
    "vertical": "fix-it",
    "verb": "FIX IT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-21",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -289,13 +289,15 @@
     "Wipe pans with a paper towel before washing",
     "Slow drain: hot water and dish soap, then a plunger, never mix chemical cleaners"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-20 (EPA FOG fact sheet EPA-833-F-12-003: 47% of reported blockages). Produced 2026-11-20 (a day early, #15 already in review); one episode per day: publish at the first window on or after 2026-11-21 after an approve in the review thread; Aaron approved in the review thread 2026-11-20 1:47pm ET. Held on 2026-11-20 because episode 10 was posted that day (one episode per day): publish at the first window on or after 2026-11-21 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-20 (EPA FOG fact sheet EPA-833-F-12-003: 47% of reported blockages). Produced 2026-11-20 (a day early, #15 already in review); one episode per day: publish at the first window on or after 2026-11-21 after an approve in the review thread; Aaron approved in the review thread 2026-11-20 1:47pm ET. Held on 2026-11-20 because episode 10 was posted that day (one episode per day): publish at the first window on or after 2026-11-21 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-21 1:37pm ET (extraParams.title = caption line)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/011-turkey-grease",
    "episode_number": 11,
    "review_ts": "1795190418.786939",
    "revid_content_id": "0yUi6xuHdQgbof6GTuEF",
-   "publish_not_before": "2026-11-21"
+   "publish_not_before": "2026-11-21",
+   "publish_content_id": "fec6d856-2d78-4bd9-a5d2-360ba3c75b00",
+   "instagram_post_id": "18045636722844194"
   },
   {
    "number": 17,
@@ -313,7 +315,7 @@
     "Keep the house locked, insured and the bills paid while it sits empty",
     "Get a value estimate and talk to a probate attorney before selling"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-21 (Gallup, May 2021: 46% of U.S. adults have a will). Produced 2026-11-21 (a day early, #16 already in review); one episode per day: publish at the first window on or after 2026-11-22 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-21 (Gallup, May 2021: 46% of U.S. adults have a will). Produced 2026-11-21 (a day early, #16 already in review); one episode per day: publish at the first window on or after 2026-11-22 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-21 12:20pm ET. Held on 2026-11-21 because episode 11 was posted that day (one episode per day): publish at the first window on or after 2026-11-22 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/012-inherited-house",
    "episode_number": 12,
