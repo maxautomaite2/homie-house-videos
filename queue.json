@@ -302,7 +302,7 @@
    "title": "Inheriting the Family House",
    "vertical": "selling a house (inherited house)",
    "verb": "SELL IT",
-   "status": "approved",
+   "status": "in_review",
    "scheduled_for": "2026-11-22",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -313,8 +313,13 @@
     "Keep the house locked, insured and the bills paid while it sits empty",
     "Get a value estimate and talk to a probate attorney before selling"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
-   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-21 (Gallup, May 2021: 46% of U.S. adults have a will). Produced 2026-11-21 (a day early, #16 already in review); one episode per day: publish at the first window on or after 2026-11-22 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
+   "episode": "episodes/012-inherited-house",
+   "episode_number": 12,
+   "review_ts": "1795276857.271399",
+   "revid_content_id": "xKL1FHldyMNR248NYLGU",
+   "publish_not_before": "2026-11-22"
   },
   {
    "number": 18,

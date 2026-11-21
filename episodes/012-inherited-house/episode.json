@@ -1,0 +1,482 @@
+{
+ "number": 12,
+ "concept_number": 17,
+ "slug": "homie-fixes-012-inherited-house",
+ "series_label": "HOMIE FIXES #12",
+ "topic": "Inheriting the family house",
+ "vertical": "selling a house (inherited house)",
+ "catchphrase_verb": "SELL IT",
+ "caption": "Only 46% of US adults have a will. If you inherit the family house, do these 3 things before you sell.",
+ "hashtags": [
+  "#inheritedhouse",
+  "#estateplanning",
+  "#homeownertips",
+  "#sellingahouse"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "xKL1FHldyMNR248NYLGU",
+ "set": "https://cdn.revid.ai/ai-gen/-6LsTCG6M.jpg",
+ "sources": [
+  "https://news.gallup.com/poll/351500/how-many-americans-have-will.aspx (Gallup, How Many Americans Have a Will?, June 2021, survey May 3 to 18, 2021: 46% of U.S. adults have a will; 76% of adults 65 and older)"
+ ],
+ "script": "Family dinner. Grandma's house is up for grabs. Homie's got the deed!\n\nTug of war! Pull! Pull!\n\nRrrip! Good news, the county keeps a copy. Bad news, nobody left a will.\n\nHere's the thing. Only forty-six percent of American adults have a will, says Gallup.\n\nSo if you inherit the family house, do this.\n\nOne. Find out if there's a will or a trust, and who the executor is.\n\nTwo. Keep the house locked, insured, and the bills paid while it sits empty.\n\nThree. Get a value estimate, and talk to a probate attorney before you sell.\n\nIf Homie can sell it, so can you.",
+ "audio_note": "Revid voice render was 42.16 s of voice; audio.m4a is trimmed at 42.7 s and sped up 1.2x with ffmpeg atempo (pitch kept), caption times divided by 1.2",
+ "audio_end": 35.6,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "FIND THE WILL FIRST.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 33.2,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.2,
+  "focus": [
+   0.65,
+   0.4
+  ],
+  "shift_down": 400,
+  "lines": [
+   "INHERITED A HOUSE?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 4.6,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 4.6,
+   "end": 7.2,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.2,
+   "end": 12.73,
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "focus": [
+    0.65,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 12.73,
+   "end": 17.33,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 17.33,
+   "end": 20.2,
+   "zoom": [
+    1.1,
+    1.18
+   ],
+   "focus": [
+    0.7,
+    0.35
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 20.2,
+   "end": 24.33,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 24.33,
+   "end": 29.17,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 29.17,
+   "end": 33.2,
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 33.2,
+   "end": 37.8,
+   "zoom": [
+    1.08,
+    1.14
+   ],
+   "focus": [
+    0.42,
+    0.35
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.0,
+   "Family dinner"
+  ],
+  [
+   1.27,
+   "Grandma's house"
+  ],
+  [
+   1.93,
+   "is up for grabs"
+  ],
+  [
+   3.07,
+   "Homie's got the"
+  ],
+  [
+   3.8,
+   "deed!"
+  ],
+  [
+   4.6,
+   "Tug of war!"
+  ],
+  [
+   5.67,
+   "Pull!"
+  ],
+  [
+   6.4,
+   "Pull!"
+  ],
+  [
+   7.2,
+   "Rrrip!"
+  ],
+  [
+   8.13,
+   "Good news"
+  ],
+  [
+   8.93,
+   "the county keeps"
+  ],
+  [
+   9.57,
+   "a copy"
+  ],
+  [
+   10.4,
+   "Bad news"
+  ],
+  [
+   11.27,
+   "nobody left a will"
+  ],
+  [
+   12.73,
+   "Here's the thing"
+  ],
+  [
+   13.67,
+   "Only forty-six percent"
+  ],
+  [
+   14.93,
+   "of American adults"
+  ],
+  [
+   15.87,
+   "have a will"
+  ],
+  [
+   16.47,
+   "says Gallup"
+  ],
+  [
+   17.33,
+   "So if you inherit"
+  ],
+  [
+   18.23,
+   "the family house"
+  ],
+  [
+   19.2,
+   "do this"
+  ],
+  [
+   20.2,
+   "One"
+  ],
+  [
+   20.8,
+   "Find out if there's"
+  ],
+  [
+   21.53,
+   "a will or a trust"
+  ],
+  [
+   22.73,
+   "and who the executor"
+  ],
+  [
+   23.67,
+   "is"
+  ],
+  [
+   24.33,
+   "Two"
+  ],
+  [
+   24.93,
+   "Keep the house locked"
+  ],
+  [
+   26.13,
+   "insured"
+  ],
+  [
+   26.77,
+   "and the bills paid"
+  ],
+  [
+   27.67,
+   "while it sits empty"
+  ],
+  [
+   29.17,
+   "Three"
+  ],
+  [
+   29.67,
+   "Get a value estimate"
+  ],
+  [
+   30.8,
+   "and talk to a probate"
+  ],
+  [
+   31.73,
+   "attorney before"
+  ],
+  [
+   32.47,
+   "you sell"
+  ],
+  [
+   33.2,
+   "If Homie can sell"
+  ],
+  [
+   34.0,
+   "it"
+  ],
+  [
+   34.33,
+   "so can you"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.6,
+   "lines": [
+    "INHERITED A HOUSE?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 3.07,
+   "end": 4.6,
+   "text": "GOT THE DEED!",
+   "color": "orange",
+   "x": 330,
+   "y": 300,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 4.6,
+   "end": 7.2,
+   "text": "TUG OF WAR!",
+   "color": "yellow",
+   "x": 760,
+   "y": 380,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 7.2,
+   "dur": 1.2,
+   "text": "RRRIP!",
+   "x": 300,
+   "y": 420
+  },
+  {
+   "type": "tag",
+   "start": 8.93,
+   "end": 10.4,
+   "text": "COUNTY HAS A COPY",
+   "color": "yellow",
+   "x": 420,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 11.27,
+   "end": 12.73,
+   "text": "NO WILL!",
+   "color": "red",
+   "x": 420,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 13.77,
+   "end": 17.33,
+   "value": 46,
+   "suffix": "%",
+   "color": "teal",
+   "count_secs": 1.4,
+   "labels": [
+    [
+     13.77,
+     "OF US ADULTS HAVE A WILL"
+    ],
+    [
+     16.47,
+     "SOURCE: GALLUP"
+    ]
+   ],
+   "y": 1210
+  },
+  {
+   "type": "stamp",
+   "start": 19.2,
+   "end": 20.2,
+   "text": "3 STEPS",
+   "color": "teal",
+   "x": 600,
+   "y": 1330,
+   "rot": -6
+  },
+  {
+   "type": "step",
+   "start": 20.2,
+   "end": 24.33,
+   "n": 1,
+   "text": "Find the will and executor",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 21.53,
+   "end": 24.33,
+   "text": "WILL? TRUST?",
+   "color": "yellow",
+   "x": 780,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 24.33,
+   "end": 29.17,
+   "n": 2,
+   "text": "Locked, insured, bills paid",
+   "from": "right",
+   "y": 1180
+  },
+  {
+   "type": "step",
+   "start": 29.17,
+   "end": 32.47,
+   "n": 3,
+   "text": "Get a value estimate",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 30.8,
+   "end": 32.47,
+   "text": "PROBATE ATTORNEY",
+   "color": "yellow",
+   "x": 700,
+   "y": 430,
+   "rot": -4
+  },
+  {
+   "type": "check",
+   "start": 32.47,
+   "end": 33.2,
+   "text": "THEN SELL",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 33.2,
+   "end": 35.6,
+   "verb": "SELL IT",
+   "y": 1360
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795276835890-hlkw3q8k-homie-fixes-012-inherited-house.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795276836608-2d9d8jb8-homie-fixes-012-cover.jpg"
+ },
+ "review_ts": "1795276857.271399"
+}
