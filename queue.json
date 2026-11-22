@@ -328,7 +328,7 @@
    "title": "Ice Dams",
    "vertical": "gutters",
    "verb": "HANDLE IT",
-   "status": "approved",
+   "status": "in_review",
    "scheduled_for": "2026-11-23",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -339,8 +339,13 @@
     "Keep gutters and downspouts clear before the freeze",
     "Water stains on the ceiling: call a roofer and have the attic insulation and ventilation checked"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production",
-   "approved_by": "Max, Slack reply 'approve' on 2026-11-16"
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-22 (University of Minnesota Extension, Dealing with and preventing ice dams: upper roof above 32 F, lower edge below 32 F). Step 3 worded as attic insulation and air leaks to match the source. Produced 2026-11-22 (a day early, #17 already in review); one episode per day: publish at the first window on or after 2026-11-23 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
+   "episode": "episodes/013-ice-dams",
+   "episode_number": 13,
+   "review_ts": "1795363583.445479",
+   "revid_content_id": "kzgbRc5CoZp1Fqtg7dkc",
+   "publish_not_before": "2026-11-23"
   }
  ]
 }

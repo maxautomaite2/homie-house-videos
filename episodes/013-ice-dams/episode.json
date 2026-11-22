@@ -1,0 +1,497 @@
+{
+ "number": 13,
+ "concept_number": 18,
+ "slug": "homie-fixes-013-ice-dams",
+ "series_label": "HOMIE FIXES #13",
+ "topic": "Ice dams",
+ "vertical": "gutters",
+ "catchphrase_verb": "HANDLE IT",
+ "caption": "Ice dams form when the top of your roof is above freezing and the edge is not. Put down the hammer.",
+ "hashtags": [
+  "#icedams",
+  "#winterhome",
+  "#homeownertips",
+  "#gutters"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "kzgbRc5CoZp1Fqtg7dkc",
+ "set": "https://cdn.revid.ai/ai-gen/2n8fbRdp1.jpg",
+ "sources": [
+  "https://extension.umn.edu/protecting-home-rain-and-ice/dealing-and-preventing-ice-dams (University of Minnesota Extension, Dealing with and preventing ice dams: higher portions of the roof's outside surface must be above 32 F while lower surfaces are below 32 F; a roof rake can remove snow but may damage roofing, so go gently; long-term fix is an airtight ceiling plus more attic insulation; working on the roof risks injury, contact professionals)"
+ ],
+ "script": "Ice on the gutter? Easy. Homie's got a hammer!\n\nBonk! Bonk! Bonk!\n\nCrack! There goes the gutter. Whoops.\n\nHere's the thing. Ice dams form when the upper roof is above freezing, but the edge stays below thirty-two degrees.\n\nMelted snow refreezes at the edge, and the water backs up under your shingles.\n\nSo here's the real fix.\n\nOne. Stay on the ground, and gently pull snow off the roof edge with a roof rake.\n\nTwo. Clear your gutters and downspouts before the freeze.\n\nThree. Water stains on the ceiling? Call a roofer, and get the attic insulation and air leaks checked.\n\nIf Homie can handle it, so can you.",
+ "audio_note": "Revid voice render was about 40.2 s of voice; audio.m4a is trimmed at 40.8 s and sped up 1.2x with ffmpeg atempo (pitch kept), caption times divided by 1.2",
+ "audio_end": 34.0,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "BEFORE THE NEXT FREEZE.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 31.67,
+ "cover": {
+  "still": "s2.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 290,
+  "lines": [
+   "ICE ON THE GUTTER?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 4.67,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.3
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 4.67,
+   "end": 7.4,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.4,
+   "end": 13.58,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.6,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 13.58,
+   "end": 17.67,
+   "zoom": [
+    1.25,
+    1.35
+   ],
+   "focus": [
+    0.55,
+    0.18
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 17.67,
+   "end": 19.33,
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 19.33,
+   "end": 23.6,
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 23.6,
+   "end": 26.83,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.65,
+    0.6
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 26.83,
+   "end": 31.67,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 31.67,
+   "end": 36.2,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.07,
+   "Ice on the gutter?"
+  ],
+  [
+   1.27,
+   "Easy"
+  ],
+  [
+   1.87,
+   "Homie's got a hammer!"
+  ],
+  [
+   3.2,
+   "Bonk!"
+  ],
+  [
+   3.67,
+   "Bonk!"
+  ],
+  [
+   4.13,
+   "Bonk!"
+  ],
+  [
+   4.67,
+   "Crack!"
+  ],
+  [
+   5.33,
+   "There goes the gutter"
+  ],
+  [
+   6.53,
+   "Whoops"
+  ],
+  [
+   7.4,
+   "Here's the thing"
+  ],
+  [
+   8.4,
+   "Ice dams form when"
+  ],
+  [
+   9.4,
+   "the upper roof is"
+  ],
+  [
+   10.3,
+   "above freezing,"
+  ],
+  [
+   11.11,
+   "but the edge stays"
+  ],
+  [
+   12.0,
+   "below thirty-two"
+  ],
+  [
+   12.8,
+   "degrees"
+  ],
+  [
+   13.57,
+   "Melted snow refreezes"
+  ],
+  [
+   14.9,
+   "at the edge,"
+  ],
+  [
+   15.58,
+   "and the water backs"
+  ],
+  [
+   16.4,
+   "up under your shingles"
+  ],
+  [
+   17.67,
+   "So here's the real"
+  ],
+  [
+   18.53,
+   "fix"
+  ],
+  [
+   19.33,
+   "One"
+  ],
+  [
+   19.83,
+   "Stay on the ground,"
+  ],
+  [
+   20.63,
+   "and gently pull"
+  ],
+  [
+   21.33,
+   "snow off the roof"
+  ],
+  [
+   22.27,
+   "edge with a roof"
+  ],
+  [
+   22.9,
+   "rake"
+  ],
+  [
+   23.6,
+   "Two"
+  ],
+  [
+   24.13,
+   "Clear your gutters"
+  ],
+  [
+   24.8,
+   "and downspouts before"
+  ],
+  [
+   25.87,
+   "the freeze"
+  ],
+  [
+   26.83,
+   "Three"
+  ],
+  [
+   27.43,
+   "Water stains on"
+  ],
+  [
+   27.97,
+   "the ceiling?"
+  ],
+  [
+   28.67,
+   "Call a roofer,"
+  ],
+  [
+   29.4,
+   "and get the attic"
+  ],
+  [
+   30.07,
+   "insulation and air"
+  ],
+  [
+   30.87,
+   "leaks checked"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.67,
+   "lines": [
+    "ICE ON THE GUTTER?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 3.2,
+   "end": 4.67,
+   "text": "BONK! BONK!",
+   "color": "orange",
+   "x": 780,
+   "y": 760,
+   "rot": -5
+  },
+  {
+   "type": "impact",
+   "at": 4.67,
+   "dur": 1.2,
+   "text": "CRACK!",
+   "x": 800,
+   "y": 540
+  },
+  {
+   "type": "tag",
+   "start": 6.53,
+   "end": 7.4,
+   "text": "WHOOPS!",
+   "color": "red",
+   "x": 300,
+   "y": 520,
+   "rot": -5
+  },
+  {
+   "type": "counter",
+   "start": 8.4,
+   "end": 13.58,
+   "value": 32,
+   "suffix": "°F",
+   "color": "blue",
+   "count_secs": 1.2,
+   "labels": [
+    [
+     8.4,
+     "THE ICE DAM LINE"
+    ],
+    [
+     9.4,
+     "ROOF TOP: ABOVE IT"
+    ],
+    [
+     11.11,
+     "ROOF EDGE: BELOW IT"
+    ],
+    [
+     12.8,
+     "SOURCE: UMN EXTENSION"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 13.58,
+   "end": 15.58,
+   "text": "REFREEZES HERE",
+   "color": "yellow",
+   "x": 420,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 15.58,
+   "end": 17.67,
+   "text": "LEAKS UNDER SHINGLES",
+   "color": "red",
+   "x": 540,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "text",
+   "start": 17.7,
+   "end": 19.33,
+   "text": "THE REAL FIX",
+   "color": "cream",
+   "size": 110,
+   "x": 540,
+   "y": 300,
+   "rot": -3
+  },
+  {
+   "type": "step",
+   "start": 19.33,
+   "end": 23.6,
+   "n": 1,
+   "text": "Roof rake from the ground",
+   "from": "left",
+   "y": 330
+  },
+  {
+   "type": "tag",
+   "start": 20.63,
+   "end": 23.6,
+   "text": "GENTLY",
+   "color": "yellow",
+   "x": 800,
+   "y": 1650,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 23.6,
+   "end": 26.83,
+   "n": 2,
+   "text": "Clear gutters first",
+   "from": "right",
+   "y": 330
+  },
+  {
+   "type": "tag",
+   "start": 25.0,
+   "end": 26.83,
+   "text": "BEFORE THE FREEZE",
+   "color": "yellow",
+   "x": 380,
+   "y": 1700,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 26.83,
+   "end": 30.87,
+   "n": 3,
+   "text": "Ceiling stain? Call a roofer",
+   "from": "left",
+   "y": 1180
+  },
+  {
+   "type": "tag",
+   "start": 29.4,
+   "end": 30.87,
+   "text": "ATTIC INSULATION + AIR LEAKS",
+   "color": "yellow",
+   "x": 540,
+   "y": 1700,
+   "rot": -3
+  },
+  {
+   "type": "check",
+   "start": 30.87,
+   "end": 31.67,
+   "text": "NO MORE ICE DAMS",
+   "y": 1700
+  },
+  {
+   "type": "catchphrase",
+   "start": 31.67,
+   "end": 34.0,
+   "verb": "HANDLE IT",
+   "y": 330
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795363556396-w03s2pj0-homie-fixes-013-ice-dams.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795363557025-4i6qz72g-homie-fixes-013-cover.jpg"
+ },
+ "review_ts": "1795363583.445479"
+}
