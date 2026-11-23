@@ -341,7 +341,7 @@
    "title": "Ice Dams",
    "vertical": "gutters",
    "verb": "HANDLE IT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-23",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1794830803.074069",
@@ -352,13 +352,15 @@
     "Keep gutters and downspouts clear before the freeze",
     "Water stains on the ceiling: call a roofer and have the attic insulation and ventilation checked"
    ],
-   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-22 (University of Minnesota Extension, Dealing with and preventing ice dams: upper roof above 32 F, lower edge below 32 F). Step 3 worded as attic insulation and air leaks to match the source. Produced 2026-11-22 (a day early, #17 already in review); one episode per day: publish at the first window on or after 2026-11-23 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-22 11:08am ET. Held on 2026-11-22 because episode 12 was posted that day (one episode per day): publish at the first window on or after 2026-11-23 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-16; stat to be fact-checked before production; stat fact-checked 2026-11-22 (University of Minnesota Extension, Dealing with and preventing ice dams: upper roof above 32 F, lower edge below 32 F). Step 3 worded as attic insulation and air leaks to match the source. Produced 2026-11-22 (a day early, #17 already in review); one episode per day: publish at the first window on or after 2026-11-23 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-22 11:08am ET. Held on 2026-11-22 because episode 12 was posted that day (one episode per day): publish at the first window on or after 2026-11-23 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-23 1:36pm ET (extraParams.title = caption line)",
    "approved_by": "Max, Slack reply 'approve' on 2026-11-16",
    "episode": "episodes/013-ice-dams",
    "episode_number": 13,
    "review_ts": "1795363583.445479",
    "revid_content_id": "kzgbRc5CoZp1Fqtg7dkc",
-   "publish_not_before": "2026-11-23"
+   "publish_not_before": "2026-11-23",
+   "publish_content_id": "fce27ba0-c8c7-4c09-98ac-f6577a55e3e4",
+   "instagram_post_id": "18132599707847081"
   },
   {
    "number": 19,
@@ -376,9 +378,10 @@
     "Find your home warranty or manufacturer warranty and read what is covered and the service fee",
     "Smell gas? Get everyone out and call the gas company; otherwise book a licensed tech and get repair vs replace in writing"
    ],
-   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production",
+   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; Aaron approved in the review thread 2026-11-23 11:03am ET. Held on 2026-11-23 because episode 13 was posted that day (one episode per day): publish at the first window on or after 2026-11-24 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "episode": "episodes/014-furnace-quits",
-   "review_ts": "1795449683.215249"
+   "review_ts": "1795449683.215249",
+   "publish_not_before": "2026-11-24"
   },
   {
    "number": 21,
