@@ -367,7 +367,7 @@
    "title": "Furnace Quits Before the Guests Arrive",
    "vertical": "home warranty",
    "verb": "FIGURE IT OUT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-24",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1795435551.398429",
@@ -378,10 +378,14 @@
     "Find your home warranty or manufacturer warranty and read what is covered and the service fee",
     "Smell gas? Get everyone out and call the gas company; otherwise book a licensed tech and get repair vs replace in writing"
    ],
-   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; Aaron approved in the review thread 2026-11-23 11:03am ET. Held on 2026-11-23 because episode 13 was posted that day (one episode per day): publish at the first window on or after 2026-11-24 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; Aaron approved in the review thread 2026-11-23 11:03am ET. Held on 2026-11-23 because episode 13 was posted that day (one episode per day): publish at the first window on or after 2026-11-24 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-24 1:37pm ET to Instagram, TikTok and YouTube Shorts",
    "episode": "episodes/014-furnace-quits",
    "review_ts": "1795449683.215249",
-   "publish_not_before": "2026-11-24"
+   "publish_not_before": "2026-11-24",
+   "episode_number": 14,
+   "publish_content_id": "2f8fce68-3c0a-4636-9322-5d2df79bdf7f",
+   "instagram_post_id": "18116048152874875",
+   "youtube_url": "https://www.youtube.com/watch?v=9eJKd5My3k8"
   },
   {
    "number": 21,
@@ -399,7 +403,7 @@
     "Small grease fire: lid on, burner off, never water; anything bigger, get out and call 911",
     "After any fire damage, photograph everything and call your insurer before you throw anything out"
    ],
-   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-24 (NFPA: Thanksgiving is the peak day for home cooking fires). Produced 2026-11-24 (a day early, #19 already in review); one episode per day: publish at the first window on or after 2026-11-25 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-24 (NFPA: Thanksgiving is the peak day for home cooking fires). Produced 2026-11-24 (a day early, #19 already in review); one episode per day: publish at the first window on or after 2026-11-25 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-24 11:02am ET. Held on 2026-11-24 because episode 14 was posted that day (one episode per day): publish at the first window on or after 2026-11-25 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
    "episode": "episodes/015-turkey-fryer-fire",
    "episode_number": 15,
    "review_ts": "1795536059.064169",

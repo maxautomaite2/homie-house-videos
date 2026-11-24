@@ -13,7 +13,7 @@
   "#homeownertips",
   "#thanksgiving"
  ],
- "status": "in_review",
+ "status": "posted",
  "revid_audio_project": "dlzxEgOn2lh82hBsbOgF",
  "set": "https://cdn.revid.ai/ai-gen/o_xoi8IW5.jpg",
  "sources": [
@@ -562,5 +562,12 @@
   "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795449656937-zowf23te-homie-fixes-014-furnace-quits.mp4",
   "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795449658010-37gc86k9-homie-fixes-014-cover.jpg"
  },
- "review_ts": "1795449683.215249"
+ "review_ts": "1795449683.215249",
+ "publish": {
+  "content_id": "2f8fce68-3c0a-4636-9322-5d2df79bdf7f",
+  "posted_at": "2026-11-24T13:37:00-05:00",
+  "instagram_post_id": "18116048152874875",
+  "youtube_url": "https://www.youtube.com/watch?v=9eJKd5My3k8",
+  "tiktok": "published"
+ }
 }
