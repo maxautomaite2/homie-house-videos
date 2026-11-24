@@ -388,7 +388,7 @@
    "title": "Turkey Fryer Fire: Is It Covered?",
    "vertical": "home insurance",
    "verb": "FIGURE IT OUT",
-   "status": "approved",
+   "status": "in_review",
    "scheduled_for": "2026-11-25",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1795435551.398429",
@@ -399,7 +399,13 @@
     "Small grease fire: lid on, burner off, never water; anything bigger, get out and call 911",
     "After any fire damage, photograph everything and call your insurer before you throw anything out"
    ],
-   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production"
+   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-24 (NFPA: Thanksgiving is the peak day for home cooking fires). Produced 2026-11-24 (a day early, #19 already in review); one episode per day: publish at the first window on or after 2026-11-25 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "episode": "episodes/015-turkey-fryer-fire",
+   "episode_number": 15,
+   "review_ts": "1795536059.064169",
+   "revid_content_id": "QORmvi314q9vOPeLXvTh",
+   "publish_not_before": "2026-11-25",
+   "approved_by": "Aaron, Slack reply 'approve' on 2026-11-23"
   },
   {
    "number": 22,

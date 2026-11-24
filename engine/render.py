@@ -273,7 +273,7 @@ class Episode:
         elif ty == 'counter':
             cp = back_out(prog(t, a, 0.4))
             dec = o.get('decimals', 0)
-            v = o['value'] * ease_out(prog(t, a + 0.2, o.get('count_secs', 1.6)))
+            v0 = o.get('count_from', 0); v = v0 + (o['value'] - v0) * ease_out(prog(t, a + 0.2, o.get('count_secs', 1.6)))
             n = round(v, dec) if dec else int(v)
             num = o.get('prefix', '') + (f"{n:,.{dec}f}" if dec else f"{n:,}") + (o.get('suffix', '') if n >= o['value'] else o.get('suffix_always', ''))
             sub = o['labels'][0][1]

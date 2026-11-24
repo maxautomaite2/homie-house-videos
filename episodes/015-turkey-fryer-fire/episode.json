@@ -1,0 +1,483 @@
+{
+ "number": 15,
+ "concept_number": 21,
+ "slug": "homie-fixes-015-turkey-fryer-fire",
+ "series_label": "HOMIE FIXES #15",
+ "topic": "Turkey fryer fire: is it covered?",
+ "vertical": "home insurance",
+ "catchphrase_verb": "FIGURE IT OUT",
+ "caption": "Thanksgiving is the No. 1 day of the year for home cooking fires. Thaw the bird and fry it far from the house.",
+ "hashtags": [
+  "#homeinsurance",
+  "#turkeyfryer",
+  "#thanksgiving",
+  "#homeownertips"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "QORmvi314q9vOPeLXvTh",
+ "set": "https://cdn.revid.ai/ai-gen/dGLwQPqE1.jpg",
+ "sources": [
+  "https://www.nfpa.org/education-and-research/home-fire-safety/thanksgiving (NFPA Thanksgiving safety: Thanksgiving is the peak day for home cooking fires)",
+  "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/home-cooking-fires (NFPA Home Cooking Fires report, Hall and McGree 2023: Thanksgiving is the peak day for home cooking fires)"
+ ],
+ "script": "Thanksgiving turkey, straight from the freezer, into the fryer. On the porch. What could go wrong?\n\nWhoa! Fire! Fire!\n\nMy eyebrows! And my porch!\n\nThanksgiving is the number one day of the year for home cooking fires.\n\nOne. Fry outside, far from the house, with the turkey fully thawed and dry.\n\nTwo. Small grease fire? Lid on, burner off. Never water. Anything bigger, get out and call nine one one.\n\nThree. After any fire damage, take photos and call your insurer before you throw anything out.\n\nIf Homie can figure it out, so can you.",
+ "audio_note": "Revid voice render was 39.84 s of voice; audio.m4a is trimmed at 40.4 s and sped up 1.15x with ffmpeg atempo (pitch kept), caption times divided by 1.15",
+ "audio_end": 35.53,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "THAW IT. FRY IT FAR AWAY.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 32.35,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 340,
+  "lines": [
+   "FRYING A TURKEY?",
+   "DON'T DO THIS."
+  ]
+ },
+ "captions": [
+  [
+   0.07,
+   "Thanksgiving turkey"
+  ],
+  [
+   1.32,
+   "straight from the"
+  ],
+  [
+   1.88,
+   "freezer"
+  ],
+  [
+   2.5,
+   "into the fryer"
+  ],
+  [
+   3.69,
+   "On the porch"
+  ],
+  [
+   4.66,
+   "What could go wrong?"
+  ],
+  [
+   5.98,
+   "Whoa!"
+  ],
+  [
+   6.61,
+   "Fire!"
+  ],
+  [
+   7.23,
+   "Fire!"
+  ],
+  [
+   7.93,
+   "My eyebrows!"
+  ],
+  [
+   8.9,
+   "And my porch!"
+  ],
+  [
+   10.23,
+   "Thanksgiving is"
+  ],
+  [
+   11.1,
+   "the number one day"
+  ],
+  [
+   11.93,
+   "of the year for"
+  ],
+  [
+   12.66,
+   "home cooking fires"
+  ],
+  [
+   14.26,
+   "One"
+  ],
+  [
+   14.89,
+   "Fry outside"
+  ],
+  [
+   15.93,
+   "far from the house"
+  ],
+  [
+   16.9,
+   "with the turkey"
+  ],
+  [
+   17.6,
+   "fully thawed and"
+  ],
+  [
+   18.43,
+   "dry"
+  ],
+  [
+   19.2,
+   "Two"
+  ],
+  [
+   19.83,
+   "Small grease fire?"
+  ],
+  [
+   21.01,
+   "Lid on"
+  ],
+  [
+   21.7,
+   "burner off"
+  ],
+  [
+   22.68,
+   "Never water"
+  ],
+  [
+   23.72,
+   "Anything bigger"
+  ],
+  [
+   24.7,
+   "get out and call"
+  ],
+  [
+   25.53,
+   "nine one one"
+  ],
+  [
+   26.82,
+   "Three"
+  ],
+  [
+   27.27,
+   "After any fire damage"
+  ],
+  [
+   28.8,
+   "take photos and"
+  ],
+  [
+   29.63,
+   "call your insurer"
+  ],
+  [
+   30.68,
+   "before you throw"
+  ],
+  [
+   31.37,
+   "anything out"
+  ],
+  [
+   32.35,
+   "If Homie can figure"
+  ],
+  [
+   33.25,
+   "it out"
+  ],
+  [
+   33.81,
+   "so can you"
+  ]
+ ],
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 3.69,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 3.69,
+   "end": 5.98,
+   "zoom": [
+    1.15,
+    1.22
+   ],
+   "focus": [
+    0.4,
+    0.42
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 5.98,
+   "end": 7.93,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.93,
+   "end": 10.23,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 10.23,
+   "end": 14.26,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 14.26,
+   "end": 19.2,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.55,
+    0.5
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 19.2,
+   "end": 23.72,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 23.72,
+   "end": 26.82,
+   "zoom": [
+    1.1,
+    1.18
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 26.82,
+   "end": 32.35,
+   "zoom": [
+    1.15,
+    1.2
+   ],
+   "focus": [
+    0.5,
+    0.68
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 32.35,
+   "end": 37.73,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  }
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.69,
+   "lines": [
+    "FRYING A TURKEY?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 1.88,
+   "end": 3.69,
+   "text": "STILL FROZEN!",
+   "color": "orange",
+   "x": 760,
+   "y": 420,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 3.69,
+   "end": 5.98,
+   "text": "ON THE PORCH?!",
+   "color": "red",
+   "x": 780,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 5.98,
+   "dur": 1.2,
+   "text": "FWOOSH!",
+   "x": 320,
+   "y": 1250
+  },
+  {
+   "type": "tag",
+   "start": 7.93,
+   "end": 10.23,
+   "text": "BYE BYE EYEBROWS",
+   "color": "orange",
+   "x": 330,
+   "y": 1120,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 10.280000000000001,
+   "end": 14.26,
+   "value": 1,
+   "prefix": "No. ",
+   "color": "red",
+   "count_secs": 0.6,
+   "labels": [
+    [
+     10.23,
+     "THANKSGIVING"
+    ],
+    [
+     11.1,
+     "DAY FOR COOKING FIRES"
+    ],
+    [
+     13.4,
+     "NFPA"
+    ]
+   ],
+   "y": 1300,
+   "count_from": 1
+  },
+  {
+   "type": "step",
+   "start": 14.26,
+   "end": 19.2,
+   "n": 1,
+   "text": "Fry far from the house",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 16.9,
+   "end": 19.2,
+   "text": "THAWED + DRY",
+   "color": "yellow",
+   "x": 300,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 19.2,
+   "end": 23.72,
+   "n": 2,
+   "text": "Lid on, burner off",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 22.68,
+   "end": 23.72,
+   "text": "NEVER WATER",
+   "color": "red",
+   "x": 330,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 24.7,
+   "end": 26.82,
+   "text": "GET OUT. CALL 911",
+   "color": "red",
+   "x": 330,
+   "y": 1150,
+   "rot": -3
+  },
+  {
+   "type": "step",
+   "start": 26.82,
+   "end": 30.68,
+   "n": 3,
+   "text": "Photos, then your insurer",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "check",
+   "start": 30.68,
+   "end": 32.35,
+   "text": "PHOTOS FIRST",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 32.35,
+   "end": 35.53,
+   "verb": "FIGURE IT OUT",
+   "y": 1300
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795536032987-gabhzwm6-homie-fixes-015-turkey-fryer-fire.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795536033718-yy8z2j2t-homie-fixes-015-cover.jpg"
+ },
+ "review_ts": "1795536059.064169"
+}
