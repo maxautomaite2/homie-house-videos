@@ -13,7 +13,7 @@
   "#thanksgiving",
   "#homeownertips"
  ],
- "status": "in_review",
+ "status": "posted",
  "revid_audio_project": "QORmvi314q9vOPeLXvTh",
  "set": "https://cdn.revid.ai/ai-gen/dGLwQPqE1.jpg",
  "sources": [
@@ -479,5 +479,13 @@
   "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795536032987-gabhzwm6-homie-fixes-015-turkey-fryer-fire.mp4",
   "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795536033718-yy8z2j2t-homie-fixes-015-cover.jpg"
  },
- "review_ts": "1795536059.064169"
+ "review_ts": "1795536059.064169",
+ "publish": {
+  "content_id": "1302a7a2-e55f-4419-850e-cb1fb12ccdcb",
+  "posted_at": "2026-11-25T13:36:00-05:00",
+  "instagram_post_id": "18361243597175250",
+  "youtube_url": "https://www.youtube.com/watch?v=fEcAaX8jfzE",
+  "tiktok_post_id": "7712179477647772929",
+  "tiktok": "published"
+ }
 }

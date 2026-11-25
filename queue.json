@@ -392,7 +392,7 @@
    "title": "Turkey Fryer Fire: Is It Covered?",
    "vertical": "home insurance",
    "verb": "FIGURE IT OUT",
-   "status": "in_review",
+   "status": "posted",
    "scheduled_for": "2026-11-25",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1795435551.398429",
@@ -403,13 +403,17 @@
     "Small grease fire: lid on, burner off, never water; anything bigger, get out and call 911",
     "After any fire damage, photograph everything and call your insurer before you throw anything out"
    ],
-   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-24 (NFPA: Thanksgiving is the peak day for home cooking fires). Produced 2026-11-24 (a day early, #19 already in review); one episode per day: publish at the first window on or after 2026-11-25 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-24 11:02am ET. Held on 2026-11-24 because episode 14 was posted that day (one episode per day): publish at the first window on or after 2026-11-25 (or the same day if Max or Aaron reply \"go today\" in the review thread)",
+   "note": "Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-24 (NFPA: Thanksgiving is the peak day for home cooking fires). Produced 2026-11-24 (a day early, #19 already in review); one episode per day: publish at the first window on or after 2026-11-25 after an approve in the review thread (or the same day if Max or Aaron reply \"go today\" in the review thread); Aaron approved in the review thread 2026-11-24 11:02am ET. Held on 2026-11-24 because episode 14 was posted that day (one episode per day): publish at the first window on or after 2026-11-25 (or the same day if Max or Aaron reply \"go today\" in the review thread). Published by the publish-approved run 2026-11-25 1:36pm ET to Instagram, TikTok and YouTube Shorts",
    "episode": "episodes/015-turkey-fryer-fire",
    "episode_number": 15,
    "review_ts": "1795536059.064169",
    "revid_content_id": "QORmvi314q9vOPeLXvTh",
    "publish_not_before": "2026-11-25",
-   "approved_by": "Aaron, Slack reply 'approve' on 2026-11-23"
+   "approved_by": "Aaron, Slack reply 'approve' on 2026-11-23",
+   "publish_content_id": "1302a7a2-e55f-4419-850e-cb1fb12ccdcb",
+   "instagram_post_id": "18361243597175250",
+   "youtube_url": "https://www.youtube.com/watch?v=fEcAaX8jfzE",
+   "tiktok_post_id": "7712179477647772929"
   },
   {
    "number": 22,
