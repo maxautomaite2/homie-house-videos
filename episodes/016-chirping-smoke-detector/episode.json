@@ -1,0 +1,470 @@
+{
+ "number": 16,
+ "concept_number": 3,
+ "slug": "homie-fixes-016-chirping-smoke-detector",
+ "series_label": "HOMIE FIXES #16",
+ "topic": "Chirping smoke detector",
+ "vertical": "fix-it",
+ "catchphrase_verb": "FIX IT",
+ "caption": "About 3 in 5 home fire deaths happen where there's no smoke alarm or one that doesn't work. Swap the battery, skip the broom.",
+ "hashtags": [
+  "#smokealarm",
+  "#firesafety",
+  "#homeownertips",
+  "#diyhomerepair"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "rRLQrGwUZSBvPDxq2Jxs",
+ "set": "https://cdn.revid.ai/ai-gen/-6LsTCG6M.jpg",
+ "sources": [
+  "https://nfpa92.nfpa.org/News-and-Research/Publications-and-media/Blogs-Landing-Page/NFPA-Today/Blog-Posts/2021/03/08/Almost-three-out-of-five-home-fire-deaths-were-caused-by-fires-with-no-working-smoke-alarms (NFPA Today, 2021: almost three out of five home fire deaths were caused by fires with no working smoke alarms)",
+  "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/smoke-alarms-in-us-home-fires (NFPA Smoke Alarms in U.S. Home Fires report)",
+  "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms/installing-and-maintaining-smoke-alarms (NFPA: test alarms monthly, replace all smoke alarms when they are 10 years old)"
+ ],
+ "stills_media": {
+  "s1.jpg": "https://cdn.revid.ai/ai-gen/6v_UvZ6TY.jpg",
+  "s2.jpg": "https://cdn.revid.ai/ai-gen/lpccqziDg.jpg",
+  "s3.jpg": "https://cdn.revid.ai/ai-gen/0Nbj0v6uL.jpg",
+  "s4.jpg": "https://cdn.revid.ai/ai-gen/mYhJWCVEp.jpg",
+  "s5.jpg": "https://cdn.revid.ai/ai-gen/qcsRzA9tn.jpg",
+  "s6.jpg": "https://cdn.revid.ai/ai-gen/VrxqD7VUL.jpg",
+  "s7.jpg": "https://cdn.revid.ai/ai-gen/RYcoJ9yhu.jpg"
+ },
+ "script": "Big Thanksgiving dinner. And the smoke alarm starts chirping. Again.\n\nGot you, you little bird!\n\nOh no. Right in the gravy.\n\nAbout three in five home fire deaths happen where there's no smoke alarm, or one that doesn't work.\n\nOne. That chirp means low battery. Twist it off and swap the battery.\n\nTwo. Hold the test button until it screams.\n\nThree. Check the date on the back. Ten years old? Replace the whole alarm.\n\nIf Homie can fix it, so can you.",
+ "audio_end": 33.1,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "YOUR HOUSE IS NEXT.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 29.76,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 360,
+  "lines": [
+   "SMOKE ALARM CHIRPING?",
+   "DON'T DO THIS."
+  ]
+ },
+ "captions": [
+  [
+   0.16,
+   "Big Thanksgiving"
+  ],
+  [
+   1.36,
+   "dinner"
+  ],
+  [
+   2.16,
+   "And the smoke alarm"
+  ],
+  [
+   3.2,
+   "starts chirping"
+  ],
+  [
+   4.4,
+   "Again"
+  ],
+  [
+   5.44,
+   "Got you"
+  ],
+  [
+   5.96,
+   "you little bird!"
+  ],
+  [
+   7.12,
+   "Oh no"
+  ],
+  [
+   8.24,
+   "Right in the gravy"
+  ],
+  [
+   9.92,
+   "About three in five"
+  ],
+  [
+   11.24,
+   "home fire deaths"
+  ],
+  [
+   12.16,
+   "happen where there's"
+  ],
+  [
+   13.04,
+   "no smoke alarm"
+  ],
+  [
+   14.28,
+   "or one that doesn't"
+  ],
+  [
+   15.2,
+   "work"
+  ],
+  [
+   16.16,
+   "One"
+  ],
+  [
+   16.88,
+   "That chirp means"
+  ],
+  [
+   17.92,
+   "low battery"
+  ],
+  [
+   19.0,
+   "Twist it off and"
+  ],
+  [
+   19.92,
+   "swap the battery"
+  ],
+  [
+   21.36,
+   "Two"
+  ],
+  [
+   21.92,
+   "Hold the test button"
+  ],
+  [
+   23.04,
+   "until it screams"
+  ],
+  [
+   24.64,
+   "Three"
+  ],
+  [
+   25.36,
+   "Check the date on"
+  ],
+  [
+   26.2,
+   "the back"
+  ],
+  [
+   27.04,
+   "Ten years old?"
+  ],
+  [
+   28.08,
+   "Replace the whole"
+  ],
+  [
+   28.96,
+   "alarm"
+  ],
+  [
+   29.76,
+   "If Homie can fix"
+  ],
+  [
+   30.72,
+   "it"
+  ],
+  [
+   31.12,
+   "so can you"
+  ]
+ ],
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 2.16,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 2.16,
+   "end": 5.44,
+   "zoom": [
+    1.15,
+    1.22
+   ],
+   "focus": [
+    0.6,
+    0.3
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 5.44,
+   "end": 7.12,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.35
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.12,
+   "end": 9.92,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 9.92,
+   "end": 13.04,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 13.04,
+   "end": 16.16,
+   "zoom": [
+    1.1,
+    1.16
+   ],
+   "focus": [
+    0.55,
+    0.35
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 16.16,
+   "end": 21.36,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 21.36,
+   "end": 24.64,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.55,
+    0.3
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 24.64,
+   "end": 29.76,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.5
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 29.76,
+   "end": 35.3,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  }
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 4.4,
+   "lines": [
+    "SMOKE ALARM CHIRPING?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 3.2,
+   "end": 5.44,
+   "text": "CHIRP!",
+   "color": "orange",
+   "x": 760,
+   "y": 300,
+   "rot": -5
+  },
+  {
+   "type": "impact",
+   "at": 6.2,
+   "dur": 1.0,
+   "text": "THWACK!",
+   "x": 760,
+   "y": 460
+  },
+  {
+   "type": "impact",
+   "at": 7.2,
+   "dur": 1.0,
+   "text": "SPLOOSH!",
+   "x": 760,
+   "y": 1150
+  },
+  {
+   "type": "tag",
+   "start": 8.24,
+   "end": 9.92,
+   "text": "GRAVY ALARM",
+   "color": "red",
+   "x": 330,
+   "y": 1150,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 9.97,
+   "end": 16.16,
+   "value": 3,
+   "suffix": " IN 5",
+   "color": "red",
+   "count_secs": 0.8,
+   "labels": [
+    [
+     9.92,
+     "HOME FIRE DEATHS"
+    ],
+    [
+     13.04,
+     "NO ALARM OR A DEAD ONE"
+    ],
+    [
+     15.2,
+     "NFPA"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "type": "step",
+   "start": 16.16,
+   "end": 21.36,
+   "n": 1,
+   "text": "Swap the battery",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 16.88,
+   "end": 21.36,
+   "text": "CHIRP = LOW BATTERY",
+   "color": "yellow",
+   "x": 700,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 21.36,
+   "end": 24.64,
+   "n": 2,
+   "text": "Hold the test button",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 23.04,
+   "end": 24.64,
+   "text": "BEEEEEP!",
+   "color": "red",
+   "x": 300,
+   "y": 520,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 24.64,
+   "end": 28.08,
+   "n": 3,
+   "text": "10 years old? Replace it",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 25.36,
+   "end": 28.08,
+   "text": "CHECK THE DATE",
+   "color": "yellow",
+   "x": 760,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "check",
+   "start": 28.08,
+   "end": 29.76,
+   "text": "NO MORE CHIRP",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 29.76,
+   "end": 33.1,
+   "verb": "FIX IT",
+   "y": 1300
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795708874118-cijd8pun-homie-fixes-016-chirping-smoke-detector.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795708874851-02fnaoe3-homie-fixes-016-cover.jpg"
+ },
+ "review_ts": "1795708896.061349",
+ "credits": {
+  "before": 2075,
+  "after": 2007,
+  "used": 68
+ }
+}

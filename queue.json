@@ -20,7 +20,7 @@
    "number": 3,
    "title": "Chirping Smoke Detector",
    "verb": "FIX IT",
-   "status": "approved",
+   "status": "in_review",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1795435551.398429",
    "gag": "Mid Thanksgiving dinner the detector chirps, Homie swats it with a broom and it lands in the gravy",
@@ -30,9 +30,14 @@
     "Hold the test button until it screams",
     "Check the date on the back and replace the unit at 10 years"
    ],
-   "note": "Replaced on 2026-11-12 by vertical topics (Max); re-propose only as one of the max 2 fix-it slots; Re-proposed from backlog. Weekly concepts posted 2026-11-23; stat to be fact-checked before production",
+   "note": "Replaced on 2026-11-12 by vertical topics (Max); re-propose only as one of the max 2 fix-it slots; Re-proposed from backlog. Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-26 (NFPA: almost three out of five home fire deaths in fires with no working smoke alarms). Produced 2026-11-26 and posted for review; publish at the next window after an approve in the review thread",
    "vertical": "fix-it",
-   "scheduled_for": "2026-11-26"
+   "scheduled_for": "2026-11-26",
+   "episode": "episodes/016-chirping-smoke-detector",
+   "episode_number": 16,
+   "review_ts": "1795708896.061349",
+   "revid_content_id": "rRLQrGwUZSBvPDxq2Jxs",
+   "approved_by": "Aaron, Slack reply 'approve' on 2026-11-23"
   },
   {
    "number": 4,
