@@ -13,7 +13,7 @@
   "#homeownertips",
   "#diyhomerepair"
  ],
- "status": "in_review",
+ "status": "posted",
  "revid_audio_project": "rRLQrGwUZSBvPDxq2Jxs",
  "set": "https://cdn.revid.ai/ai-gen/-6LsTCG6M.jpg",
  "sources": [
@@ -466,5 +466,13 @@
   "before": 2075,
   "after": 2007,
   "used": 68
+ },
+ "publish": {
+  "content_id": "c41c1a7f-10df-4e8c-bc5b-95842ae9a0e0",
+  "posted_at": "2026-11-26T13:36:00-05:00",
+  "instagram_post_id": "18126278767953186",
+  "youtube_url": "https://www.youtube.com/watch?v=uY-_x4NlktM",
+  "tiktok_post_id": "7712550544669199636",
+  "tiktok": "published"
  }
 }
