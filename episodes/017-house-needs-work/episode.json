@@ -1,0 +1,531 @@
+{
+ "number": 17,
+ "concept_number": 8,
+ "slug": "homie-fixes-017-house-needs-work",
+ "series_label": "HOMIE FIXES #17",
+ "topic": "Selling a house that needs work",
+ "vertical": "selling a house (as-is)",
+ "catchphrase_verb": "SELL IT",
+ "caption": "About 3 in 10 home sales are all cash. A picture frame is not a repair plan.",
+ "hashtags": [
+  "#sellmyhouse",
+  "#homeseller",
+  "#realestatetips",
+  "#homeowner"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "N5AVTe2xLDdPlTfloCwA",
+ "set": "https://cdn.revid.ai/ai-gen/Uq6gqP03p.jpg",
+ "sources": [
+  "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report (NAR, Nov 12 2026, October 2026 existing-home sales: cash sales accounted for 29% of transactions, unchanged from October 2025)"
+ ],
+ "stills_media": {
+  "s1.jpg": "https://cdn.revid.ai/ai-gen/B6LPugKrL.jpg",
+  "s2.jpg": "https://cdn.revid.ai/ai-gen/CZkaLYMw1.jpg",
+  "s3.jpg": "https://cdn.revid.ai/ai-gen/WlPQvxPEP.jpg",
+  "s4.jpg": "https://cdn.revid.ai/ai-gen/JQe4FWBcF.jpg",
+  "s5.jpg": "https://cdn.revid.ai/ai-gen/WvL-E8mwi.jpg",
+  "s6.jpg": "https://cdn.revid.ai/ai-gen/-GMwDpTUL.jpg",
+  "s7.jpg": "https://cdn.revid.ai/ai-gen/Puxo8TySE.jpg",
+  "s8.jpg": "https://cdn.revid.ai/ai-gen/3bM3_ix7h.jpg"
+ },
+ "script": "Showing day! Homie's selling the house. One tiny problem.\n\nEasy fix. Hang the family photo right over the hole!\n\nThe buyer walks in. The photo slips. Right onto his foot.\n\nOw! And now he sees the hole.\n\nAbout three in ten existing home sales are all cash, says the National Association of Realtors.\n\nOne. Get a repair estimate or an inspection, so you know the real number.\n\nTwo. Compare what you actually keep: an as-is cash offer, or listing after repairs, commissions and months of payments.\n\nThree. Disclose known problems the way your state requires.\n\nIf Homie can sell it, so can you.",
+ "audio_note": "Revid voice render was 42.0 s of voice; audio.m4a is trimmed at 42.6 s and sped up 1.2x with ffmpeg atempo (pitch kept), caption times divided by 1.2",
+ "audio_end": 35.87,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "YOUR HOUSE IS NEXT.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 33.17,
+ "cover": {
+  "still": "s4.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 360,
+  "lines": [
+   "HOUSE NEEDS WORK?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 2.47,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 2.47,
+   "end": 3.87,
+   "zoom": [
+    1.12,
+    1.2
+   ],
+   "focus": [
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 3.87,
+   "end": 8.17,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.35
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 8.17,
+   "end": 10.53,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "focus": [
+    0.55,
+    0.6
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 10.53,
+   "end": 13.07,
+   "zoom": [
+    1.04,
+    1.12
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 13.07,
+   "end": 18.33,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 18.33,
+   "end": 22.4,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 22.4,
+   "end": 26.13,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.4,
+    0.45
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 26.13,
+   "end": 29.83,
+   "zoom": [
+    1.1,
+    1.16
+   ],
+   "focus": [
+    0.35,
+    0.4
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 29.83,
+   "end": 33.17,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.4
+   ]
+  },
+  {
+   "still": "s8.jpg",
+   "start": 33.17,
+   "end": 38.07,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.13,
+   "Showing day!"
+  ],
+  [
+   1.0,
+   "Homie's selling"
+  ],
+  [
+   1.63,
+   "the house"
+  ],
+  [
+   2.47,
+   "One tiny problem"
+  ],
+  [
+   3.87,
+   "Easy fix"
+  ],
+  [
+   4.83,
+   "Hang the family"
+  ],
+  [
+   5.4,
+   "photo right over"
+  ],
+  [
+   6.23,
+   "the hole!"
+  ],
+  [
+   6.97,
+   "The buyer walks"
+  ],
+  [
+   7.73,
+   "in"
+  ],
+  [
+   8.17,
+   "The photo slips"
+  ],
+  [
+   9.33,
+   "Right onto his foot"
+  ],
+  [
+   10.53,
+   "Ow!"
+  ],
+  [
+   11.2,
+   "And now he sees"
+  ],
+  [
+   12.13,
+   "the hole"
+  ],
+  [
+   13.07,
+   "About three in ten"
+  ],
+  [
+   14.0,
+   "existing home sales"
+  ],
+  [
+   15.0,
+   "are all cash"
+  ],
+  [
+   16.0,
+   "says the National"
+  ],
+  [
+   16.9,
+   "Association of Realtors"
+  ],
+  [
+   18.33,
+   "One"
+  ],
+  [
+   18.93,
+   "Get a repair estimate"
+  ],
+  [
+   19.93,
+   "or an inspection"
+  ],
+  [
+   20.87,
+   "so you know the"
+  ],
+  [
+   21.4,
+   "real number"
+  ],
+  [
+   22.4,
+   "Two"
+  ],
+  [
+   23.0,
+   "Compare what you"
+  ],
+  [
+   23.73,
+   "actually keep: an"
+  ],
+  [
+   24.87,
+   "as-is cash offer"
+  ],
+  [
+   26.13,
+   "or listing after"
+  ],
+  [
+   27.17,
+   "repairs"
+  ],
+  [
+   27.73,
+   "commissions and"
+  ],
+  [
+   28.47,
+   "months of payments"
+  ],
+  [
+   29.83,
+   "Three"
+  ],
+  [
+   30.33,
+   "Disclose known problems"
+  ],
+  [
+   31.57,
+   "the way your state"
+  ],
+  [
+   32.53,
+   "requires"
+  ],
+  [
+   33.17,
+   "If Homie can sell"
+  ],
+  [
+   33.93,
+   "it"
+  ],
+  [
+   34.27,
+   "so can you"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 3.87,
+   "lines": [
+    "HOUSE NEEDS WORK?",
+    "DON'T DO THIS."
+   ],
+   "y": 1300
+  },
+  {
+   "type": "tag",
+   "start": 2.47,
+   "end": 3.87,
+   "text": "ONE TINY HOLE",
+   "color": "orange",
+   "x": 760,
+   "y": 560,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 4.83,
+   "end": 8.17,
+   "text": "GENIUS!",
+   "color": "yellow",
+   "x": 780,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 9.33,
+   "dur": 1.0,
+   "text": "THUD!",
+   "x": 640,
+   "y": 1100
+  },
+  {
+   "type": "impact",
+   "at": 10.53,
+   "dur": 1.0,
+   "text": "OW!",
+   "x": 760,
+   "y": 450
+  },
+  {
+   "type": "tag",
+   "start": 11.2,
+   "end": 13.07,
+   "text": "HOLE SPOTTED",
+   "color": "red",
+   "x": 760,
+   "y": 1250,
+   "rot": -4
+  },
+  {
+   "type": "counter",
+   "start": 13.12,
+   "end": 18.33,
+   "value": 3,
+   "suffix": " IN 10",
+   "color": "teal",
+   "count_secs": 0.8,
+   "labels": [
+    [
+     13.07,
+     "HOME SALES ARE ALL CASH"
+    ],
+    [
+     16.0,
+     "SOURCE: NAR"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "type": "step",
+   "start": 18.33,
+   "end": 22.4,
+   "n": 1,
+   "text": "Get a repair estimate",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 19.93,
+   "end": 22.4,
+   "text": "OR AN INSPECTION",
+   "color": "yellow",
+   "x": 330,
+   "y": 380,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 22.4,
+   "end": 29.83,
+   "n": 2,
+   "text": "Compare what you keep",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 24.87,
+   "end": 29.83,
+   "text": "CASH OFFER AS-IS",
+   "color": "orange",
+   "x": 760,
+   "y": 380,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 26.13,
+   "end": 29.83,
+   "text": "VS LISTING + REPAIRS",
+   "color": "yellow",
+   "x": 700,
+   "y": 520,
+   "rot": 3
+  },
+  {
+   "type": "step",
+   "start": 29.83,
+   "end": 32.53,
+   "n": 3,
+   "text": "Disclose known problems",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 31.57,
+   "end": 32.53,
+   "text": "STATE RULES",
+   "color": "yellow",
+   "x": 760,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "check",
+   "start": 32.53,
+   "end": 33.17,
+   "text": "NO SURPRISES",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 33.17,
+   "end": 35.87,
+   "verb": "SELL IT",
+   "y": 1300
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795795438383-zspyk4in-homie-fixes-017-house-needs-work.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795795439152-4zz340kx-homie-fixes-017-cover.jpg"
+ },
+ "review_ts": "1795795464.774329",
+ "credits": {
+  "before": 2007,
+  "after": 1925,
+  "used": 82
+ }
+}

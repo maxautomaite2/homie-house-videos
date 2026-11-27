@@ -112,10 +112,10 @@
    "number": 8,
    "title": "Selling a House That Needs Work",
    "verb": "SELL IT",
-   "status": "approved",
+   "status": "in_review",
    "slack_channel": "C0CGK7SHV0S",
    "slack_thread_ts": "1795435551.398429",
-   "note": "Not in the Nov 12 to 15 test batch; re-propose in a later weekly list; Re-proposed from backlog. Weekly concepts posted 2026-11-23; stat to be fact-checked before production",
+   "note": "Not in the Nov 12 to 15 test batch; re-propose in a later weekly list; Re-proposed from backlog. Weekly concepts posted 2026-11-23; stat to be fact-checked before production; stat fact-checked 2026-11-27 (NAR October 2026 existing-home sales release: cash sales 29% of transactions). Produced 2026-11-27 and posted for review; publish at the next window after an approve in the review thread",
    "vertical": "selling a house (as-is)",
    "scheduled_for": "2026-11-27",
    "gag": "For the showing Homie hangs a family photo over a hole in the wall, it falls on the buyer's foot",
@@ -124,7 +124,13 @@
     "Get a repair estimate or a pre-listing inspection so you know the real number",
     "Compare what you actually keep: an as-is cash offer vs listing after repairs, commissions and months of payments",
     "Disclose known problems the way your state requires"
-   ]
+   ],
+   "episode": "episodes/017-house-needs-work",
+   "episode_number": 17,
+   "review_ts": "1795795464.774329",
+   "revid_content_id": "N5AVTe2xLDdPlTfloCwA",
+   "approved_by": "Aaron, Slack reply 'approve' on 2026-11-23",
+   "publish_not_before": "2026-11-27"
   },
   {
    "number": 9,
