@@ -13,7 +13,7 @@
   "#realestatetips",
   "#homeowner"
  ],
- "status": "in_review",
+ "status": "posted",
  "revid_audio_project": "N5AVTe2xLDdPlTfloCwA",
  "set": "https://cdn.revid.ai/ai-gen/Uq6gqP03p.jpg",
  "sources": [
@@ -527,5 +527,13 @@
   "before": 2007,
   "after": 1925,
   "used": 82
+ },
+ "publish": {
+  "content_id": "d15e8992-3ff6-46cb-9dba-f19f02204cd5",
+  "posted_at": "2026-11-27T13:37:00-05:00",
+  "instagram_post_id": "17884191702544380",
+  "youtube_url": "https://www.youtube.com/watch?v=HCUb1KzfPfo",
+  "tiktok_post_id": "7712921623921184007",
+  "tiktok": "published"
  }
 }
