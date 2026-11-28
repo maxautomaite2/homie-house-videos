@@ -1,0 +1,520 @@
+{
+ "number": 18,
+ "concept_number": 22,
+ "slug": "homie-fixes-018-lights-vs-gutters",
+ "series_label": "HOMIE FIXES #18",
+ "topic": "Christmas lights vs gutters",
+ "vertical": "gutters",
+ "catchphrase_verb": "HANDLE IT",
+ "caption": "About 160 holiday decorating injuries a day end up in the ER. Staples belong in paper, not your gutter.",
+ "hashtags": [
+  "#christmaslights",
+  "#guttercleaning",
+  "#holidaydecorating",
+  "#homeowner"
+ ],
+ "status": "in_review",
+ "revid_audio_project": "s7mZV7uusxo642JZe49V",
+ "set": "https://cdn.revid.ai/ai-gen/U1I7W8YbC.jpg",
+ "sources": [
+  "https://www.cpsc.gov/Newsroom/News-Releases/2025/Happy-Holidays-Start-with-Safety-CPSC-Urges-Families-to-Cook-Decorate-and-Select-Toys-with-Care-This-Season (CPSC release 25-049, Nov 19 2024: about 160 Christmas decorating-related injuries each day during the holiday season, nearly half involving falls; about 14,900 treated in ERs in the 2023 season, Nov 1 to Jan 31). Concept said 'in November and December'; the newest CPSC figure averages over Nov to Jan, so the script says 'a day' without the months."
+ ],
+ "stills_media": {
+  "s1.jpg": "https://cdn.revid.ai/ai-gen/md5qN2p1B.jpg",
+  "s2.jpg": "https://cdn.revid.ai/ai-gen/RJ93jDvT6.jpg",
+  "s3.jpg": "https://cdn.revid.ai/ai-gen/Aj4gs699N.jpg",
+  "s4.jpg": "https://cdn.revid.ai/ai-gen/w8EALs19D.jpg",
+  "s5.jpg": "https://cdn.revid.ai/ai-gen/-rjjIHLB6.jpg",
+  "s6.jpg": "https://cdn.revid.ai/ai-gen/Wtgr7vdhQ.jpg",
+  "s7.jpg": "https://cdn.revid.ai/ai-gen/Kgvr8Fk9E.jpg",
+  "s8.jpg": "https://cdn.revid.ai/ai-gen/x-z-5Kkqf.jpg"
+ },
+ "script": "Christmas lights! Homie's got a staple gun. Chunk, chunk, right into the gutter!\n\nNow one little tug to straighten them out.\n\nRiiip! There goes the gutter. Whoops.\n\nAbout one hundred sixty holiday decorating injuries a day end up in the E R, and nearly half are falls.\n\nOne. Clean the gutters before you hang anything.\n\nTwo. Use plastic gutter clips. No nails, no staples.\n\nThree. Ladder on firm, level ground, someone holding it, and never lean past the rails.\n\nIf Homie can handle it, so can you.",
+ "audio_note": "Revid voice render was 36.7 s of voice; audio.m4a is trimmed at 37.3 s and sped up 1.1x with ffmpeg atempo (pitch kept), caption times divided by 1.1",
+ "audio_end": 34.33,
+ "end_card": {
+  "seconds": 2.2,
+  "line1": "SAVE THIS.",
+  "line2": "YOUR HOUSE IS NEXT.",
+  "handle": "@homiethehouseguy"
+ },
+ "captions_stop": 31.2,
+ "cover": {
+  "still": "s3.jpg",
+  "zoom": 1.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "shift_down": 320,
+  "lines": [
+   "HANGING LIGHTS?",
+   "DON'T DO THIS."
+  ]
+ },
+ "shots": [
+  {
+   "still": "s1.jpg",
+   "start": 0.0,
+   "end": 2.91,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.45,
+    0.4
+   ]
+  },
+  {
+   "still": "s1.jpg",
+   "start": 2.91,
+   "end": 5.31,
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "focus": [
+    0.5,
+    0.32
+   ]
+  },
+  {
+   "still": "s2.jpg",
+   "start": 5.31,
+   "end": 7.64,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  },
+  {
+   "still": "s3.jpg",
+   "start": 7.64,
+   "end": 10.91,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.55,
+    0.45
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 10.91,
+   "end": 14.47,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.6,
+    0.35
+   ]
+  },
+  {
+   "still": "s4.jpg",
+   "start": 14.47,
+   "end": 17.82,
+   "zoom": [
+    1.12,
+    1.2
+   ],
+   "focus": [
+    0.65,
+    0.3
+   ]
+  },
+  {
+   "still": "s5.jpg",
+   "start": 17.82,
+   "end": 21.16,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.4,
+    0.35
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 21.16,
+   "end": 25.38,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.45,
+    0.3
+   ]
+  },
+  {
+   "still": "s7.jpg",
+   "start": 25.38,
+   "end": 29.24,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "focus": [
+    0.55,
+    0.5
+   ]
+  },
+  {
+   "still": "s6.jpg",
+   "start": 29.24,
+   "end": 31.2,
+   "zoom": [
+    1.1,
+    1.16
+   ],
+   "focus": [
+    0.42,
+    0.35
+   ]
+  },
+  {
+   "still": "s8.jpg",
+   "start": 31.2,
+   "end": 36.53,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "focus": [
+    0.5,
+    0.45
+   ]
+  }
+ ],
+ "captions": [
+  [
+   0.07,
+   "Christmas lights!"
+  ],
+  [
+   1.24,
+   "Homie's got a staple"
+  ],
+  [
+   2.4,
+   "gun"
+  ],
+  [
+   2.91,
+   "Chunk"
+  ],
+  [
+   3.35,
+   "chunk"
+  ],
+  [
+   3.93,
+   "right into the gutter!"
+  ],
+  [
+   5.31,
+   "Now one little tug"
+  ],
+  [
+   6.33,
+   "to straighten them"
+  ],
+  [
+   7.05,
+   "out"
+  ],
+  [
+   7.64,
+   "Riiip!"
+  ],
+  [
+   8.51,
+   "There goes the gutter"
+  ],
+  [
+   9.89,
+   "Whoops"
+  ],
+  [
+   10.91,
+   "About one hundred"
+  ],
+  [
+   11.85,
+   "sixty holiday decorating"
+  ],
+  [
+   13.24,
+   "injuries a day end"
+  ],
+  [
+   14.47,
+   "up in the ER"
+  ],
+  [
+   15.64,
+   "and nearly half"
+  ],
+  [
+   16.51,
+   "are falls"
+  ],
+  [
+   17.82,
+   "One"
+  ],
+  [
+   18.47,
+   "Clean the gutters"
+  ],
+  [
+   19.27,
+   "before you hang"
+  ],
+  [
+   20.29,
+   "anything"
+  ],
+  [
+   21.16,
+   "Two"
+  ],
+  [
+   21.82,
+   "Use plastic gutter"
+  ],
+  [
+   22.91,
+   "clips"
+  ],
+  [
+   23.49,
+   "No nails"
+  ],
+  [
+   24.29,
+   "no staples"
+  ],
+  [
+   25.38,
+   "Three"
+  ],
+  [
+   26.11,
+   "Ladder on firm"
+  ],
+  [
+   27.27,
+   "level ground"
+  ],
+  [
+   28.29,
+   "someone holding"
+  ],
+  [
+   28.87,
+   "it"
+  ],
+  [
+   29.24,
+   "and never lean past"
+  ],
+  [
+   30.4,
+   "the rails"
+  ],
+  [
+   31.2,
+   "If Homie can handle"
+  ],
+  [
+   32.07,
+   "it"
+  ],
+  [
+   32.51,
+   "so can you"
+  ]
+ ],
+ "overlays": [
+  {
+   "type": "hook",
+   "start": 0.2,
+   "end": 2.91,
+   "lines": [
+    "HANGING LIGHTS?",
+    "DON'T DO THIS."
+   ],
+   "y": 1250
+  },
+  {
+   "type": "tag",
+   "start": 2.91,
+   "end": 5.31,
+   "text": "CHUNK! CHUNK!",
+   "color": "orange",
+   "x": 760,
+   "y": 1000,
+   "rot": -5
+  },
+  {
+   "type": "tag",
+   "start": 5.31,
+   "end": 7.64,
+   "text": "ONE LITTLE TUG",
+   "color": "yellow",
+   "x": 320,
+   "y": 420,
+   "rot": -4
+  },
+  {
+   "type": "impact",
+   "at": 7.64,
+   "dur": 1.2,
+   "text": "RIIIP!",
+   "x": 760,
+   "y": 430
+  },
+  {
+   "type": "tag",
+   "start": 9.89,
+   "end": 10.91,
+   "text": "WHOOPS!",
+   "color": "red",
+   "x": 300,
+   "y": 420,
+   "rot": -5
+  },
+  {
+   "type": "counter",
+   "start": 10.96,
+   "end": 17.82,
+   "value": 160,
+   "suffix": " A DAY",
+   "color": "red",
+   "count_secs": 1.2,
+   "labels": [
+    [
+     10.91,
+     "DECORATING INJURIES"
+    ],
+    [
+     14.47,
+     "END UP IN THE ER"
+    ],
+    [
+     15.64,
+     "NEARLY HALF ARE FALLS"
+    ],
+    [
+     16.8,
+     "SOURCE: CPSC"
+    ]
+   ],
+   "y": 1230
+  },
+  {
+   "type": "step",
+   "start": 17.82,
+   "end": 21.16,
+   "n": 1,
+   "text": "Clean the gutters first",
+   "from": "left",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 19.27,
+   "end": 21.16,
+   "text": "BEFORE YOU HANG",
+   "color": "yellow",
+   "x": 760,
+   "y": 860,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 21.16,
+   "end": 25.38,
+   "n": 2,
+   "text": "Plastic gutter clips",
+   "from": "right",
+   "y": 1230
+  },
+  {
+   "type": "tag",
+   "start": 23.49,
+   "end": 25.38,
+   "text": "NO STAPLES!",
+   "color": "red",
+   "x": 780,
+   "y": 860,
+   "rot": -4
+  },
+  {
+   "type": "step",
+   "start": 25.38,
+   "end": 30.4,
+   "n": 3,
+   "text": "Firm, level ground",
+   "from": "left",
+   "y": 330
+  },
+  {
+   "type": "tag",
+   "start": 28.29,
+   "end": 29.24,
+   "text": "SOMEONE HOLDS IT",
+   "color": "yellow",
+   "x": 330,
+   "y": 640,
+   "rot": -4
+  },
+  {
+   "type": "tag",
+   "start": 29.24,
+   "end": 30.4,
+   "text": "STAY INSIDE THE RAILS",
+   "color": "orange",
+   "x": 560,
+   "y": 1150,
+   "rot": -3
+  },
+  {
+   "type": "check",
+   "start": 30.4,
+   "end": 31.2,
+   "text": "GUTTER SAVED",
+   "y": 1230
+  },
+  {
+   "type": "catchphrase",
+   "start": 31.2,
+   "end": 34.33,
+   "verb": "HANDLE IT",
+   "y": 500
+  }
+ ],
+ "uploads": {
+  "video_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795881969601-5lbn4g1v-homie-fixes-018-lights-vs-gutters.mp4",
+  "cover_url": "https://cdn.revid.ai/uploads/api/4JOD0vqFpw1oiwjCIcku/1795881970197-zjv89tx9-homie-fixes-018-cover.jpg"
+ },
+ "review_ts": "1795881992.998899",
+ "credits": {
+  "before": 1925,
+  "after": 1825,
+  "used": 100
+ },
+ "stills_note": "First pass of 8 stills came out with a fully drawn cartoon background; s1 to s7 regenerated with a realistic-photo background prompt (15 stills total). s8 kept from the first pass. s7 shows a second ladder in the background, accepted (2 tries max)."
+}
